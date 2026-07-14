@@ -8,6 +8,9 @@ const withBundleAnalyzer = createBundleAnalyzer({
 const appBaseUrl = process.env.NEXT_PUBLIC_APP_BASE_URL;
 
 function createAppUrl(subpath: string) {
+  if (!appBaseUrl) {
+    return undefined;
+  }
   const url = new URL(subpath, appBaseUrl);
   return url.href;
 }
@@ -53,6 +56,23 @@ const nextConfig: NextConfig = {
     ignoreBuildErrors: true,
   },
   async redirects() {
+    const appRedirects = [
+      { source: "/p/:path*", destination: createAppUrl("/p/:path*") },
+      { source: "/invite/:path*", destination: createAppUrl("/invite/:path*") },
+      { source: "/admin/:path*", destination: createAppUrl("/admin/:path*") },
+      { source: "/profile", destination: createAppUrl("/profile") },
+      { source: "/login", destination: createAppUrl("/login") },
+      { source: "/new", destination: createAppUrl("/new") },
+      { source: "/register", destination: createAppUrl("/register") },
+      {
+        source: "/buy-license/:product",
+        destination: createAppUrl("/api/stripe/buy-license?product=:product"),
+        permanent: false,
+      },
+    ]
+      .filter((redirect) => redirect.destination !== undefined)
+      .map((redirect) => ({ permanent: true, ...redirect }));
+
     return [
       {
         source: "/support",
@@ -65,46 +85,7 @@ const nextConfig: NextConfig = {
         destination: "https://m.do.co/c/f91efc9c9e50",
         permanent: true,
       },
-      {
-        source: "/p/:path*",
-        destination: createAppUrl("/p/:path*"),
-        permanent: true,
-      },
-      {
-        source: "/invite/:path*",
-        destination: createAppUrl("/invite/:path*"),
-        permanent: true,
-      },
-      {
-        source: "/admin/:path*",
-        destination: createAppUrl("/admin/:path*"),
-        permanent: true,
-      },
-      {
-        source: "/profile",
-        destination: createAppUrl("/profile"),
-        permanent: true,
-      },
-      {
-        source: "/login",
-        destination: createAppUrl("/login"),
-        permanent: true,
-      },
-      {
-        source: "/new",
-        destination: createAppUrl("/new"),
-        permanent: true,
-      },
-      {
-        source: "/register",
-        destination: createAppUrl("/register"),
-        permanent: true,
-      },
-      {
-        source: "/buy-license/:product",
-        destination: createAppUrl("/api/stripe/buy-license?product=:product"),
-        permanent: false,
-      },
+      ...appRedirects,
       {
         source: "/S17JJrRWc",
         destination: "/",
