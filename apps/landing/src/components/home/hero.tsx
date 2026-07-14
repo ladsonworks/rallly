@@ -131,7 +131,7 @@ export const MarketingHero = ({
             <Trans
               ns="home"
               i18nKey="hint"
-              defaults="It's free! No login required."
+              defaults="It's free! Sign in to get started."
             />
           </p>
         </div>

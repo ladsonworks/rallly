@@ -61,7 +61,7 @@ export async function Bonus(props: { locale: string }) {
           t={t}
           ns="home"
           i18nKey="noLoginRequired"
-          defaults="No login required"
+          defaults="Free to use"
         />
       </BonusItem>
     </div>
