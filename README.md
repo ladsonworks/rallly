@@ -49,7 +49,7 @@ Prefer to run your own instance? Rallly ships as a Docker image and can be self-
 
 See the [self-hosting docs](https://support.rallly.co/self-hosting) for installation and [configuration options](https://support.rallly.co/self-hosting/configuration-options).
 
-## 🛠️ Built with
+##  Built with
 
 [Next.js](https://github.com/vercel/next.js/) · [Prisma](https://github.com/prisma/prisma) · [tRPC](https://github.com/trpc/trpc) · [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 
