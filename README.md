@@ -61,7 +61,7 @@ Contributions are welcome! Have a look at the [contributing guide](CONTRIBUTING.
 - 🔐 **Security** — Found a vulnerability? See our [security policy](SECURITY.md)
 - 🤝 **Community** — Please read our [Code of Conduct](CODE_OF_CONDUCT.md)
 
-## 📜 License
+## License
 
 Rallly is open-source under the GNU Affero General Public License Version 3 (AGPLv3) or any later version. See [LICENSE](LICENSE) for more detail.
 
