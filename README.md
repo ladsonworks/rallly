@@ -43,7 +43,7 @@ The quickest way to get started is the hosted version. Create your first poll in
 
 **[Try Rallly free →](https://rallly.co)**
 
-## 🐳 Self-hosting
+## Self-hosting
 
 Prefer to run your own instance? Rallly ships as a Docker image and can be self-hosted in minutes.
 
