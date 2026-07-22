@@ -1,1 +1,66 @@
 pnpm lint-staged
+
+# >>> FRIDY DEPLOY SAFETY HOOK START >>>
+# Fridy Deploy Safety Check: runs before every git commit
+# Managed by the Fridy VS Code extension (malveon.fridy)
+# FRIDY_HOOK_VERSION: 2
+# To bypass: git commit --no-verify
+#
+# Non-interactive by design: this hook never prompts and never reads from
+# /dev/tty, so it is safe under the VS Code Source Control UI and GUI clients.
+
+FRIDY_TRIGGER=".git/.fridy-safety-check"
+FRIDY_RESULT=".git/.fridy-safety-result"
+FRIDY_ACTIVE=".git/.fridy-active"
+
+# Clean up any stale result file
+rm -f "$FRIDY_RESULT"
+
+# If the extension is not running/watching there is nothing to perform the
+# scan, so allow the commit rather than hang waiting for a response.
+if [ ! -f "$FRIDY_ACTIVE" ]; then
+  exit 0
+fi
+
+echo ""
+echo "======================================"
+echo "  FRIDY: Deploy Safety Check"
+echo "======================================"
+echo "  Scanning staged changes..."
+echo ""
+
+# Signal the extension to run the deploy safety check
+echo "TRIGGER" > "$FRIDY_TRIGGER"
+
+# Wait for the extension to process (max 30 seconds)
+COUNTER=0
+while [ -f "$FRIDY_TRIGGER" ] && [ $COUNTER -lt 30 ]; do
+  sleep 1
+  COUNTER=$((COUNTER + 1))
+done
+
+# Remove the trigger if the extension never consumed it (timeout)
+rm -f "$FRIDY_TRIGGER"
+
+if [ -f "$FRIDY_RESULT" ]; then
+  RESULT=$(cat "$FRIDY_RESULT")
+  rm -f "$FRIDY_RESULT"
+  if [ "$RESULT" = "BLOCK" ]; then
+    echo ""
+    echo "  =================================="
+    echo "  COMMIT BLOCKED: Fix issues first!"
+    echo "  =================================="
+    echo "  Check the Deploy Safety panel in VS Code."
+    echo "  To bypass: git commit --no-verify"
+    echo ""
+    exit 1
+  fi
+  echo "  Deploy Safety: ALL CLEAR"
+  echo ""
+else
+  echo "  Deploy Safety timed out, proceeding with commit."
+  echo ""
+fi
+
+exit 0
+# <<< FRIDY DEPLOY SAFETY HOOK END <<<

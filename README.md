@@ -53,7 +53,7 @@ See the [self-hosting docs](https://support.rallly.co/self-hosting) for installa
 
 [Next.js](https://github.com/vercel/next.js/) · [Prisma](https://github.com/prisma/prisma) · [tRPC](https://github.com/trpc/trpc) · [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Have a look at the [contributing guide](CONTRIBUTING.md) to get started with local development and find out how you can help.
 
