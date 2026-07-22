@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_self_hosting_white_labeling_mdx",
+      "label": "white-labeling.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/white-labeling.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "self_hosting_white_labeling_what_you_can_customize",
+      "label": "What You Can Customize",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/white-labeling.mdx",
+      "source_location": "L17"
+    },
+    {
+      "id": "self_hosting_white_labeling_configuration",
+      "label": "Configuration",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/white-labeling.mdx",
+      "source_location": "L24"
+    },
+    {
+      "id": "self_hosting_white_labeling_example",
+      "label": "Example",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/white-labeling.mdx",
+      "source_location": "L28"
+    },
+    {
+      "id": "self_hosting_white_labeling_viewing_current_settings",
+      "label": "Viewing Current Settings",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/white-labeling.mdx",
+      "source_location": "L43"
+    },
+    {
+      "id": "self_hosting_white_labeling_requirements",
+      "label": "Requirements",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/white-labeling.mdx",
+      "source_location": "L47"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_white_labeling_mdx",
+      "target": "self_hosting_white_labeling_what_you_can_customize",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/white-labeling.mdx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_white_labeling_mdx",
+      "target": "self_hosting_white_labeling_configuration",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/white-labeling.mdx",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_white_labeling_mdx",
+      "target": "self_hosting_white_labeling_example",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/white-labeling.mdx",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_white_labeling_mdx",
+      "target": "self_hosting_white_labeling_viewing_current_settings",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/white-labeling.mdx",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_white_labeling_mdx",
+      "target": "self_hosting_white_labeling_requirements",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/white-labeling.mdx",
+      "source_location": "L47",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,79 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_src_posts_mobile_ui_update_md",
+      "label": "mobile-ui-update.md",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/mobile-ui-update.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "posts_mobile_ui_update_grouped_times",
+      "label": "Grouped times",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/mobile-ui-update.md",
+      "source_location": "L15"
+    },
+    {
+      "id": "posts_mobile_ui_update_animations",
+      "label": "Animations",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/mobile-ui-update.md",
+      "source_location": "L22"
+    },
+    {
+      "id": "posts_mobile_ui_update_increased_touch_area",
+      "label": "Increased touch area",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/mobile-ui-update.md",
+      "source_location": "L30"
+    },
+    {
+      "id": "posts_mobile_ui_update_in_conclusion",
+      "label": "In conclusion",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/mobile-ui-update.md",
+      "source_location": "L38"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_mobile_ui_update_md",
+      "target": "posts_mobile_ui_update_grouped_times",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/mobile-ui-update.md",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_mobile_ui_update_md",
+      "target": "posts_mobile_ui_update_animations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/mobile-ui-update.md",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_mobile_ui_update_md",
+      "target": "posts_mobile_ui_update_increased_touch_area",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/mobile-ui-update.md",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_mobile_ui_update_md",
+      "target": "posts_mobile_ui_update_in_conclusion",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/mobile-ui-update.md",
+      "source_location": "L38",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

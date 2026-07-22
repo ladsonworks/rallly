@@ -1,0 +1,79 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_spaces_custom_branding_mdx",
+      "label": "custom-branding.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/custom-branding.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "spaces_custom_branding_overview",
+      "label": "Overview",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/custom-branding.mdx",
+      "source_location": "L7"
+    },
+    {
+      "id": "spaces_custom_branding_requirements",
+      "label": "Requirements",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/custom-branding.mdx",
+      "source_location": "L14"
+    },
+    {
+      "id": "spaces_custom_branding_enabling_custom_branding",
+      "label": "Enabling Custom Branding",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/custom-branding.mdx",
+      "source_location": "L19"
+    },
+    {
+      "id": "spaces_custom_branding_disabling_custom_branding",
+      "label": "Disabling Custom Branding",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/custom-branding.mdx",
+      "source_location": "L32"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_custom_branding_mdx",
+      "target": "spaces_custom_branding_overview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/custom-branding.mdx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_custom_branding_mdx",
+      "target": "spaces_custom_branding_requirements",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/custom-branding.mdx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_custom_branding_mdx",
+      "target": "spaces_custom_branding_enabling_custom_branding",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/custom-branding.mdx",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_custom_branding_mdx",
+      "target": "spaces_custom_branding_disabling_custom_branding",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/custom-branding.mdx",
+      "source_location": "L32",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

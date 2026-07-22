@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_src_posts_introducing_spaces_md",
+      "label": "introducing-spaces.md",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-spaces.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "posts_introducing_spaces_what_are_spaces",
+      "label": "What are Spaces?",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-spaces.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "posts_introducing_spaces_key_benefits",
+      "label": "Key Benefits",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-spaces.md",
+      "source_location": "L15"
+    },
+    {
+      "id": "posts_introducing_spaces_how_it_works",
+      "label": "How It Works",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-spaces.md",
+      "source_location": "L25"
+    },
+    {
+      "id": "posts_introducing_spaces_perfect_for_growing_teams",
+      "label": "Perfect for Growing Teams",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-spaces.md",
+      "source_location": "L36"
+    },
+    {
+      "id": "posts_introducing_spaces_get_started_today",
+      "label": "Get Started Today",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-spaces.md",
+      "source_location": "L40"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_introducing_spaces_md",
+      "target": "posts_introducing_spaces_what_are_spaces",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/introducing-spaces.md",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_introducing_spaces_what_are_spaces",
+      "target": "posts_introducing_spaces_key_benefits",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/introducing-spaces.md",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_introducing_spaces_md",
+      "target": "posts_introducing_spaces_how_it_works",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/introducing-spaces.md",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_introducing_spaces_md",
+      "target": "posts_introducing_spaces_perfect_for_growing_teams",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/introducing-spaces.md",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_introducing_spaces_md",
+      "target": "posts_introducing_spaces_get_started_today",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/introducing-spaces.md",
+      "source_location": "L40",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

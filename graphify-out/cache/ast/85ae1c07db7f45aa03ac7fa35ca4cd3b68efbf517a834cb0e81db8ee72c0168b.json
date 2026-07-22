@@ -1,0 +1,79 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_src_posts_introducing_rallly_cli_md",
+      "label": "introducing-rallly-cli.md",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-rallly-cli.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "posts_introducing_rallly_cli_one_command_to_install",
+      "label": "One command to install",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-rallly-cli.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "posts_introducing_rallly_cli_manage_with_the_cli",
+      "label": "Manage with the CLI",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-rallly-cli.md",
+      "source_location": "L28"
+    },
+    {
+      "id": "posts_introducing_rallly_cli_already_self_hosting",
+      "label": "Already self-hosting?",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-rallly-cli.md",
+      "source_location": "L46"
+    },
+    {
+      "id": "posts_introducing_rallly_cli_where_to_start",
+      "label": "Where to start",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-rallly-cli.md",
+      "source_location": "L50"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_introducing_rallly_cli_md",
+      "target": "posts_introducing_rallly_cli_one_command_to_install",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/introducing-rallly-cli.md",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_introducing_rallly_cli_md",
+      "target": "posts_introducing_rallly_cli_manage_with_the_cli",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/introducing-rallly-cli.md",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_introducing_rallly_cli_md",
+      "target": "posts_introducing_rallly_cli_already_self_hosting",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/introducing-rallly-cli.md",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_introducing_rallly_cli_md",
+      "target": "posts_introducing_rallly_cli_where_to_start",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/introducing-rallly-cli.md",
+      "source_location": "L50",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

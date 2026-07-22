@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_src_posts_rallly_pro_launch_md",
+      "label": "rallly-pro-launch.md",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/rallly-pro-launch.md",
+      "source_location": "L1"
+    }
+  ],
+  "edges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_self_hosting_control_panel_mdx",
+      "label": "control-panel.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/control-panel.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "self_hosting_control_panel_claiming_initial_admin_rights",
+      "label": "Claiming Initial Admin Rights",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/control-panel.mdx",
+      "source_location": "L18"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_control_panel_mdx",
+      "target": "self_hosting_control_panel_claiming_initial_admin_rights",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/control-panel.mdx",
+      "source_location": "L18",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

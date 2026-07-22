@@ -1,0 +1,63 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_readme_md",
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "apps/docs/README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "docs_readme_support_docs",
+      "label": "Support Docs",
+      "file_type": "document",
+      "source_file": "apps/docs/README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "docs_readme_how_to_run_locally",
+      "label": "How to Run Locally",
+      "file_type": "document",
+      "source_file": "apps/docs/README.md",
+      "source_location": "L9"
+    },
+    {
+      "id": "docs_readme_components",
+      "label": "Components",
+      "file_type": "document",
+      "source_file": "apps/docs/README.md",
+      "source_location": "L31"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_readme_md",
+      "target": "docs_readme_support_docs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/README.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "docs_readme_support_docs",
+      "target": "docs_readme_how_to_run_locally",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/README.md",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "docs_readme_support_docs",
+      "target": "docs_readme_components",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/README.md",
+      "source_location": "L31",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

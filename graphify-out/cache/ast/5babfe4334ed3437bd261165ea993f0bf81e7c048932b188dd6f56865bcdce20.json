@@ -1,0 +1,153 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_packages_utils_tsconfig_json",
+      "label": "tsconfig.json",
+      "file_type": "code",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "utils_tsconfig_extends",
+      "label": "extends",
+      "file_type": "code",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "utils_tsconfig_compileroptions",
+      "label": "compilerOptions",
+      "file_type": "code",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "utils_tsconfig_compileroptions_types",
+      "label": "types",
+      "file_type": "code",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "utils_tsconfig_compileroptions_lib",
+      "label": "lib",
+      "file_type": "code",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "utils_tsconfig_include",
+      "label": "include",
+      "file_type": "code",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L7"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_packages_utils_tsconfig_json",
+      "target": "utils_tsconfig_extends",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_utils_tsconfig_json",
+      "target": "ref_rallly_tsconfig_node_json",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "d_ladson_rallly_packages_utils_tsconfig_json",
+      "target": "utils_tsconfig_compileroptions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_tsconfig_compileroptions",
+      "target": "utils_tsconfig_compileroptions_types",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_tsconfig_compileroptions_types",
+      "target": "ref_vitest_globals",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "utils_tsconfig_compileroptions_types",
+      "target": "ref_node",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "utils_tsconfig_compileroptions",
+      "target": "utils_tsconfig_compileroptions_lib",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_tsconfig_compileroptions_lib",
+      "target": "ref_es2020",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "utils_tsconfig_compileroptions_lib",
+      "target": "ref_dom",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "d_ladson_rallly_packages_utils_tsconfig_json",
+      "target": "utils_tsconfig_include",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_tsconfig_include",
+      "target": "ref_ts",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/utils/tsconfig.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "context": "import"
+    }
+  ]
+}

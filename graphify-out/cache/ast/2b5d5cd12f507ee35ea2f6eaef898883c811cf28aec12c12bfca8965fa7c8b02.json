@@ -1,0 +1,12 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_web_public_locales_nb_app_json",
+      "label": "app.json",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nb/app.json",
+      "source_location": "L1"
+    }
+  ],
+  "edges": []
+}

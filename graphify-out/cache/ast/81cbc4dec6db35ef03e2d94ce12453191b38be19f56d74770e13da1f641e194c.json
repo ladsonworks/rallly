@@ -1,0 +1,495 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_agents_skills_two_factor_authentication_best_practices_skill_md",
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_setting_up_two_factor_authentication",
+      "label": "Setting Up Two-Factor Authentication",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L6"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_client_side_setup",
+      "label": "Client-Side Setup",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L26"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_enabling_2fa_for_users",
+      "label": "Enabling 2FA for Users",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L45"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_skipping_initial_verification",
+      "label": "Skipping Initial Verification",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L64"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_totp_authenticator_app",
+      "label": "TOTP (Authenticator App)",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L76"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_displaying_the_qr_code",
+      "label": "Displaying the QR Code",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L80"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_verifying_totp_codes",
+      "label": "Verifying TOTP Codes",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L92"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_totp_configuration_options",
+      "label": "TOTP Configuration Options",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L105"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_otp_email_sms",
+      "label": "OTP (Email/SMS)",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L116"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_configuring_otp_delivery",
+      "label": "Configuring OTP Delivery",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L120"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_sending_and_verifying_otp",
+      "label": "Sending and Verifying OTP",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L147"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_otp_storage_security",
+      "label": "OTP Storage Security",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L164"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_backup_codes",
+      "label": "Backup Codes",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L189"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_displaying_backup_codes",
+      "label": "Displaying Backup Codes",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L193"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_regenerating_backup_codes",
+      "label": "Regenerating Backup Codes",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L212"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_using_backup_codes_for_recovery",
+      "label": "Using Backup Codes for Recovery",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L225"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_backup_code_configuration",
+      "label": "Backup Code Configuration",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L238"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_handling_2fa_during_sign_in",
+      "label": "Handling 2FA During Sign-In",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L250"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_server_side_2fa_detection",
+      "label": "Server-Side 2FA Detection",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L273"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_trusted_devices",
+      "label": "Trusted Devices",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L290"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_enabling_trust_on_verification",
+      "label": "Enabling Trust on Verification",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L294"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_configuring_trust_duration",
+      "label": "Configuring Trust Duration",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L305"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_security_considerations",
+      "label": "Security Considerations",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L315"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_session_management",
+      "label": "Session Management",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L317"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_rate_limiting",
+      "label": "Rate Limiting",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L335"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_encryption_at_rest",
+      "label": "Encryption at Rest",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L347"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_constant_time_comparison",
+      "label": "Constant-Time Comparison",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L353"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_credential_account_requirement",
+      "label": "Credential Account Requirement",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L357"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_disabling_2fa",
+      "label": "Disabling 2FA",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L361"
+    },
+    {
+      "id": "two_factor_authentication_best_practices_skill_complete_configuration_example",
+      "label": "Complete Configuration Example",
+      "file_type": "document",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L375"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_agents_skills_two_factor_authentication_best_practices_skill_md",
+      "target": "two_factor_authentication_best_practices_skill_setting_up_two_factor_authentication",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_setting_up_two_factor_authentication",
+      "target": "two_factor_authentication_best_practices_skill_client_side_setup",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_two_factor_authentication_best_practices_skill_md",
+      "target": "two_factor_authentication_best_practices_skill_enabling_2fa_for_users",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_enabling_2fa_for_users",
+      "target": "two_factor_authentication_best_practices_skill_skipping_initial_verification",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L64",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_two_factor_authentication_best_practices_skill_md",
+      "target": "two_factor_authentication_best_practices_skill_totp_authenticator_app",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L76",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_totp_authenticator_app",
+      "target": "two_factor_authentication_best_practices_skill_displaying_the_qr_code",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L80",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_totp_authenticator_app",
+      "target": "two_factor_authentication_best_practices_skill_verifying_totp_codes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L92",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_totp_authenticator_app",
+      "target": "two_factor_authentication_best_practices_skill_totp_configuration_options",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L105",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_two_factor_authentication_best_practices_skill_md",
+      "target": "two_factor_authentication_best_practices_skill_otp_email_sms",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L116",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_otp_email_sms",
+      "target": "two_factor_authentication_best_practices_skill_configuring_otp_delivery",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L120",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_otp_email_sms",
+      "target": "two_factor_authentication_best_practices_skill_sending_and_verifying_otp",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L147",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_otp_email_sms",
+      "target": "two_factor_authentication_best_practices_skill_otp_storage_security",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L164",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_two_factor_authentication_best_practices_skill_md",
+      "target": "two_factor_authentication_best_practices_skill_backup_codes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L189",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_backup_codes",
+      "target": "two_factor_authentication_best_practices_skill_displaying_backup_codes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L193",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_backup_codes",
+      "target": "two_factor_authentication_best_practices_skill_regenerating_backup_codes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L212",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_backup_codes",
+      "target": "two_factor_authentication_best_practices_skill_using_backup_codes_for_recovery",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L225",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_backup_codes",
+      "target": "two_factor_authentication_best_practices_skill_backup_code_configuration",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L238",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_two_factor_authentication_best_practices_skill_md",
+      "target": "two_factor_authentication_best_practices_skill_handling_2fa_during_sign_in",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L250",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_handling_2fa_during_sign_in",
+      "target": "two_factor_authentication_best_practices_skill_server_side_2fa_detection",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L273",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_two_factor_authentication_best_practices_skill_md",
+      "target": "two_factor_authentication_best_practices_skill_trusted_devices",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L290",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_trusted_devices",
+      "target": "two_factor_authentication_best_practices_skill_enabling_trust_on_verification",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L294",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_trusted_devices",
+      "target": "two_factor_authentication_best_practices_skill_configuring_trust_duration",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L305",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_two_factor_authentication_best_practices_skill_md",
+      "target": "two_factor_authentication_best_practices_skill_security_considerations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L315",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_security_considerations",
+      "target": "two_factor_authentication_best_practices_skill_session_management",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L317",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_security_considerations",
+      "target": "two_factor_authentication_best_practices_skill_rate_limiting",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L335",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_security_considerations",
+      "target": "two_factor_authentication_best_practices_skill_encryption_at_rest",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L347",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_security_considerations",
+      "target": "two_factor_authentication_best_practices_skill_constant_time_comparison",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L353",
+      "weight": 1.0
+    },
+    {
+      "source": "two_factor_authentication_best_practices_skill_security_considerations",
+      "target": "two_factor_authentication_best_practices_skill_credential_account_requirement",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L357",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_two_factor_authentication_best_practices_skill_md",
+      "target": "two_factor_authentication_best_practices_skill_disabling_2fa",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L361",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_two_factor_authentication_best_practices_skill_md",
+      "target": "two_factor_authentication_best_practices_skill_complete_configuration_example",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/two-factor-authentication-best-practices/SKILL.md",
+      "source_location": "L375",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_packages_tsconfig_react_json",
+      "label": "react.json",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "tsconfig_react_schema",
+      "label": "$schema",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "tsconfig_react_display",
+      "label": "display",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "tsconfig_react_compileroptions",
+      "label": "compilerOptions",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "tsconfig_react_compileroptions_module",
+      "label": "module",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "tsconfig_react_compileroptions_moduleresolution",
+      "label": "moduleResolution",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "tsconfig_react_compileroptions_nopropertyaccessfromindexsignature",
+      "label": "noPropertyAccessFromIndexSignature",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "tsconfig_react_compileroptions_exactoptionalpropertytypes",
+      "label": "exactOptionalPropertyTypes",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "tsconfig_react_compileroptions_nouncheckedindexedaccess",
+      "label": "noUncheckedIndexedAccess",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "tsconfig_react_compileroptions_noimplicitreturns",
+      "label": "noImplicitReturns",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "tsconfig_react_compileroptions_verbatimmodulesyntax",
+      "label": "verbatimModuleSyntax",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "tsconfig_react_compileroptions_skiplibcheck",
+      "label": "skipLibCheck",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "tsconfig_react_compileroptions_strictnullchecks",
+      "label": "strictNullChecks",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "tsconfig_react_compileroptions_lib",
+      "label": "lib",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "tsconfig_react_compileroptions_jsx",
+      "label": "jsx",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L15"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_packages_tsconfig_react_json",
+      "target": "tsconfig_react_schema",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_tsconfig_react_json",
+      "target": "tsconfig_react_display",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_tsconfig_react_json",
+      "target": "tsconfig_react_compileroptions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "tsconfig_react_compileroptions",
+      "target": "tsconfig_react_compileroptions_module",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "tsconfig_react_compileroptions",
+      "target": "tsconfig_react_compileroptions_moduleresolution",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "tsconfig_react_compileroptions",
+      "target": "tsconfig_react_compileroptions_nopropertyaccessfromindexsignature",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "tsconfig_react_compileroptions",
+      "target": "tsconfig_react_compileroptions_exactoptionalpropertytypes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "tsconfig_react_compileroptions",
+      "target": "tsconfig_react_compileroptions_nouncheckedindexedaccess",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "tsconfig_react_compileroptions",
+      "target": "tsconfig_react_compileroptions_noimplicitreturns",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "tsconfig_react_compileroptions",
+      "target": "tsconfig_react_compileroptions_verbatimmodulesyntax",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "tsconfig_react_compileroptions",
+      "target": "tsconfig_react_compileroptions_skiplibcheck",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "tsconfig_react_compileroptions",
+      "target": "tsconfig_react_compileroptions_strictnullchecks",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "tsconfig_react_compileroptions",
+      "target": "tsconfig_react_compileroptions_lib",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "tsconfig_react_compileroptions_lib",
+      "target": "ref_dom",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "tsconfig_react_compileroptions_lib",
+      "target": "ref_dom_iterable",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "tsconfig_react_compileroptions_lib",
+      "target": "ref_esnext",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "tsconfig_react_compileroptions",
+      "target": "tsconfig_react_compileroptions_jsx",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/react.json",
+      "source_location": "L15",
+      "weight": 1.0
+    }
+  ]
+}

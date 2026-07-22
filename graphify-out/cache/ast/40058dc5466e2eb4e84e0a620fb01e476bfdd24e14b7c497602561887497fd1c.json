@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_spaces_members_mdx",
+      "label": "members.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "spaces_members_understanding_member_roles",
+      "label": "Understanding Member Roles",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L7"
+    },
+    {
+      "id": "spaces_members_inviting_new_members",
+      "label": "Inviting New Members",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L34"
+    },
+    {
+      "id": "spaces_members_prerequisites",
+      "label": "Prerequisites",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L36"
+    },
+    {
+      "id": "spaces_members_invitation_process",
+      "label": "Invitation Process",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L42"
+    },
+    {
+      "id": "spaces_members_managing_existing_members",
+      "label": "Managing Existing Members",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L68"
+    },
+    {
+      "id": "spaces_members_changing_member_roles",
+      "label": "Changing Member Roles",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L70"
+    },
+    {
+      "id": "spaces_members_removing_members",
+      "label": "Removing Members",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L83"
+    },
+    {
+      "id": "spaces_members_managing_pending_invitations",
+      "label": "Managing Pending Invitations",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L95"
+    },
+    {
+      "id": "spaces_members_invitation_states",
+      "label": "Invitation States",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L97"
+    },
+    {
+      "id": "spaces_members_canceling_invitations",
+      "label": "Canceling Invitations",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L103"
+    },
+    {
+      "id": "spaces_members_seat_management_and_members",
+      "label": "Seat Management and Members",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L110"
+    },
+    {
+      "id": "spaces_members_seat_allocation",
+      "label": "Seat Allocation",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L112"
+    },
+    {
+      "id": "spaces_members_adding_members_vs_adding_seats",
+      "label": "Adding Members vs Adding Seats",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L117"
+    },
+    {
+      "id": "spaces_members_troubleshooting_common_issues",
+      "label": "Troubleshooting Common Issues",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L133"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_members_mdx",
+      "target": "spaces_members_understanding_member_roles",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_members_mdx",
+      "target": "spaces_members_inviting_new_members",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_members_inviting_new_members",
+      "target": "spaces_members_prerequisites",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_members_inviting_new_members",
+      "target": "spaces_members_invitation_process",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_members_mdx",
+      "target": "spaces_members_managing_existing_members",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L68",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_members_managing_existing_members",
+      "target": "spaces_members_changing_member_roles",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L70",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_members_managing_existing_members",
+      "target": "spaces_members_removing_members",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L83",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_members_mdx",
+      "target": "spaces_members_managing_pending_invitations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L95",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_members_managing_pending_invitations",
+      "target": "spaces_members_invitation_states",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L97",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_members_managing_pending_invitations",
+      "target": "spaces_members_canceling_invitations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L103",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_members_mdx",
+      "target": "spaces_members_seat_management_and_members",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L110",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_members_seat_management_and_members",
+      "target": "spaces_members_seat_allocation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L112",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_members_seat_management_and_members",
+      "target": "spaces_members_adding_members_vs_adding_seats",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L117",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_members_mdx",
+      "target": "spaces_members_troubleshooting_common_issues",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/members.mdx",
+      "source_location": "L133",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

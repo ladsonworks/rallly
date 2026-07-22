@@ -1,0 +1,159 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_contribute_translations_mdx",
+      "label": "translations.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "contribute_translations_sign_up_to_crowdin",
+      "label": "Sign Up to Crowdin",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L11"
+    },
+    {
+      "id": "contribute_translations_tips_for_translators",
+      "label": "Tips for Translators",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L26"
+    },
+    {
+      "id": "contribute_translations_punctuation",
+      "label": "Punctuation",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L30"
+    },
+    {
+      "id": "contribute_translations_variables",
+      "label": "Variables",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L45"
+    },
+    {
+      "id": "contribute_translations_tags",
+      "label": "Tags",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L60"
+    },
+    {
+      "id": "contribute_translations_plurals",
+      "label": "Plurals",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L77"
+    },
+    {
+      "id": "contribute_translations_register",
+      "label": "Register",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L107"
+    },
+    {
+      "id": "contribute_translations_faq",
+      "label": "FAQ",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L111"
+    },
+    {
+      "id": "contribute_translations_contact",
+      "label": "Contact",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L128"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_contribute_translations_mdx",
+      "target": "contribute_translations_sign_up_to_crowdin",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_contribute_translations_mdx",
+      "target": "contribute_translations_tips_for_translators",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "contribute_translations_tips_for_translators",
+      "target": "contribute_translations_punctuation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "contribute_translations_tips_for_translators",
+      "target": "contribute_translations_variables",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "contribute_translations_tips_for_translators",
+      "target": "contribute_translations_tags",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L60",
+      "weight": 1.0
+    },
+    {
+      "source": "contribute_translations_tips_for_translators",
+      "target": "contribute_translations_plurals",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L77",
+      "weight": 1.0
+    },
+    {
+      "source": "contribute_translations_tips_for_translators",
+      "target": "contribute_translations_register",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L107",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_contribute_translations_mdx",
+      "target": "contribute_translations_faq",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L111",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_contribute_translations_mdx",
+      "target": "contribute_translations_contact",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/contribute/translations.mdx",
+      "source_location": "L128",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

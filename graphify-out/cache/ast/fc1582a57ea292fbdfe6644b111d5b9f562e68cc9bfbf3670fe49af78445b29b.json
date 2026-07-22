@@ -1,0 +1,557 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "label": "common.json",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "de_common_bestdoodlealternative",
+      "label": "bestDoodleAlternative",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "de_common_blog",
+      "label": "blog",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "de_common_cookiepolicy",
+      "label": "cookiePolicy",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "de_common_discussions",
+      "label": "discussions",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "de_common_footercredit",
+      "label": "footerCredit",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "de_common_footersponsor",
+      "label": "footerSponsor",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "de_common_freeschedulingpoll",
+      "label": "freeSchedulingPoll",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "de_common_getstarted",
+      "label": "getStarted",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "de_common_gotohome",
+      "label": "goToHome",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "de_common_howitworks",
+      "label": "howItWorks",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "de_common_language",
+      "label": "language",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "de_common_licensingthankyougohomelink",
+      "label": "licensingThankYouGoHomeLink",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "de_common_licensingthankyoulicense",
+      "label": "licensingThankYouLicense",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "de_common_licensingthankyoulicenseemailed",
+      "label": "licensingThankYouLicenseEmailed",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L15"
+    },
+    {
+      "id": "de_common_licensingthankyounextstepsactivatelicense",
+      "label": "licensingThankYouNextStepsActivateLicense",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "de_common_licensingthankyounextstepsinstallation",
+      "label": "licensingThankYouNextStepsInstallation",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L17"
+    },
+    {
+      "id": "de_common_licensingthankyousubtitle",
+      "label": "licensingThankYouSubtitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L18"
+    },
+    {
+      "id": "de_common_licensingthankyousupportprompt",
+      "label": "licensingThankYouSupportPrompt",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "de_common_licensingthankyoutitle",
+      "label": "licensingThankYouTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "de_common_links",
+      "label": "links",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L21"
+    },
+    {
+      "id": "de_common_login",
+      "label": "login",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "de_common_notfounddescription",
+      "label": "notFoundDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L23"
+    },
+    {
+      "id": "de_common_notfoundtitle",
+      "label": "notFoundTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "de_common_opensource",
+      "label": "openSource",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "de_common_pricing",
+      "label": "pricing",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L26"
+    },
+    {
+      "id": "de_common_privacypolicy",
+      "label": "privacyPolicy",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L27"
+    },
+    {
+      "id": "de_common_signup",
+      "label": "signUp",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L28"
+    },
+    {
+      "id": "de_common_solutions",
+      "label": "solutions",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L29"
+    },
+    {
+      "id": "de_common_starongithub",
+      "label": "starOnGitHub",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L30"
+    },
+    {
+      "id": "de_common_status",
+      "label": "status",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L31"
+    },
+    {
+      "id": "de_common_support",
+      "label": "support",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L32"
+    },
+    {
+      "id": "de_common_termsofuse",
+      "label": "termsOfUse",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L33"
+    },
+    {
+      "id": "de_common_volunteertranslator",
+      "label": "volunteerTranslator",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L34"
+    },
+    {
+      "id": "de_common_when2meetalternative",
+      "label": "when2MeetAlternative",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L35"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_bestdoodlealternative",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_blog",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_cookiepolicy",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_discussions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_footercredit",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_footersponsor",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_freeschedulingpoll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_getstarted",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_gotohome",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_howitworks",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_language",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_licensingthankyougohomelink",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_licensingthankyoulicense",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_licensingthankyoulicenseemailed",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_licensingthankyounextstepsactivatelicense",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_licensingthankyounextstepsinstallation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_licensingthankyousubtitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_licensingthankyousupportprompt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_licensingthankyoutitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_links",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_login",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_notfounddescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_notfoundtitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_opensource",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_pricing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_privacypolicy",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_signup",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_solutions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_starongithub",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_status",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_support",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_termsofuse",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_volunteertranslator",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_common_json",
+      "target": "de_common_when2meetalternative",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/common.json",
+      "source_location": "L35",
+      "weight": 1.0
+    }
+  ]
+}

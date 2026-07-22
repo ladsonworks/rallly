@@ -1,0 +1,12 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_packages_emails_locales_vi_emails_json",
+      "label": "emails.json",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/vi/emails.json",
+      "source_location": "L1"
+    }
+  ],
+  "edges": []
+}

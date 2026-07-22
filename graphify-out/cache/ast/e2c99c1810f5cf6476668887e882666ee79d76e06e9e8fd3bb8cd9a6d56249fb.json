@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_agents_skills_email_and_password_best_practices_skill_md",
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "email_and_password_best_practices_skill_email_verification_setup",
+      "label": "Email Verification Setup",
+      "file_type": "document",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L6"
+    },
+    {
+      "id": "email_and_password_best_practices_skill_requiring_email_verification",
+      "label": "Requiring Email Verification",
+      "file_type": "document",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L29"
+    },
+    {
+      "id": "email_and_password_best_practices_skill_client_side_validation",
+      "label": "Client side validation",
+      "file_type": "document",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L43"
+    },
+    {
+      "id": "email_and_password_best_practices_skill_callback_urls",
+      "label": "Callback URLs",
+      "file_type": "document",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L50"
+    },
+    {
+      "id": "email_and_password_best_practices_skill_password_reset_flows",
+      "label": "Password Reset Flows",
+      "file_type": "document",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L60"
+    },
+    {
+      "id": "email_and_password_best_practices_skill_security_considerations",
+      "label": "Security considerations",
+      "file_type": "document",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L90"
+    },
+    {
+      "id": "email_and_password_best_practices_skill_timing_attack_prevention",
+      "label": "Timing attack prevention",
+      "file_type": "document",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L94"
+    },
+    {
+      "id": "email_and_password_best_practices_skill_token_security",
+      "label": "Token security",
+      "file_type": "document",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L115"
+    },
+    {
+      "id": "email_and_password_best_practices_skill_session_revocation",
+      "label": "Session revocation",
+      "file_type": "document",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L131"
+    },
+    {
+      "id": "email_and_password_best_practices_skill_redirect_url_validation",
+      "label": "Redirect URL validation",
+      "file_type": "document",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L144"
+    },
+    {
+      "id": "email_and_password_best_practices_skill_password_requirements",
+      "label": "Password requirements",
+      "file_type": "document",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L148"
+    },
+    {
+      "id": "email_and_password_best_practices_skill_sending_the_password_reset",
+      "label": "Sending the password reset",
+      "file_type": "document",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L164"
+    },
+    {
+      "id": "email_and_password_best_practices_skill_password_hashing",
+      "label": "Password Hashing",
+      "file_type": "document",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L188"
+    },
+    {
+      "id": "email_and_password_best_practices_skill_custom_hashing_algorithm",
+      "label": "Custom Hashing Algorithm",
+      "file_type": "document",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L196"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_agents_skills_email_and_password_best_practices_skill_md",
+      "target": "email_and_password_best_practices_skill_email_verification_setup",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "email_and_password_best_practices_skill_email_verification_setup",
+      "target": "email_and_password_best_practices_skill_requiring_email_verification",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_email_and_password_best_practices_skill_md",
+      "target": "email_and_password_best_practices_skill_client_side_validation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_email_and_password_best_practices_skill_md",
+      "target": "email_and_password_best_practices_skill_callback_urls",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_email_and_password_best_practices_skill_md",
+      "target": "email_and_password_best_practices_skill_password_reset_flows",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L60",
+      "weight": 1.0
+    },
+    {
+      "source": "email_and_password_best_practices_skill_password_reset_flows",
+      "target": "email_and_password_best_practices_skill_security_considerations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L90",
+      "weight": 1.0
+    },
+    {
+      "source": "email_and_password_best_practices_skill_security_considerations",
+      "target": "email_and_password_best_practices_skill_timing_attack_prevention",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L94",
+      "weight": 1.0
+    },
+    {
+      "source": "email_and_password_best_practices_skill_security_considerations",
+      "target": "email_and_password_best_practices_skill_token_security",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L115",
+      "weight": 1.0
+    },
+    {
+      "source": "email_and_password_best_practices_skill_security_considerations",
+      "target": "email_and_password_best_practices_skill_session_revocation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L131",
+      "weight": 1.0
+    },
+    {
+      "source": "email_and_password_best_practices_skill_security_considerations",
+      "target": "email_and_password_best_practices_skill_redirect_url_validation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L144",
+      "weight": 1.0
+    },
+    {
+      "source": "email_and_password_best_practices_skill_security_considerations",
+      "target": "email_and_password_best_practices_skill_password_requirements",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L148",
+      "weight": 1.0
+    },
+    {
+      "source": "email_and_password_best_practices_skill_password_reset_flows",
+      "target": "email_and_password_best_practices_skill_sending_the_password_reset",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L164",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_email_and_password_best_practices_skill_md",
+      "target": "email_and_password_best_practices_skill_password_hashing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L188",
+      "weight": 1.0
+    },
+    {
+      "source": "email_and_password_best_practices_skill_password_hashing",
+      "target": "email_and_password_best_practices_skill_custom_hashing_algorithm",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/email-and-password-best-practices/SKILL.md",
+      "source_location": "L196",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

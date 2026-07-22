@@ -1,0 +1,79 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_self_hosting_licensing_mdx",
+      "label": "licensing.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/licensing.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "self_hosting_licensing_pricing",
+      "label": "Pricing",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/licensing.mdx",
+      "source_location": "L10"
+    },
+    {
+      "id": "self_hosting_licensing_activating_your_license",
+      "label": "Activating Your License",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/licensing.mdx",
+      "source_location": "L24"
+    },
+    {
+      "id": "self_hosting_licensing_spaces_and_collaboration",
+      "label": "Spaces and Collaboration",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/licensing.mdx",
+      "source_location": "L35"
+    },
+    {
+      "id": "self_hosting_licensing_faq",
+      "label": "FAQ",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/licensing.mdx",
+      "source_location": "L46"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_licensing_mdx",
+      "target": "self_hosting_licensing_pricing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/licensing.mdx",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_licensing_mdx",
+      "target": "self_hosting_licensing_activating_your_license",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/licensing.mdx",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_licensing_mdx",
+      "target": "self_hosting_licensing_spaces_and_collaboration",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/licensing.mdx",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_licensing_mdx",
+      "target": "self_hosting_licensing_faq",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/licensing.mdx",
+      "source_location": "L46",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

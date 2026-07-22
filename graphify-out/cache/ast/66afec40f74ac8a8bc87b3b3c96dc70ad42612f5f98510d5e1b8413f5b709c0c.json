@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_workflow_create_mdx",
+      "label": "create.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/workflow/create.mdx",
+      "source_location": "L1"
+    }
+  ],
+  "edges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

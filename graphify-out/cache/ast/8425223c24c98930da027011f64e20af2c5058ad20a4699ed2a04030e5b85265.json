@@ -1,0 +1,143 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_src_posts_new_version_announcment_md",
+      "label": "new-version-announcment.md",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "posts_new_version_announcment_what_happens_to_polls_created_with_the_old_version",
+      "label": "What happens to polls created with the old version?",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L14"
+    },
+    {
+      "id": "posts_new_version_announcment_what_s_new",
+      "label": "What's new?",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L24"
+    },
+    {
+      "id": "posts_new_version_announcment_time_slots",
+      "label": "Time-slots",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L28"
+    },
+    {
+      "id": "posts_new_version_announcment_permission_links",
+      "label": "Permission links",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L35"
+    },
+    {
+      "id": "posts_new_version_announcment_compact_view_for_mobile_devices",
+      "label": "Compact view for mobile devices",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L45"
+    },
+    {
+      "id": "posts_new_version_announcment_and_much_more",
+      "label": "And much more\u2026",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L51"
+    },
+    {
+      "id": "posts_new_version_announcment_what_s_missing",
+      "label": "What's missing?",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L57"
+    },
+    {
+      "id": "posts_new_version_announcment_this_is_only_the_beginning",
+      "label": "This is only the beginning",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L81"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_new_version_announcment_md",
+      "target": "posts_new_version_announcment_what_happens_to_polls_created_with_the_old_version",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_new_version_announcment_md",
+      "target": "posts_new_version_announcment_what_s_new",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_new_version_announcment_what_s_new",
+      "target": "posts_new_version_announcment_time_slots",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_new_version_announcment_what_s_new",
+      "target": "posts_new_version_announcment_permission_links",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_new_version_announcment_what_s_new",
+      "target": "posts_new_version_announcment_compact_view_for_mobile_devices",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_new_version_announcment_what_s_new",
+      "target": "posts_new_version_announcment_and_much_more",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_new_version_announcment_md",
+      "target": "posts_new_version_announcment_what_s_missing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L57",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_new_version_announcment_md",
+      "target": "posts_new_version_announcment_this_is_only_the_beginning",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/new-version-announcment.md",
+      "source_location": "L81",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

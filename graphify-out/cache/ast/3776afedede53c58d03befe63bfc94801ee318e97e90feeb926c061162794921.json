@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_guide_participant_guide_mdx",
+      "label": "participant-guide.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/guide/participant-guide.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "guide_participant_guide_frequently_asked_questions",
+      "label": "Frequently Asked Questions",
+      "file_type": "document",
+      "source_file": "apps/docs/guide/participant-guide.mdx",
+      "source_location": "L45"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_guide_participant_guide_mdx",
+      "target": "guide_participant_guide_frequently_asked_questions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/guide/participant-guide.mdx",
+      "source_location": "L45",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

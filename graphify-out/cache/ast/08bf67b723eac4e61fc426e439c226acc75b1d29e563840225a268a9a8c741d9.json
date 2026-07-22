@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_docker_cors_json",
+      "label": "cors.json",
+      "file_type": "code",
+      "source_file": "docker/cors.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "docker_cors_corsrules",
+      "label": "CORSRules",
+      "file_type": "code",
+      "source_file": "docker/cors.json",
+      "source_location": "L2"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_docker_cors_json",
+      "target": "docker_cors_corsrules",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docker/cors.json",
+      "source_location": "L2",
+      "weight": 1.0
+    }
+  ]
+}

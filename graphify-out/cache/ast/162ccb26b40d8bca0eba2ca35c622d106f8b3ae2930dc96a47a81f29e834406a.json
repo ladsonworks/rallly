@@ -1,0 +1,143 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_self_hosting_installation_docker_mdx",
+      "label": "docker.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "installation_docker_requirements",
+      "label": "Requirements",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L13"
+    },
+    {
+      "id": "installation_docker_quick_install",
+      "label": "Quick install",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L25"
+    },
+    {
+      "id": "installation_docker_claim_the_admin_account",
+      "label": "Claim the admin account",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L43"
+    },
+    {
+      "id": "installation_docker_external_services",
+      "label": "External services",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L47"
+    },
+    {
+      "id": "installation_docker_external_reverse_proxy",
+      "label": "External reverse proxy",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L51"
+    },
+    {
+      "id": "installation_docker_external_database",
+      "label": "External database",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L64"
+    },
+    {
+      "id": "installation_docker_external_object_storage",
+      "label": "External object storage",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L72"
+    },
+    {
+      "id": "installation_docker_next_steps",
+      "label": "Next steps",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L86"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_installation_docker_mdx",
+      "target": "installation_docker_requirements",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_installation_docker_mdx",
+      "target": "installation_docker_quick_install",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_installation_docker_mdx",
+      "target": "installation_docker_claim_the_admin_account",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_installation_docker_mdx",
+      "target": "installation_docker_external_services",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "installation_docker_external_services",
+      "target": "installation_docker_external_reverse_proxy",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "installation_docker_external_services",
+      "target": "installation_docker_external_database",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L64",
+      "weight": 1.0
+    },
+    {
+      "source": "installation_docker_external_services",
+      "target": "installation_docker_external_object_storage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L72",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_installation_docker_mdx",
+      "target": "installation_docker_next_steps",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/installation/docker.mdx",
+      "source_location": "L86",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

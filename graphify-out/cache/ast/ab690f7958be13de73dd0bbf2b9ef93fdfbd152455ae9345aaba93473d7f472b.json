@@ -1,0 +1,1197 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "label": "app.json",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "fa_app_12h",
+      "label": "12h",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "fa_app_24h",
+      "label": "24h",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "fa_app_addtimeoption",
+      "label": "addTimeOption",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "fa_app_applytoalldates",
+      "label": "applyToAllDates",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "fa_app_areyousure",
+      "label": "areYouSure",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "fa_app_calendarhelp",
+      "label": "calendarHelp",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "fa_app_calendarhelptitle",
+      "label": "calendarHelpTitle",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "fa_app_cancel",
+      "label": "cancel",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "fa_app_commentplaceholder",
+      "label": "commentPlaceholder",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "fa_app_comments",
+      "label": "comments",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "fa_app_continue",
+      "label": "continue",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "fa_app_copied",
+      "label": "copied",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "fa_app_createdby",
+      "label": "createdBy",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "fa_app_createpoll",
+      "label": "createPoll",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L15"
+    },
+    {
+      "id": "fa_app_delete",
+      "label": "delete",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "fa_app_deletedate",
+      "label": "deleteDate",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L17"
+    },
+    {
+      "id": "fa_app_deletedpoll",
+      "label": "deletedPoll",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L18"
+    },
+    {
+      "id": "fa_app_deletedpollinfo",
+      "label": "deletedPollInfo",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "fa_app_deletepoll",
+      "label": "deletePoll",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "fa_app_deletepolldescription",
+      "label": "deletePollDescription",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L21"
+    },
+    {
+      "id": "fa_app_deletingoptionswarning",
+      "label": "deletingOptionsWarning",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "fa_app_description",
+      "label": "description",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L23"
+    },
+    {
+      "id": "fa_app_descriptionplaceholder",
+      "label": "descriptionPlaceholder",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "fa_app_editdetails",
+      "label": "editDetails",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "fa_app_editoptions",
+      "label": "editOptions",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L26"
+    },
+    {
+      "id": "fa_app_email",
+      "label": "email",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L27"
+    },
+    {
+      "id": "fa_app_emailplaceholder",
+      "label": "emailPlaceholder",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L28"
+    },
+    {
+      "id": "fa_app_exporttocsv",
+      "label": "exportToCsv",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L29"
+    },
+    {
+      "id": "fa_app_forgetme",
+      "label": "forgetMe",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L30"
+    },
+    {
+      "id": "fa_app_guest",
+      "label": "guest",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L31"
+    },
+    {
+      "id": "fa_app_ifneedbe",
+      "label": "ifNeedBe",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L32"
+    },
+    {
+      "id": "fa_app_loading",
+      "label": "loading",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L33"
+    },
+    {
+      "id": "fa_app_location",
+      "label": "location",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L34"
+    },
+    {
+      "id": "fa_app_locationplaceholder",
+      "label": "locationPlaceholder",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L35"
+    },
+    {
+      "id": "fa_app_login",
+      "label": "login",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L36"
+    },
+    {
+      "id": "fa_app_logout",
+      "label": "logout",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L37"
+    },
+    {
+      "id": "fa_app_manage",
+      "label": "manage",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L38"
+    },
+    {
+      "id": "fa_app_mixedoptionsdescription",
+      "label": "mixedOptionsDescription",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L39"
+    },
+    {
+      "id": "fa_app_mixedoptionskeepdates",
+      "label": "mixedOptionsKeepDates",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L40"
+    },
+    {
+      "id": "fa_app_mixedoptionskeeptimes",
+      "label": "mixedOptionsKeepTimes",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L41"
+    },
+    {
+      "id": "fa_app_mixedoptionstitle",
+      "label": "mixedOptionsTitle",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L42"
+    },
+    {
+      "id": "fa_app_monthview",
+      "label": "monthView",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L43"
+    },
+    {
+      "id": "fa_app_name",
+      "label": "name",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L44"
+    },
+    {
+      "id": "fa_app_nameplaceholder",
+      "label": "namePlaceholder",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L45"
+    },
+    {
+      "id": "fa_app_newpoll",
+      "label": "newPoll",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L46"
+    },
+    {
+      "id": "fa_app_nextmonth",
+      "label": "nextMonth",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L47"
+    },
+    {
+      "id": "fa_app_no",
+      "label": "no",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L48"
+    },
+    {
+      "id": "fa_app_nodatesselected",
+      "label": "noDatesSelected",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L49"
+    },
+    {
+      "id": "fa_app_novotes",
+      "label": "noVotes",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L50"
+    },
+    {
+      "id": "fa_app_ok",
+      "label": "ok",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L51"
+    },
+    {
+      "id": "fa_app_preferences",
+      "label": "preferences",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L52"
+    },
+    {
+      "id": "fa_app_previousmonth",
+      "label": "previousMonth",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L53"
+    },
+    {
+      "id": "fa_app_save",
+      "label": "save",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L54"
+    },
+    {
+      "id": "fa_app_saveinstruction",
+      "label": "saveInstruction",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L55"
+    },
+    {
+      "id": "fa_app_specifytimes",
+      "label": "specifyTimes",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L56"
+    },
+    {
+      "id": "fa_app_specifytimesdescription",
+      "label": "specifyTimesDescription",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L57"
+    },
+    {
+      "id": "fa_app_stepsummary",
+      "label": "stepSummary",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L58"
+    },
+    {
+      "id": "fa_app_timeformat",
+      "label": "timeFormat",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L59"
+    },
+    {
+      "id": "fa_app_timezone",
+      "label": "timeZone",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L60"
+    },
+    {
+      "id": "fa_app_title",
+      "label": "title",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L61"
+    },
+    {
+      "id": "fa_app_titleplaceholder",
+      "label": "titlePlaceholder",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L62"
+    },
+    {
+      "id": "fa_app_today",
+      "label": "today",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L63"
+    },
+    {
+      "id": "fa_app_weekview",
+      "label": "weekView",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L64"
+    },
+    {
+      "id": "fa_app_yes",
+      "label": "yes",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L65"
+    },
+    {
+      "id": "fa_app_you",
+      "label": "you",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L66"
+    },
+    {
+      "id": "fa_app_yourname",
+      "label": "yourName",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L67"
+    },
+    {
+      "id": "fa_app_common_language",
+      "label": "common_language",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L68"
+    },
+    {
+      "id": "fa_app_common_support",
+      "label": "common_support",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L69"
+    },
+    {
+      "id": "fa_app_errors_notfoundtitle",
+      "label": "errors_notFoundTitle",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L70"
+    },
+    {
+      "id": "fa_app_errors_notfounddescription",
+      "label": "errors_notFoundDescription",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L71"
+    },
+    {
+      "id": "fa_app_errors_gotohome",
+      "label": "errors_goToHome",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L72"
+    },
+    {
+      "id": "fa_app_back",
+      "label": "back",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L73"
+    },
+    {
+      "id": "fa_app_notificationson",
+      "label": "notificationsOn",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L74"
+    },
+    {
+      "id": "fa_app_share",
+      "label": "share",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L75"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_12h",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_24h",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_addtimeoption",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_applytoalldates",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_areyousure",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_calendarhelp",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_calendarhelptitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_cancel",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_commentplaceholder",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_comments",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_continue",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_copied",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_createdby",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_createpoll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_delete",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_deletedate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_deletedpoll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_deletedpollinfo",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_deletepoll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_deletepolldescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_deletingoptionswarning",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_description",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_descriptionplaceholder",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_editdetails",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_editoptions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_email",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_emailplaceholder",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_exporttocsv",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_forgetme",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_guest",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_ifneedbe",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_loading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_location",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_locationplaceholder",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_login",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_logout",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_manage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_mixedoptionsdescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_mixedoptionskeepdates",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_mixedoptionskeeptimes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_mixedoptionstitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_monthview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_name",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_nameplaceholder",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_newpoll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_nextmonth",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_no",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L48",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_nodatesselected",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L49",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_novotes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_ok",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_preferences",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L52",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_previousmonth",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L53",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_save",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_saveinstruction",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_specifytimes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L56",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_specifytimesdescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L57",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_stepsummary",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L58",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_timeformat",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L59",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_timezone",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L60",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_title",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L61",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_titleplaceholder",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L62",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_today",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L63",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_weekview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L64",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_yes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L65",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_you",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L66",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_yourname",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L67",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_common_language",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L68",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_common_support",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L69",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_errors_notfoundtitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L70",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_errors_notfounddescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L71",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_errors_gotohome",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L72",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_back",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L73",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_notificationson",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L74",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_fa_app_json",
+      "target": "fa_app_share",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/fa/app.json",
+      "source_location": "L75",
+      "weight": 1.0
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_agents_skills_prisma_database_setup_skill_md",
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "prisma_database_setup_skill_prisma_database_setup",
+      "label": "Prisma Database Setup",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L10"
+    },
+    {
+      "id": "prisma_database_setup_skill_when_to_apply",
+      "label": "When to Apply",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L14"
+    },
+    {
+      "id": "prisma_database_setup_skill_rule_categories_by_priority",
+      "label": "Rule Categories by Priority",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L24"
+    },
+    {
+      "id": "prisma_database_setup_skill_system_prerequisites_prisma_orm_7",
+      "label": "System Prerequisites (Prisma ORM 7)",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L32"
+    },
+    {
+      "id": "prisma_database_setup_skill_bun_runtime",
+      "label": "Bun Runtime",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L37"
+    },
+    {
+      "id": "prisma_database_setup_skill_supported_databases",
+      "label": "Supported Databases",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L41"
+    },
+    {
+      "id": "prisma_database_setup_skill_configuration_files",
+      "label": "Configuration Files",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L53"
+    },
+    {
+      "id": "prisma_database_setup_skill_driver_adapters_prisma_orm_7",
+      "label": "Driver Adapters (Prisma ORM 7)",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L60"
+    },
+    {
+      "id": "prisma_database_setup_skill_prisma_client_setup_required",
+      "label": "Prisma Client Setup (Required)",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L85"
+    },
+    {
+      "id": "prisma_database_setup_skill_quick_reference",
+      "label": "Quick Reference",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L119"
+    },
+    {
+      "id": "prisma_database_setup_skill_postgresql",
+      "label": "PostgreSQL",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L121"
+    },
+    {
+      "id": "prisma_database_setup_skill_mysql",
+      "label": "MySQL",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L133"
+    },
+    {
+      "id": "prisma_database_setup_skill_sqlite",
+      "label": "SQLite",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L145"
+    },
+    {
+      "id": "prisma_database_setup_skill_mongodb_prisma_v6_only",
+      "label": "MongoDB (Prisma v6 only)",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L157"
+    },
+    {
+      "id": "prisma_database_setup_skill_rule_files",
+      "label": "Rule Files",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L169"
+    },
+    {
+      "id": "prisma_database_setup_skill_how_to_use",
+      "label": "How to Use",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L184"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_agents_skills_prisma_database_setup_skill_md",
+      "target": "prisma_database_setup_skill_prisma_database_setup",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "prisma_database_setup_skill_prisma_database_setup",
+      "target": "prisma_database_setup_skill_when_to_apply",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "prisma_database_setup_skill_prisma_database_setup",
+      "target": "prisma_database_setup_skill_rule_categories_by_priority",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "prisma_database_setup_skill_prisma_database_setup",
+      "target": "prisma_database_setup_skill_system_prerequisites_prisma_orm_7",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "prisma_database_setup_skill_prisma_database_setup",
+      "target": "prisma_database_setup_skill_bun_runtime",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "prisma_database_setup_skill_prisma_database_setup",
+      "target": "prisma_database_setup_skill_supported_databases",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "prisma_database_setup_skill_prisma_database_setup",
+      "target": "prisma_database_setup_skill_configuration_files",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L53",
+      "weight": 1.0
+    },
+    {
+      "source": "prisma_database_setup_skill_prisma_database_setup",
+      "target": "prisma_database_setup_skill_driver_adapters_prisma_orm_7",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L60",
+      "weight": 1.0
+    },
+    {
+      "source": "prisma_database_setup_skill_prisma_database_setup",
+      "target": "prisma_database_setup_skill_prisma_client_setup_required",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L85",
+      "weight": 1.0
+    },
+    {
+      "source": "prisma_database_setup_skill_prisma_database_setup",
+      "target": "prisma_database_setup_skill_quick_reference",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L119",
+      "weight": 1.0
+    },
+    {
+      "source": "prisma_database_setup_skill_quick_reference",
+      "target": "prisma_database_setup_skill_postgresql",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L121",
+      "weight": 1.0
+    },
+    {
+      "source": "prisma_database_setup_skill_quick_reference",
+      "target": "prisma_database_setup_skill_mysql",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L133",
+      "weight": 1.0
+    },
+    {
+      "source": "prisma_database_setup_skill_quick_reference",
+      "target": "prisma_database_setup_skill_sqlite",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L145",
+      "weight": 1.0
+    },
+    {
+      "source": "prisma_database_setup_skill_quick_reference",
+      "target": "prisma_database_setup_skill_mongodb_prisma_v6_only",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L157",
+      "weight": 1.0
+    },
+    {
+      "source": "prisma_database_setup_skill_prisma_database_setup",
+      "target": "prisma_database_setup_skill_rule_files",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L169",
+      "weight": 1.0
+    },
+    {
+      "source": "prisma_database_setup_skill_prisma_database_setup",
+      "target": "prisma_database_setup_skill_how_to_use",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-database-setup/SKILL.md",
+      "source_location": "L184",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_scripts_create_release_sh",
+      "label": "create-release.sh",
+      "file_type": "code",
+      "source_file": "scripts/create-release.sh",
+      "source_location": "L1",
+      "metadata": { "language": "bash", "kind": "file" }
+    },
+    {
+      "id": "d_ladson_rallly_scripts_create_release_sh__entry",
+      "label": "create-release.sh script",
+      "file_type": "code",
+      "source_file": "scripts/create-release.sh",
+      "source_location": "L1",
+      "metadata": { "language": "bash", "kind": "bash_entrypoint" }
+    },
+    {
+      "id": "scripts_create_release_increment_version",
+      "label": "increment_version()",
+      "file_type": "code",
+      "source_file": "scripts/create-release.sh",
+      "source_location": "L4",
+      "metadata": { "language": "bash", "kind": "bash_function" }
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_scripts_create_release_sh",
+      "target": "d_ladson_rallly_scripts_create_release_sh__entry",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/create-release.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_scripts_create_release_sh",
+      "target": "scripts_create_release_increment_version",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/create-release.sh",
+      "source_location": "L4",
+      "weight": 1.0
+    }
+  ]
+}

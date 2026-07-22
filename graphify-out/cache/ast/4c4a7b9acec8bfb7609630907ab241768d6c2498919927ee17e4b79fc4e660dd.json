@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_administrators_deleting_a_meeting_poll_mdx",
+      "label": "deleting-a-meeting-poll.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/administrators/deleting-a-meeting-poll.mdx",
+      "source_location": "L1"
+    }
+  ],
+  "edges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

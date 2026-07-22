@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_web_biome_json",
+      "label": "biome.json",
+      "file_type": "code",
+      "source_file": "apps/web/biome.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "web_biome_schema",
+      "label": "$schema",
+      "file_type": "code",
+      "source_file": "apps/web/biome.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "web_biome_extends",
+      "label": "extends",
+      "file_type": "code",
+      "source_file": "apps/web/biome.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "web_biome_overrides",
+      "label": "overrides",
+      "file_type": "code",
+      "source_file": "apps/web/biome.json",
+      "source_location": "L4"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_web_biome_json",
+      "target": "web_biome_schema",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/biome.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_biome_json",
+      "target": "web_biome_extends",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/biome.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_biome_json",
+      "target": "ref",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/biome.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_biome_json",
+      "target": "web_biome_overrides",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/biome.json",
+      "source_location": "L4",
+      "weight": 1.0
+    }
+  ]
+}

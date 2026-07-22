@@ -1,0 +1,143 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_contributing_md",
+      "label": "CONTRIBUTING.md",
+      "file_type": "document",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "rallly_contributing_contributing_guide",
+      "label": "Contributing Guide",
+      "file_type": "document",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "rallly_contributing_code",
+      "label": "Code \ud83e\uddd1\u200d\ud83d\udcbb",
+      "file_type": "document",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L5"
+    },
+    {
+      "id": "rallly_contributing_local_development",
+      "label": "Local development \ud83e\uddd1\u200d\ud83d\udd27",
+      "file_type": "document",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L20"
+    },
+    {
+      "id": "rallly_contributing_translations",
+      "label": "Translations \ud83c\udf10",
+      "file_type": "document",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L92"
+    },
+    {
+      "id": "rallly_contributing_becoming_a_sponsor",
+      "label": "Becoming a Sponsor \ud83d\udcb0",
+      "file_type": "document",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L96"
+    },
+    {
+      "id": "rallly_contributing_documentation",
+      "label": "Documentation",
+      "file_type": "document",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L104"
+    },
+    {
+      "id": "rallly_contributing_code_of_conduct",
+      "label": "Code of Conduct \ud83d\udc6e\u200d\u2640\ufe0f",
+      "file_type": "document",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L108"
+    },
+    {
+      "id": "rallly_contributing_license",
+      "label": "License \ud83d\udc69\u200d\u2696\ufe0f",
+      "file_type": "document",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L112"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_contributing_md",
+      "target": "rallly_contributing_contributing_guide",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_contributing_contributing_guide",
+      "target": "rallly_contributing_code",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_contributing_contributing_guide",
+      "target": "rallly_contributing_local_development",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_contributing_contributing_guide",
+      "target": "rallly_contributing_translations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L92",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_contributing_contributing_guide",
+      "target": "rallly_contributing_becoming_a_sponsor",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L96",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_contributing_contributing_guide",
+      "target": "rallly_contributing_documentation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L104",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_contributing_contributing_guide",
+      "target": "rallly_contributing_code_of_conduct",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L108",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_contributing_contributing_guide",
+      "target": "rallly_contributing_license",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": "L112",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

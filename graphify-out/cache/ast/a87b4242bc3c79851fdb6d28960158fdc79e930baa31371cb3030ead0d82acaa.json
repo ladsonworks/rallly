@@ -1,0 +1,493 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "label": "app.json",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "nn_app_areyousure",
+      "label": "areYouSure",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "nn_app_cancel",
+      "label": "cancel",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "nn_app_changename",
+      "label": "changeName",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "nn_app_settings",
+      "label": "settings",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "nn_app_comments",
+      "label": "comments",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "nn_app_continue",
+      "label": "continue",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "nn_app_copied",
+      "label": "copied",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "nn_app_createanaccount",
+      "label": "createAnAccount",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "nn_app_createdby",
+      "label": "createdBy",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "nn_app_createpoll",
+      "label": "createPoll",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "nn_app_delete",
+      "label": "delete",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "nn_app_deletedate",
+      "label": "deleteDate",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "nn_app_deletedpoll",
+      "label": "deletedPoll",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "nn_app_deletedpollinfo",
+      "label": "deletedPollInfo",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L15"
+    },
+    {
+      "id": "nn_app_deleteparticipant",
+      "label": "deleteParticipant",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "nn_app_deleteparticipantdescription",
+      "label": "deleteParticipantDescription",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L17"
+    },
+    {
+      "id": "nn_app_deletepoll",
+      "label": "deletePoll",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L18"
+    },
+    {
+      "id": "nn_app_deletepolldescription",
+      "label": "deletePollDescription",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "nn_app_description",
+      "label": "description",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "nn_app_descriptionplaceholder",
+      "label": "descriptionPlaceholder",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L21"
+    },
+    {
+      "id": "nn_app_optional",
+      "label": "optional",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "nn_app_billingstatusplan",
+      "label": "billingStatusPlan",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L23"
+    },
+    {
+      "id": "nn_app_billingperiod",
+      "label": "billingPeriod",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "nn_app_billingperiodmonthly",
+      "label": "billingPeriodMonthly",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "nn_app_billingperiodyearly",
+      "label": "billingPeriodYearly",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L26"
+    },
+    {
+      "id": "nn_app_monthlybillingdescription",
+      "label": "monthlyBillingDescription",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L27"
+    },
+    {
+      "id": "nn_app_optionallabel",
+      "label": "optionalLabel",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L28"
+    },
+    {
+      "id": "nn_app_calendarhelp",
+      "label": "calendarHelp",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L29"
+    },
+    {
+      "id": "nn_app_commentplaceholder",
+      "label": "commentPlaceholder",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L30"
+    },
+    {
+      "id": "nn_app_supportdescription",
+      "label": "supportDescription",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L31"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_areyousure",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_cancel",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_changename",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_settings",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_comments",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_continue",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_copied",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_createanaccount",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_createdby",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_createpoll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_delete",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_deletedate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_deletedpoll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_deletedpollinfo",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_deleteparticipant",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_deleteparticipantdescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_deletepoll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_deletepolldescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_description",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_descriptionplaceholder",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_optional",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_billingstatusplan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_billingperiod",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_billingperiodmonthly",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_billingperiodyearly",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_monthlybillingdescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_optionallabel",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_calendarhelp",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_commentplaceholder",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_nn_app_json",
+      "target": "nn_app_supportdescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/nn/app.json",
+      "source_location": "L31",
+      "weight": 1.0
+    }
+  ]
+}

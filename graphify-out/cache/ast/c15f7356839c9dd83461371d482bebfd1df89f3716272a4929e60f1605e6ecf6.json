@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_packages_languages_tsconfig_json",
+      "label": "tsconfig.json",
+      "file_type": "code",
+      "source_file": "packages/languages/tsconfig.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "languages_tsconfig_extends",
+      "label": "extends",
+      "file_type": "code",
+      "source_file": "packages/languages/tsconfig.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "languages_tsconfig_include",
+      "label": "include",
+      "file_type": "code",
+      "source_file": "packages/languages/tsconfig.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "languages_tsconfig_exclude",
+      "label": "exclude",
+      "file_type": "code",
+      "source_file": "packages/languages/tsconfig.json",
+      "source_location": "L4"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_packages_languages_tsconfig_json",
+      "target": "languages_tsconfig_extends",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/tsconfig.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_languages_tsconfig_json",
+      "target": "ref_rallly_tsconfig_node_json",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/tsconfig.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "d_ladson_rallly_packages_languages_tsconfig_json",
+      "target": "languages_tsconfig_include",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/tsconfig.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "languages_tsconfig_include",
+      "target": "ref_src_ts",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/tsconfig.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "d_ladson_rallly_packages_languages_tsconfig_json",
+      "target": "languages_tsconfig_exclude",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/tsconfig.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "languages_tsconfig_exclude",
+      "target": "ref_node_modules",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/tsconfig.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "import"
+    }
+  ]
+}

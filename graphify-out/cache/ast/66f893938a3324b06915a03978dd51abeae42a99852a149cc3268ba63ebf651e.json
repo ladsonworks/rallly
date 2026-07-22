@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_src_posts_the_future_of_rallly_md",
+      "label": "the-future-of-rallly.md",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/the-future-of-rallly.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "posts_the_future_of_rallly_the_workflow",
+      "label": "The Workflow",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/the-future-of-rallly.md",
+      "source_location": "L9"
+    },
+    {
+      "id": "posts_the_future_of_rallly_breaking_it_down",
+      "label": "Breaking it Down",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/the-future-of-rallly.md",
+      "source_location": "L15"
+    },
+    {
+      "id": "posts_the_future_of_rallly_availability_grids",
+      "label": "Availability Grids",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/the-future-of-rallly.md",
+      "source_location": "L19"
+    },
+    {
+      "id": "posts_the_future_of_rallly_polls",
+      "label": "Polls",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/the-future-of-rallly.md",
+      "source_location": "L25"
+    },
+    {
+      "id": "posts_the_future_of_rallly_rsvp",
+      "label": "RSVP",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/the-future-of-rallly.md",
+      "source_location": "L31"
+    },
+    {
+      "id": "posts_the_future_of_rallly_tying_it_together",
+      "label": "Tying it Together",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/the-future-of-rallly.md",
+      "source_location": "L37"
+    },
+    {
+      "id": "posts_the_future_of_rallly_conclusion",
+      "label": "Conclusion",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/the-future-of-rallly.md",
+      "source_location": "L41"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_the_future_of_rallly_md",
+      "target": "posts_the_future_of_rallly_the_workflow",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/the-future-of-rallly.md",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_the_future_of_rallly_md",
+      "target": "posts_the_future_of_rallly_breaking_it_down",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/the-future-of-rallly.md",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_the_future_of_rallly_breaking_it_down",
+      "target": "posts_the_future_of_rallly_availability_grids",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/the-future-of-rallly.md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_the_future_of_rallly_breaking_it_down",
+      "target": "posts_the_future_of_rallly_polls",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/the-future-of-rallly.md",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_the_future_of_rallly_breaking_it_down",
+      "target": "posts_the_future_of_rallly_rsvp",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/the-future-of-rallly.md",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_the_future_of_rallly_md",
+      "target": "posts_the_future_of_rallly_tying_it_together",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/the-future-of-rallly.md",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_the_future_of_rallly_md",
+      "target": "posts_the_future_of_rallly_conclusion",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/the-future-of-rallly.md",
+      "source_location": "L41",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

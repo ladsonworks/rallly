@@ -1,0 +1,271 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_spaces_billing_mdx",
+      "label": "billing.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "spaces_billing_how_seat_based_billing_works",
+      "label": "How Seat-Based Billing Works",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L7"
+    },
+    {
+      "id": "spaces_billing_understanding_seats",
+      "label": "Understanding Seats",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L17"
+    },
+    {
+      "id": "spaces_billing_what_is_a_seat",
+      "label": "What is a Seat?",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L19"
+    },
+    {
+      "id": "spaces_billing_seat_allocation",
+      "label": "Seat Allocation",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L22"
+    },
+    {
+      "id": "spaces_billing_managing_your_subscription",
+      "label": "Managing Your Subscription",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L31"
+    },
+    {
+      "id": "spaces_billing_upgrading_to_pro",
+      "label": "Upgrading to Pro",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L33"
+    },
+    {
+      "id": "spaces_billing_managing_seats",
+      "label": "Managing Seats",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L51"
+    },
+    {
+      "id": "spaces_billing_adding_seats",
+      "label": "Adding Seats",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L55"
+    },
+    {
+      "id": "spaces_billing_removing_seats",
+      "label": "Removing Seats",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L63"
+    },
+    {
+      "id": "spaces_billing_billing_portal_access",
+      "label": "Billing Portal Access",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L75"
+    },
+    {
+      "id": "spaces_billing_subscription_management",
+      "label": "Subscription Management",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L79"
+    },
+    {
+      "id": "spaces_billing_payment_method_updates",
+      "label": "Payment Method Updates",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L85"
+    },
+    {
+      "id": "spaces_billing_billing_timeline_and_prorations",
+      "label": "Billing Timeline and Prorations",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L90"
+    },
+    {
+      "id": "spaces_billing_immediate_changes",
+      "label": "Immediate Changes",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L92"
+    },
+    {
+      "id": "spaces_billing_next_billing_cycle",
+      "label": "Next Billing Cycle",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L97"
+    },
+    {
+      "id": "spaces_billing_frequently_asked_questions",
+      "label": "Frequently Asked Questions",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L102"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_billing_mdx",
+      "target": "spaces_billing_how_seat_based_billing_works",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_billing_mdx",
+      "target": "spaces_billing_understanding_seats",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_billing_understanding_seats",
+      "target": "spaces_billing_what_is_a_seat",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_billing_understanding_seats",
+      "target": "spaces_billing_seat_allocation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_billing_mdx",
+      "target": "spaces_billing_managing_your_subscription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_billing_managing_your_subscription",
+      "target": "spaces_billing_upgrading_to_pro",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_billing_managing_your_subscription",
+      "target": "spaces_billing_managing_seats",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_billing_managing_seats",
+      "target": "spaces_billing_adding_seats",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_billing_managing_seats",
+      "target": "spaces_billing_removing_seats",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L63",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_billing_mdx",
+      "target": "spaces_billing_billing_portal_access",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L75",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_billing_billing_portal_access",
+      "target": "spaces_billing_subscription_management",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L79",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_billing_billing_portal_access",
+      "target": "spaces_billing_payment_method_updates",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L85",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_billing_mdx",
+      "target": "spaces_billing_billing_timeline_and_prorations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L90",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_billing_billing_timeline_and_prorations",
+      "target": "spaces_billing_immediate_changes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L92",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_billing_billing_timeline_and_prorations",
+      "target": "spaces_billing_next_billing_cycle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L97",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_billing_mdx",
+      "target": "spaces_billing_frequently_asked_questions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/billing.mdx",
+      "source_location": "L102",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

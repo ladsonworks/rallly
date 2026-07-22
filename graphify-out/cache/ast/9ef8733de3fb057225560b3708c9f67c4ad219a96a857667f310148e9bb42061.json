@@ -1,0 +1,12 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_public_locales_fa_blog_json",
+      "label": "blog.json",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/fa/blog.json",
+      "source_location": "L1"
+    }
+  ],
+  "edges": []
+}

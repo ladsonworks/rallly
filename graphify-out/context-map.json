@@ -1,0 +1,1288 @@
+{
+  "subsystems": [
+    {
+      "name": ".husky",
+      "fileCount": 1,
+      "reachedCount": 0,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "husky.sh",
+          "file": ".husky/_/husky.sh",
+          "degree": 2
+        },
+        {
+          "label": "husky.sh script",
+          "file": ".husky/_/husky.sh",
+          "degree": 1
+        }
+      ],
+      "vocabulary": ["husky", "script"]
+    },
+    {
+      "name": ".mcp.json",
+      "fileCount": 1,
+      "reachedCount": 0,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "next-devtools",
+          "file": ".mcp.json",
+          "degree": 2
+        },
+        {
+          "label": ".mcp.json",
+          "file": ".mcp.json",
+          "degree": 1
+        },
+        {
+          "label": "npx",
+          "file": ".mcp.json",
+          "degree": 1
+        }
+      ],
+      "vocabulary": ["devtools", "json", "mcp", "next", "npx"]
+    },
+    {
+      "name": ".vscode",
+      "fileCount": 1,
+      "reachedCount": 0,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "settings.json",
+          "file": ".vscode/settings.json",
+          "degree": 11
+        },
+        {
+          "label": "editor.codeActionsOnSave",
+          "file": ".vscode/settings.json",
+          "degree": 3
+        },
+        {
+          "label": "[javascript]",
+          "file": ".vscode/settings.json",
+          "degree": 2
+        },
+        {
+          "label": "[typescriptreact]",
+          "file": ".vscode/settings.json",
+          "degree": 2
+        },
+        {
+          "label": "editor.defaultFormatter",
+          "file": ".vscode/settings.json",
+          "degree": 1
+        }
+      ],
+      "vocabulary": [
+        "editor",
+        "typescript",
+        "formatter",
+        "biome",
+        "imports",
+        "preferences",
+        "save",
+        "source"
+      ]
+    },
+    {
+      "name": "apps/docs",
+      "fileCount": 3,
+      "reachedCount": 0,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "docs.json",
+          "file": "apps/docs/docs.json",
+          "degree": 11
+        },
+        {
+          "label": "package.json",
+          "file": "apps/docs/package.json",
+          "degree": 6
+        },
+        {
+          "label": "socials",
+          "file": "apps/docs/docs.json",
+          "degree": 6
+        },
+        {
+          "label": "colors",
+          "file": "apps/docs/docs.json",
+          "degree": 4
+        },
+        {
+          "label": "dependencies",
+          "file": "apps/docs/package.json",
+          "degree": 4
+        }
+      ],
+      "vocabulary": [
+        "dark",
+        "json",
+        "light",
+        "dependencies",
+        "dev",
+        "href",
+        "name",
+        "primary"
+      ]
+    },
+    {
+      "name": "apps/landing",
+      "fileCount": 179,
+      "reachedCount": 42,
+      "entryPoints": 19,
+      "capabilities": [
+        "apps/landing/src/app/[locale]/(main)/(seo)/best-doodle-alternative/page.tsx",
+        "apps/landing/src/app/[locale]/(main)/(seo)/free-scheduling-poll/page.tsx",
+        "apps/landing/src/app/[locale]/(main)/(seo)/when2meet-alternative/page.tsx",
+        "apps/landing/src/app/[locale]/(main)/[...notFound]/page.tsx",
+        "apps/landing/src/app/[locale]/(main)/blog/[slug]/page.tsx",
+        "apps/landing/src/app/[locale]/(main)/blog/layout.tsx",
+        "apps/landing/src/app/[locale]/(main)/blog/page.tsx",
+        "apps/landing/src/app/[locale]/(main)/cookie-policy/page.tsx",
+        "apps/landing/src/app/[locale]/(main)/layout.tsx",
+        "apps/landing/src/app/[locale]/(main)/page.tsx",
+        "apps/landing/src/app/[locale]/(main)/pricing/page.tsx",
+        "apps/landing/src/app/[locale]/(main)/privacy-policy/page.tsx",
+        "apps/landing/src/app/[locale]/(main)/terms-of-use/page.tsx",
+        "apps/landing/src/app/[locale]/layout.tsx",
+        "apps/landing/src/app/[locale]/licensing/thank-you/page.tsx",
+        "apps/landing/src/app/[locale]/not-found.tsx",
+        "apps/landing/src/app/api/og-image/route.tsx",
+        "apps/landing/src/app/sitemap.ts",
+        "apps/landing/src/i18n/middleware.ts"
+      ],
+      "spine": [
+        {
+          "label": "home.json",
+          "file": "apps/landing/public/locales/ko/home.json",
+          "degree": 41
+        },
+        {
+          "label": "home.json",
+          "file": "apps/landing/public/locales/eu/home.json",
+          "degree": 40
+        },
+        {
+          "label": "home.json",
+          "file": "apps/landing/public/locales/pt/home.json",
+          "degree": 40
+        },
+        {
+          "label": "home.json",
+          "file": "apps/landing/public/locales/ja/home.json",
+          "degree": 39
+        },
+        {
+          "label": "common.json",
+          "file": "apps/landing/public/locales/pt/common.json",
+          "degree": 37
+        }
+      ],
+      "vocabulary": [
+        "description",
+        "poll",
+        "title",
+        "alternative",
+        "free",
+        "meta",
+        "upgrade",
+        "scheduling"
+      ]
+    },
+    {
+      "name": "apps/web",
+      "fileCount": 591,
+      "reachedCount": 461,
+      "entryPoints": 74,
+      "capabilities": [
+        "apps/web/src/app/[locale]/(auth)/forgot-password/page.tsx",
+        "apps/web/src/app/[locale]/(auth)/layout.tsx",
+        "apps/web/src/app/[locale]/(auth)/loading.tsx",
+        "apps/web/src/app/[locale]/(auth)/login/page.tsx",
+        "apps/web/src/app/[locale]/(auth)/login/verify/page.tsx",
+        "apps/web/src/app/[locale]/(auth)/register/page.tsx",
+        "apps/web/src/app/[locale]/(auth)/reset-password/page.tsx",
+        "apps/web/src/app/[locale]/(optional-space)/layout.tsx",
+        "apps/web/src/app/[locale]/(optional-space)/new/loading.tsx",
+        "apps/web/src/app/[locale]/(optional-space)/new/page.tsx",
+        "apps/web/src/app/[locale]/(optional-space)/poll/[urlId]/edit-details/page.tsx",
+        "apps/web/src/app/[locale]/(optional-space)/poll/[urlId]/edit-options/page.tsx",
+        "apps/web/src/app/[locale]/(optional-space)/poll/[urlId]/edit-settings/page.tsx",
+        "apps/web/src/app/[locale]/(optional-space)/poll/[urlId]/layout.tsx",
+        "apps/web/src/app/[locale]/(optional-space)/poll/[urlId]/loading.tsx",
+        "apps/web/src/app/[locale]/(optional-space)/poll/[urlId]/page.tsx",
+        "apps/web/src/app/[locale]/(space)/(dashboard)/calendar/page.tsx",
+        "apps/web/src/app/[locale]/(space)/(dashboard)/events/page.tsx",
+        "apps/web/src/app/[locale]/(space)/(dashboard)/layout.tsx",
+        "apps/web/src/app/[locale]/(space)/(dashboard)/loading.tsx",
+        "apps/web/src/app/[locale]/(space)/(dashboard)/page.tsx",
+        "apps/web/src/app/[locale]/(space)/(dashboard)/polls/page.tsx",
+        "apps/web/src/app/[locale]/(space)/layout.tsx",
+        "apps/web/src/app/[locale]/(space)/settings/[...notfound]/page.tsx",
+        "apps/web/src/app/[locale]/(space)/settings/api-keys/page.tsx",
+        "apps/web/src/app/[locale]/(space)/settings/billing/page.tsx",
+        "apps/web/src/app/[locale]/(space)/settings/calendars/page.tsx",
+        "apps/web/src/app/[locale]/(space)/settings/event-types/page.tsx",
+        "apps/web/src/app/[locale]/(space)/settings/general/page.tsx",
+        "apps/web/src/app/[locale]/(space)/settings/layout.tsx",
+        "apps/web/src/app/[locale]/(space)/settings/loading.tsx",
+        "apps/web/src/app/[locale]/(space)/settings/members/page.tsx",
+        "apps/web/src/app/[locale]/(space)/settings/notifications/page.tsx",
+        "apps/web/src/app/[locale]/(space)/settings/preferences/page.tsx",
+        "apps/web/src/app/[locale]/(space)/settings/profile/page.tsx",
+        "apps/web/src/app/[locale]/(space)/settings/security/page.tsx",
+        "apps/web/src/app/[locale]/(space)/settings/spaces/page.tsx",
+        "apps/web/src/app/[locale]/[...notFound]/page.tsx",
+        "apps/web/src/app/[locale]/accept-invite/[inviteId]/page.tsx",
+        "apps/web/src/app/[locale]/admin-setup/page.tsx",
+        "apps/web/src/app/[locale]/control-panel/branding/page.tsx",
+        "apps/web/src/app/[locale]/control-panel/layout.tsx",
+        "apps/web/src/app/[locale]/control-panel/license/page.tsx",
+        "apps/web/src/app/[locale]/control-panel/loading.tsx",
+        "apps/web/src/app/[locale]/control-panel/page.tsx",
+        "apps/web/src/app/[locale]/control-panel/settings/page.tsx",
+        "apps/web/src/app/[locale]/control-panel/users/page.tsx",
+        "apps/web/src/app/[locale]/e/[id]/page.tsx",
+        "apps/web/src/app/[locale]/error.tsx",
+        "apps/web/src/app/[locale]/invite/[urlId]/loading.tsx",
+        "apps/web/src/app/[locale]/invite/[urlId]/page.tsx",
+        "apps/web/src/app/[locale]/layout.tsx",
+        "apps/web/src/app/[locale]/loading.tsx",
+        "apps/web/src/app/[locale]/maintenance/page.tsx",
+        "apps/web/src/app/[locale]/not-found.tsx",
+        "apps/web/src/app/[locale]/quick-create/page.tsx",
+        "apps/web/src/app/[locale]/setup/page.tsx",
+        "apps/web/src/app/api/better-auth/[...all]/route.ts",
+        "apps/web/src/app/api/event/[...route]/route.ts",
+        "apps/web/src/app/api/house-keeping/[...method]/route.ts",
+        "apps/web/src/app/api/integrations/[...connection]/route.ts",
+        "apps/web/src/app/api/legacy/[...route]/route.ts",
+        "apps/web/src/app/api/licensing/v1/[...route]/route.ts",
+        "apps/web/src/app/api/og-image-poll/route.tsx",
+        "apps/web/src/app/api/private/[...route]/route.ts",
+        "apps/web/src/app/api/status/route.ts",
+        "apps/web/src/app/api/storage/[...key]/route.ts",
+        "apps/web/src/app/api/stripe/buy-license/route.ts",
+        "apps/web/src/app/api/stripe/portal/route.ts",
+        "apps/web/src/app/api/stripe/webhook/route.ts",
+        "apps/web/src/app/api/trpc/[trpc]/route.ts",
+        "apps/web/src/app/api/updates/route.ts",
+        "apps/web/src/app/global-error.tsx",
+        "apps/web/src/instrumentation.ts"
+      ],
+      "spine": [
+        {
+          "label": "app.json",
+          "file": "apps/web/public/locales/en/app.json",
+          "degree": 502
+        },
+        {
+          "label": "app.json",
+          "file": "apps/web/public/locales/cs/app.json",
+          "degree": 500
+        },
+        {
+          "label": "app.json",
+          "file": "apps/web/public/locales/da/app.json",
+          "degree": 500
+        },
+        {
+          "label": "app.json",
+          "file": "apps/web/public/locales/de/app.json",
+          "degree": 500
+        },
+        {
+          "label": "app.json",
+          "file": "apps/web/public/locales/es/app.json",
+          "degree": 500
+        }
+      ],
+      "vocabulary": [
+        "description",
+        "poll",
+        "title",
+        "error",
+        "event",
+        "email",
+        "space",
+        "password"
+      ]
+    },
+    {
+      "name": "biome.json",
+      "fileCount": 1,
+      "reachedCount": 0,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "style",
+          "file": "biome.json",
+          "degree": 13
+        },
+        {
+          "label": "biome.json",
+          "file": "biome.json",
+          "degree": 10
+        },
+        {
+          "label": "formatter",
+          "file": "biome.json",
+          "degree": 7
+        },
+        {
+          "label": "formatter",
+          "file": "biome.json",
+          "degree": 6
+        },
+        {
+          "label": "rules",
+          "file": "biome.json",
+          "degree": 6
+        }
+      ],
+      "vocabulary": [
+        "style",
+        "enabled",
+        "imports",
+        "level",
+        "options",
+        "parameter",
+        "quote",
+        "dayjs"
+      ]
+    },
+    {
+      "name": "docker",
+      "fileCount": 1,
+      "reachedCount": 0,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "cors.json",
+          "file": "docker/cors.json",
+          "degree": 1
+        },
+        {
+          "label": "CORSRules",
+          "file": "docker/cors.json",
+          "degree": 1
+        }
+      ],
+      "vocabulary": ["cors", "json", "rules"]
+    },
+    {
+      "name": "package.json",
+      "fileCount": 1,
+      "reachedCount": 1,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "scripts",
+          "file": "package.json",
+          "degree": 34
+        },
+        {
+          "label": "devDependencies",
+          "file": "package.json",
+          "degree": 12
+        },
+        {
+          "label": "package.json",
+          "file": "package.json",
+          "degree": 9
+        },
+        {
+          "label": "engines",
+          "file": "package.json",
+          "degree": 2
+        },
+        {
+          "label": "husky",
+          "file": "package.json",
+          "degree": 2
+        }
+      ],
+      "vocabulary": [
+        "dev",
+        "build",
+        "check",
+        "docker",
+        "fix",
+        "json",
+        "landing",
+        "lint"
+      ]
+    },
+    {
+      "name": "packages/billing",
+      "fileCount": 14,
+      "reachedCount": 10,
+      "entryPoints": 6,
+      "capabilities": [
+        "packages/billing/src/scripts/checkout-expiry.ts",
+        "packages/billing/src/scripts/cleanup-portal-configurations.ts",
+        "packages/billing/src/scripts/invoice-pending-prorations.ts",
+        "packages/billing/src/scripts/subscription-data-sync.ts",
+        "packages/billing/src/scripts/sync-payment-methods.ts",
+        "packages/billing/src/scripts/sync-space-subscription.ts"
+      ],
+      "spine": [
+        {
+          "label": "stripe",
+          "file": "packages/billing/src/lib/stripe.ts",
+          "degree": 15
+        },
+        {
+          "label": "stripe.ts",
+          "file": "packages/billing/src/lib/stripe.ts",
+          "degree": 10
+        },
+        {
+          "label": "scripts",
+          "file": "packages/billing/package.json",
+          "degree": 8
+        },
+        {
+          "label": "invoice-pending-prorations.ts",
+          "file": "packages/billing/src/scripts/invoice-pending-prorations.ts",
+          "degree": 7
+        },
+        {
+          "label": "package.json",
+          "file": "packages/billing/package.json",
+          "degree": 7
+        }
+      ],
+      "vocabulary": [
+        "pricing",
+        "sync",
+        "subscription",
+        "checkout",
+        "group",
+        "json",
+        "portal",
+        "rallly"
+      ]
+    },
+    {
+      "name": "packages/database",
+      "fileCount": 44,
+      "reachedCount": 37,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "User.ts",
+          "file": "packages/database/generated/prisma/models/User.ts",
+          "degree": 290
+        },
+        {
+          "label": "prismaNamespace.ts",
+          "file": "packages/database/generated/prisma/internal/prismaNamespace.ts",
+          "degree": 200
+        },
+        {
+          "label": "Space.ts",
+          "file": "packages/database/generated/prisma/models/Space.ts",
+          "degree": 172
+        },
+        {
+          "label": "ScheduledEvent.ts",
+          "file": "packages/database/generated/prisma/models/ScheduledEvent.ts",
+          "degree": 166
+        },
+        {
+          "label": "Poll.ts",
+          "file": "packages/database/generated/prisma/models/Poll.ts",
+          "degree": 162
+        }
+      ],
+      "vocabulary": [
+        "input",
+        "without",
+        "many",
+        "args",
+        "event",
+        "space",
+        "user",
+        "aggregate"
+      ]
+    },
+    {
+      "name": "packages/dayjs",
+      "fileCount": 2,
+      "reachedCount": 0,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "package.json",
+          "file": "packages/dayjs/package.json",
+          "degree": 3
+        },
+        {
+          "label": "biome.json",
+          "file": "packages/dayjs/biome.json",
+          "degree": 2
+        },
+        {
+          "label": "$schema",
+          "file": "packages/dayjs/biome.json",
+          "degree": 1
+        },
+        {
+          "label": "extends",
+          "file": "packages/dayjs/biome.json",
+          "degree": 1
+        },
+        {
+          "label": "name",
+          "file": "packages/dayjs/package.json",
+          "degree": 1
+        }
+      ],
+      "vocabulary": [
+        "json",
+        "biome",
+        "extends",
+        "name",
+        "package",
+        "private",
+        "schema",
+        "version"
+      ]
+    },
+    {
+      "name": "packages/emails",
+      "fileCount": 52,
+      "reachedCount": 8,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "emails.json",
+          "file": "packages/emails/locales/en/emails.json",
+          "degree": 78
+        },
+        {
+          "label": "emails.json",
+          "file": "packages/emails/locales/cs/emails.json",
+          "degree": 77
+        },
+        {
+          "label": "emails.json",
+          "file": "packages/emails/locales/de/emails.json",
+          "degree": 77
+        },
+        {
+          "label": "emails.json",
+          "file": "packages/emails/locales/hu/emails.json",
+          "degree": 77
+        },
+        {
+          "label": "emails.json",
+          "file": "packages/emails/locales/da/emails.json",
+          "degree": 76
+        }
+      ],
+      "vocabulary": [
+        "participant",
+        "finalize",
+        "heading",
+        "subject",
+        "preview",
+        "license",
+        "content",
+        "confirmation"
+      ]
+    },
+    {
+      "name": "packages/languages",
+      "fileCount": 6,
+      "reachedCount": 3,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "package.json",
+          "file": "packages/languages/package.json",
+          "degree": 6
+        },
+        {
+          "label": "supportedLngs",
+          "file": "packages/languages/src/index.ts",
+          "degree": 6
+        },
+        {
+          "label": "index.ts",
+          "file": "packages/languages/src/index.ts",
+          "degree": 4
+        },
+        {
+          "label": "dependencies",
+          "file": "packages/languages/package.json",
+          "degree": 3
+        },
+        {
+          "label": "devDependencies",
+          "file": "packages/languages/package.json",
+          "degree": 3
+        }
+      ],
+      "vocabulary": [
+        "locale",
+        "json",
+        "preferred",
+        "dependencies",
+        "extends",
+        "languages",
+        "negotiator",
+        "supported"
+      ]
+    },
+    {
+      "name": "packages/logger",
+      "fileCount": 4,
+      "reachedCount": 2,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "createLogger()",
+          "file": "packages/logger/src/index.ts",
+          "degree": 21
+        },
+        {
+          "label": "package.json",
+          "file": "packages/logger/package.json",
+          "degree": 6
+        },
+        {
+          "label": "index.ts",
+          "file": "packages/logger/src/index.ts",
+          "degree": 5
+        },
+        {
+          "label": "createWideEvent()",
+          "file": "packages/logger/src/wide-event.ts",
+          "degree": 4
+        },
+        {
+          "label": "dependencies",
+          "file": "packages/logger/package.json",
+          "degree": 3
+        }
+      ],
+      "vocabulary": [
+        "event",
+        "wide",
+        "dependencies",
+        "json",
+        "logger",
+        "pino",
+        "tsconfig",
+        "compiler"
+      ]
+    },
+    {
+      "name": "packages/posthog",
+      "fileCount": 6,
+      "reachedCount": 0,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "package.json",
+          "file": "packages/posthog/package.json",
+          "degree": 7
+        },
+        {
+          "label": "dependencies",
+          "file": "packages/posthog/package.json",
+          "degree": 5
+        },
+        {
+          "label": "devDependencies",
+          "file": "packages/posthog/package.json",
+          "degree": 5
+        },
+        {
+          "label": "exports",
+          "file": "packages/posthog/package.json",
+          "degree": 4
+        },
+        {
+          "label": "client.ts",
+          "file": "packages/posthog/src/client.ts",
+          "degree": 3
+        }
+      ],
+      "vocabulary": [
+        "json",
+        "client",
+        "control",
+        "cookie",
+        "dependencies",
+        "extends",
+        "global",
+        "node"
+      ]
+    },
+    {
+      "name": "packages/screenshots",
+      "fileCount": 8,
+      "reachedCount": 0,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "compilerOptions",
+          "file": "packages/screenshots/tsconfig.json",
+          "degree": 7
+        },
+        {
+          "label": "dependencies",
+          "file": "packages/screenshots/package.json",
+          "degree": 5
+        },
+        {
+          "label": "helpers.ts",
+          "file": "packages/screenshots/capture/helpers.ts",
+          "degree": 5
+        },
+        {
+          "label": "package.json",
+          "file": "packages/screenshots/package.json",
+          "degree": 5
+        },
+        {
+          "label": "screenshotPath()",
+          "file": "packages/screenshots/capture/helpers.ts",
+          "degree": 5
+        }
+      ],
+      "vocabulary": [
+        "module",
+        "dependencies",
+        "helpers",
+        "json",
+        "playwright",
+        "poll",
+        "rallly",
+        "admin"
+      ]
+    },
+    {
+      "name": "packages/tailwind-config",
+      "fileCount": 2,
+      "reachedCount": 0,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "dependencies",
+          "file": "packages/tailwind-config/package.json",
+          "degree": 7
+        },
+        {
+          "label": "package.json",
+          "file": "packages/tailwind-config/package.json",
+          "degree": 6
+        },
+        {
+          "label": "exports",
+          "file": "packages/tailwind-config/package.json",
+          "degree": 2
+        },
+        {
+          "label": "./postcss",
+          "file": "packages/tailwind-config/package.json",
+          "degree": 1
+        },
+        {
+          "label": "@tailwindcss/postcss",
+          "file": "packages/tailwind-config/package.json",
+          "degree": 1
+        }
+      ],
+      "vocabulary": [
+        "postcss",
+        "tailwindcss",
+        "config",
+        "animate",
+        "dependencies",
+        "exports",
+        "json",
+        "mjs"
+      ]
+    },
+    {
+      "name": "packages/test-helpers",
+      "fileCount": 6,
+      "reachedCount": 0,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "index.ts",
+          "file": "packages/test-helpers/src/index.ts",
+          "degree": 16
+        },
+        {
+          "label": "mailpit.ts",
+          "file": "packages/test-helpers/src/mailpit.ts",
+          "degree": 13
+        },
+        {
+          "label": "getCode()",
+          "file": "packages/test-helpers/src/email.ts",
+          "degree": 10
+        },
+        {
+          "label": "deleteAllMessages()",
+          "file": "packages/test-helpers/src/mailpit.ts",
+          "degree": 9
+        },
+        {
+          "label": "loginWithEmail()",
+          "file": "packages/test-helpers/src/login.ts",
+          "degree": 8
+        }
+      ],
+      "vocabulary": [
+        "mailpit",
+        "email",
+        "message",
+        "messages",
+        "capture",
+        "dependencies",
+        "json",
+        "login"
+      ]
+    },
+    {
+      "name": "packages/tsconfig",
+      "fileCount": 4,
+      "reachedCount": 0,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "compilerOptions",
+          "file": "packages/tsconfig/react.json",
+          "degree": 12
+        },
+        {
+          "label": "compilerOptions",
+          "file": "packages/tsconfig/node.json",
+          "degree": 10
+        },
+        {
+          "label": "next.json",
+          "file": "packages/tsconfig/next.json",
+          "degree": 5
+        },
+        {
+          "label": "package.json",
+          "file": "packages/tsconfig/package.json",
+          "degree": 4
+        },
+        {
+          "label": "devDependencies",
+          "file": "packages/tsconfig/package.json",
+          "degree": 3
+        }
+      ],
+      "vocabulary": [
+        "module",
+        "json",
+        "access",
+        "compiler",
+        "display",
+        "options",
+        "schema",
+        "check"
+      ]
+    },
+    {
+      "name": "packages/ui",
+      "fileCount": 51,
+      "reachedCount": 8,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "cn()",
+          "file": "packages/ui/src/lib/utils.ts",
+          "degree": 271
+        },
+        {
+          "label": "buttonVariants",
+          "file": "packages/ui/src/button-variants.ts",
+          "degree": 67
+        },
+        {
+          "label": "sidebar.tsx",
+          "file": "packages/ui/src/sidebar.tsx",
+          "degree": 47
+        },
+        {
+          "label": "utils.ts",
+          "file": "packages/ui/src/lib/utils.ts",
+          "degree": 40
+        },
+        {
+          "label": "combobox.tsx",
+          "file": "packages/ui/src/combobox.tsx",
+          "degree": 25
+        }
+      ],
+      "vocabulary": [
+        "sidebar",
+        "input",
+        "menu",
+        "group",
+        "combobox",
+        "dialog",
+        "react",
+        "field"
+      ]
+    },
+    {
+      "name": "packages/utils",
+      "fileCount": 10,
+      "reachedCount": 1,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "absoluteUrl()",
+          "file": "packages/utils/src/absolute-url.ts",
+          "degree": 14
+        },
+        {
+          "label": "package.json",
+          "file": "packages/utils/package.json",
+          "degree": 7
+        },
+        {
+          "label": "shortUrl()",
+          "file": "packages/utils/src/absolute-url.ts",
+          "degree": 6
+        },
+        {
+          "label": "absolute-url.ts",
+          "file": "packages/utils/src/absolute-url.ts",
+          "degree": 5
+        },
+        {
+          "label": "devDependencies",
+          "file": "packages/utils/package.json",
+          "degree": 4
+        }
+      ],
+      "vocabulary": [
+        "url",
+        "absolute",
+        "json",
+        "nanoid",
+        "storage",
+        "dependencies",
+        "encryption",
+        "extends"
+      ]
+    },
+    {
+      "name": "scripts",
+      "fileCount": 5,
+      "reachedCount": 3,
+      "entryPoints": 3,
+      "capabilities": [
+        "scripts/check-feature-cycles.mjs",
+        "scripts/check-feature-structure.mjs",
+        "scripts/inject-version.js"
+      ],
+      "spine": [
+        {
+          "label": "check-feature-cycles.mjs",
+          "file": "scripts/check-feature-cycles.mjs",
+          "degree": 13
+        },
+        {
+          "label": "check-feature-structure.mjs",
+          "file": "scripts/check-feature-structure.mjs",
+          "degree": 5
+        },
+        {
+          "label": "inject-version.js",
+          "file": "scripts/inject-version.js",
+          "degree": 4
+        },
+        {
+          "label": "create-release.sh",
+          "file": "scripts/create-release.sh",
+          "degree": 2
+        },
+        {
+          "label": "docker-start.sh",
+          "file": "scripts/docker-start.sh",
+          "degree": 2
+        }
+      ],
+      "vocabulary": [
+        "feature",
+        "cycles",
+        "check",
+        "dir",
+        "docker",
+        "features",
+        "files",
+        "mjs"
+      ]
+    },
+    {
+      "name": "skills-lock.json",
+      "fileCount": 1,
+      "reachedCount": 0,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "skills",
+          "file": "skills-lock.json",
+          "degree": 7
+        },
+        {
+          "label": "better-auth-best-practices",
+          "file": "skills-lock.json",
+          "degree": 4
+        },
+        {
+          "label": "better-auth-security-best-practices",
+          "file": "skills-lock.json",
+          "degree": 4
+        },
+        {
+          "label": "create-auth-skill",
+          "file": "skills-lock.json",
+          "degree": 4
+        },
+        {
+          "label": "email-and-password-best-practices",
+          "file": "skills-lock.json",
+          "degree": 4
+        }
+      ],
+      "vocabulary": [
+        "source",
+        "computed",
+        "hash",
+        "best",
+        "practices",
+        "auth",
+        "better",
+        "skills"
+      ]
+    },
+    {
+      "name": "turbo.json",
+      "fileCount": 1,
+      "reachedCount": 0,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "tasks",
+          "file": "turbo.json",
+          "degree": 17
+        },
+        {
+          "label": "turbo.json",
+          "file": "turbo.json",
+          "degree": 5
+        },
+        {
+          "label": "build:test",
+          "file": "turbo.json",
+          "degree": 4
+        },
+        {
+          "label": "dev",
+          "file": "turbo.json",
+          "degree": 4
+        },
+        {
+          "label": "test",
+          "file": "turbo.json",
+          "degree": 4
+        }
+      ],
+      "vocabulary": [
+        "cache",
+        "depends",
+        "persistent",
+        "check",
+        "inputs",
+        "outputs",
+        "start",
+        "build"
+      ]
+    },
+    {
+      "name": "vitest.workspace.ts",
+      "fileCount": 1,
+      "reachedCount": 0,
+      "entryPoints": 0,
+      "capabilities": [],
+      "spine": [
+        {
+          "label": "vitest.workspace.ts",
+          "file": "vitest.workspace.ts",
+          "degree": 0
+        }
+      ],
+      "vocabulary": ["vitest", "workspace"]
+    }
+  ],
+  "edges": [
+    {
+      "from": "apps/web",
+      "to": "packages/ui",
+      "count": 189
+    },
+    {
+      "from": "apps/web",
+      "to": "packages/database",
+      "count": 43
+    },
+    {
+      "from": "apps/landing",
+      "to": "packages/ui",
+      "count": 24
+    },
+    {
+      "from": "apps/web",
+      "to": "packages/logger",
+      "count": 23
+    },
+    {
+      "from": "packages/emails",
+      "to": "apps/web",
+      "count": 23
+    },
+    {
+      "from": "apps/landing",
+      "to": "apps/web",
+      "count": 20
+    },
+    {
+      "from": "apps/web",
+      "to": "packages/test-helpers",
+      "count": 15
+    },
+    {
+      "from": "apps/web",
+      "to": "packages/billing",
+      "count": 14
+    },
+    {
+      "from": "apps/web",
+      "to": "packages/utils",
+      "count": 10
+    },
+    {
+      "from": "apps/web",
+      "to": "packages/emails",
+      "count": 7
+    },
+    {
+      "from": "packages/screenshots",
+      "to": "packages/test-helpers",
+      "count": 4
+    },
+    {
+      "from": "apps/landing",
+      "to": "packages/languages",
+      "count": 3
+    },
+    {
+      "from": "apps/web",
+      "to": "packages/languages",
+      "count": 3
+    },
+    {
+      "from": "apps/landing",
+      "to": "packages/billing",
+      "count": 2
+    },
+    {
+      "from": "apps/landing",
+      "to": "packages/utils",
+      "count": 2
+    },
+    {
+      "from": "apps/landing",
+      "to": "packages/database",
+      "count": 1
+    },
+    {
+      "from": "package.json",
+      "to": ".husky",
+      "count": 1
+    },
+    {
+      "from": "package.json",
+      "to": "turbo.json",
+      "count": 1
+    },
+    {
+      "from": "packages/emails",
+      "to": "packages/logger",
+      "count": 1
+    },
+    {
+      "from": "packages/emails",
+      "to": "packages/utils",
+      "count": 1
+    },
+    {
+      "from": "packages/ui",
+      "to": "apps/web",
+      "count": 1
+    },
+    {
+      "from": "scripts",
+      "to": "package.json",
+      "count": 1
+    }
+  ],
+  "sharedKernels": [
+    "packages/billing",
+    "packages/database",
+    "packages/dayjs",
+    "packages/emails",
+    "packages/languages",
+    "packages/logger",
+    "packages/posthog",
+    "packages/screenshots",
+    "packages/tailwind-config",
+    "packages/test-helpers",
+    "packages/tsconfig",
+    "packages/ui",
+    "packages/utils"
+  ],
+  "dataModel": {
+    "tables": []
+  }
+}

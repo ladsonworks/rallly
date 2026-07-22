@@ -1,0 +1,207 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_self_hosting_management_mdx",
+      "label": "management.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "self_hosting_management_commands",
+      "label": "Commands",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L9"
+    },
+    {
+      "id": "self_hosting_management_applying_configuration_changes",
+      "label": "Applying configuration changes",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L22"
+    },
+    {
+      "id": "self_hosting_management_updating",
+      "label": "Updating",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L30"
+    },
+    {
+      "id": "self_hosting_management_backup_and_restore",
+      "label": "Backup and restore",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L44"
+    },
+    {
+      "id": "self_hosting_management_backup",
+      "label": "Backup",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L46"
+    },
+    {
+      "id": "self_hosting_management_restore",
+      "label": "Restore",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L58"
+    },
+    {
+      "id": "self_hosting_management_logs",
+      "label": "Logs",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L77"
+    },
+    {
+      "id": "self_hosting_management_troubleshooting",
+      "label": "Troubleshooting",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L92"
+    },
+    {
+      "id": "self_hosting_management_ssl_certificate_is_not_being_issued",
+      "label": "SSL certificate is not being issued",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L94"
+    },
+    {
+      "id": "self_hosting_management_port_80_or_443_already_in_use",
+      "label": "Port 80 or 443 already in use",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L102"
+    },
+    {
+      "id": "self_hosting_management_containers_keep_restarting",
+      "label": "Containers keep restarting",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L106"
+    },
+    {
+      "id": "self_hosting_management_database_connection_errors_on_first_boot",
+      "label": "Database connection errors on first boot",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L120"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_management_mdx",
+      "target": "self_hosting_management_commands",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_management_mdx",
+      "target": "self_hosting_management_applying_configuration_changes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_management_mdx",
+      "target": "self_hosting_management_updating",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_management_mdx",
+      "target": "self_hosting_management_backup_and_restore",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_management_backup_and_restore",
+      "target": "self_hosting_management_backup",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_management_backup_and_restore",
+      "target": "self_hosting_management_restore",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L58",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_management_mdx",
+      "target": "self_hosting_management_logs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L77",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_management_mdx",
+      "target": "self_hosting_management_troubleshooting",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L92",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_management_troubleshooting",
+      "target": "self_hosting_management_ssl_certificate_is_not_being_issued",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L94",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_management_troubleshooting",
+      "target": "self_hosting_management_port_80_or_443_already_in_use",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L102",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_management_troubleshooting",
+      "target": "self_hosting_management_containers_keep_restarting",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L106",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_management_troubleshooting",
+      "target": "self_hosting_management_database_connection_errors_on_first_boot",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/management.mdx",
+      "source_location": "L120",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

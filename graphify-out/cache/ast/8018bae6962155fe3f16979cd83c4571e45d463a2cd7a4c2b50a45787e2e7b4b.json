@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "label": "common.json",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "vi_common_login",
+      "label": "login",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "vi_common_links",
+      "label": "links",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "vi_common_blog",
+      "label": "blog",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "vi_common_discussions",
+      "label": "discussions",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "vi_common_footercredit",
+      "label": "footerCredit",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "vi_common_footersponsor",
+      "label": "footerSponsor",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "vi_common_language",
+      "label": "language",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "vi_common_poweredby",
+      "label": "poweredBy",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "vi_common_privacypolicy",
+      "label": "privacyPolicy",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "vi_common_support",
+      "label": "support",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "vi_common_volunteertranslator",
+      "label": "volunteerTranslator",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "vi_common_notfoundtitle",
+      "label": "notFoundTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "vi_common_notfounddescription",
+      "label": "notFoundDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "vi_common_gotohome",
+      "label": "goToHome",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L15"
+    },
+    {
+      "id": "vi_common_getstarted",
+      "label": "getStarted",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L16"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "target": "vi_common_login",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "target": "vi_common_links",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "target": "vi_common_blog",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "target": "vi_common_discussions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "target": "vi_common_footercredit",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "target": "vi_common_footersponsor",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "target": "vi_common_language",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "target": "vi_common_poweredby",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "target": "vi_common_privacypolicy",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "target": "vi_common_support",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "target": "vi_common_volunteertranslator",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "target": "vi_common_notfoundtitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "target": "vi_common_notfounddescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "target": "vi_common_gotohome",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_vi_common_json",
+      "target": "vi_common_getstarted",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/vi/common.json",
+      "source_location": "L16",
+      "weight": 1.0
+    }
+  ]
+}

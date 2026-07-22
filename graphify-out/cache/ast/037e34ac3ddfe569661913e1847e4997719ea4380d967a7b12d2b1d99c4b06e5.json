@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_scripts_docker_start_sh",
+      "label": "docker-start.sh",
+      "file_type": "code",
+      "source_file": "scripts/docker-start.sh",
+      "source_location": "L1",
+      "metadata": { "language": "bash", "kind": "file" }
+    },
+    {
+      "id": "d_ladson_rallly_scripts_docker_start_sh__entry",
+      "label": "docker-start.sh script",
+      "file_type": "code",
+      "source_file": "scripts/docker-start.sh",
+      "source_location": "L1",
+      "metadata": { "language": "bash", "kind": "bash_entrypoint" }
+    },
+    {
+      "id": "scripts_docker_start_auth_url",
+      "label": "AUTH_URL",
+      "file_type": "code",
+      "source_file": "scripts/docker-start.sh",
+      "source_location": "L5",
+      "metadata": { "language": "bash", "kind": "code" }
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_scripts_docker_start_sh",
+      "target": "d_ladson_rallly_scripts_docker_start_sh__entry",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/docker-start.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_scripts_docker_start_sh",
+      "target": "scripts_docker_start_auth_url",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/docker-start.sh",
+      "source_location": "L5",
+      "weight": 1.0
+    }
+  ]
+}

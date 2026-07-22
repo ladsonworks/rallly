@@ -1,0 +1,255 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_agents_skills_prisma_cli_references_init_md",
+      "label": "init.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "references_init_prisma_init",
+      "label": "prisma init",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "references_init_command",
+      "label": "Command",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L5"
+    },
+    {
+      "id": "references_init_bun_runtime",
+      "label": "Bun Runtime",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "references_init_what_it_creates",
+      "label": "What It Creates",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L19"
+    },
+    {
+      "id": "references_init_options",
+      "label": "Options",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L26"
+    },
+    {
+      "id": "references_init_examples",
+      "label": "Examples",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L38"
+    },
+    {
+      "id": "references_init_basic_initialization",
+      "label": "Basic initialization",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L40"
+    },
+    {
+      "id": "references_init_sqlite_project",
+      "label": "SQLite project",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L48"
+    },
+    {
+      "id": "references_init_mysql_with_custom_url",
+      "label": "MySQL with custom URL",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L54"
+    },
+    {
+      "id": "references_init_prisma_postgres_cloud",
+      "label": "Prisma Postgres (cloud)",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L60"
+    },
+    {
+      "id": "references_init_ai_generated_schema",
+      "label": "AI-generated schema",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L68"
+    },
+    {
+      "id": "references_init_with_preview_features",
+      "label": "With preview features",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L76"
+    },
+    {
+      "id": "references_init_generated_schema_v7",
+      "label": "Generated Schema (v7)",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L82"
+    },
+    {
+      "id": "references_init_generated_config_v7",
+      "label": "Generated Config (v7)",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L95"
+    },
+    {
+      "id": "references_init_next_steps_after_init",
+      "label": "Next Steps After Init",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L112"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_agents_skills_prisma_cli_references_init_md",
+      "target": "references_init_prisma_init",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "references_init_prisma_init",
+      "target": "references_init_command",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "references_init_prisma_init",
+      "target": "references_init_bun_runtime",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "references_init_prisma_init",
+      "target": "references_init_what_it_creates",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "references_init_prisma_init",
+      "target": "references_init_options",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "references_init_prisma_init",
+      "target": "references_init_examples",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "references_init_examples",
+      "target": "references_init_basic_initialization",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "references_init_examples",
+      "target": "references_init_sqlite_project",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L48",
+      "weight": 1.0
+    },
+    {
+      "source": "references_init_examples",
+      "target": "references_init_mysql_with_custom_url",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "references_init_examples",
+      "target": "references_init_prisma_postgres_cloud",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L60",
+      "weight": 1.0
+    },
+    {
+      "source": "references_init_examples",
+      "target": "references_init_ai_generated_schema",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L68",
+      "weight": 1.0
+    },
+    {
+      "source": "references_init_examples",
+      "target": "references_init_with_preview_features",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L76",
+      "weight": 1.0
+    },
+    {
+      "source": "references_init_prisma_init",
+      "target": "references_init_generated_schema_v7",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L82",
+      "weight": 1.0
+    },
+    {
+      "source": "references_init_prisma_init",
+      "target": "references_init_generated_config_v7",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L95",
+      "weight": 1.0
+    },
+    {
+      "source": "references_init_prisma_init",
+      "target": "references_init_next_steps_after_init",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-cli/references/init.md",
+      "source_location": "L112",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,493 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "label": "pricing.json",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "ru_pricing_accessallfeatures",
+      "label": "accessAllFeatures",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "ru_pricing_annualbenefit",
+      "label": "annualBenefit",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "ru_pricing_billingperiodmonthly",
+      "label": "billingPeriodMonthly",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "ru_pricing_billingperiodyearly",
+      "label": "billingPeriodYearly",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "ru_pricing_cancelsubscription",
+      "label": "cancelSubscription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "ru_pricing_cancelsubscriptionanswer",
+      "label": "cancelSubscriptionAnswer",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "ru_pricing_canusefree",
+      "label": "canUseFree",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "ru_pricing_canusefreeanswer2",
+      "label": "canUseFreeAnswer2",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "ru_pricing_earlyadopterdescription",
+      "label": "earlyAdopterDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "ru_pricing_faq",
+      "label": "faq",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "ru_pricing_freeforever",
+      "label": "freeForever",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "ru_pricing_getearlyaccess",
+      "label": "getEarlyAccess",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "ru_pricing_howtoupgrade",
+      "label": "howToUpgrade",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "ru_pricing_howtoupgradeanswer",
+      "label": "howToUpgradeAnswer",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L15"
+    },
+    {
+      "id": "ru_pricing_keeppollsindefinitely",
+      "label": "keepPollsIndefinitely",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "ru_pricing_limitedaccess",
+      "label": "limitedAccess",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L17"
+    },
+    {
+      "id": "ru_pricing_monthlybillingdescription",
+      "label": "monthlyBillingDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L18"
+    },
+    {
+      "id": "ru_pricing_planfreedescription",
+      "label": "planFreeDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "ru_pricing_planprodescription",
+      "label": "planProDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "ru_pricing_pollsdeleted",
+      "label": "pollsDeleted",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L21"
+    },
+    {
+      "id": "ru_pricing_pricingdescription",
+      "label": "pricingDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "ru_pricing_pricingsubtitle",
+      "label": "pricingSubtitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L23"
+    },
+    {
+      "id": "ru_pricing_pricingtitle",
+      "label": "pricingTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "ru_pricing_upgrade",
+      "label": "upgrade",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "ru_pricing_upgradenowsavelater",
+      "label": "upgradeNowSaveLater",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L26"
+    },
+    {
+      "id": "ru_pricing_whenpollinactive",
+      "label": "whenPollInactive",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L27"
+    },
+    {
+      "id": "ru_pricing_whenpollinactiveanswer",
+      "label": "whenPollInactiveAnswer",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L28"
+    },
+    {
+      "id": "ru_pricing_whyupgrade",
+      "label": "whyUpgrade",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L29"
+    },
+    {
+      "id": "ru_pricing_whyupgradeanswer2",
+      "label": "whyUpgradeAnswer2",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L30"
+    },
+    {
+      "id": "ru_pricing_yearlybillingdescription",
+      "label": "yearlyBillingDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L31"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_accessallfeatures",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_annualbenefit",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_billingperiodmonthly",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_billingperiodyearly",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_cancelsubscription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_cancelsubscriptionanswer",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_canusefree",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_canusefreeanswer2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_earlyadopterdescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_faq",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_freeforever",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_getearlyaccess",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_howtoupgrade",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_howtoupgradeanswer",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_keeppollsindefinitely",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_limitedaccess",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_monthlybillingdescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_planfreedescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_planprodescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_pollsdeleted",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_pricingdescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_pricingsubtitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_pricingtitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_upgrade",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_upgradenowsavelater",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_whenpollinactive",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_whenpollinactiveanswer",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_whyupgrade",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_whyupgradeanswer2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_ru_pricing_json",
+      "target": "ru_pricing_yearlybillingdescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/ru/pricing.json",
+      "source_location": "L31",
+      "weight": 1.0
+    }
+  ]
+}

@@ -1,0 +1,627 @@
+{
+  "totalCodeFiles": 695,
+  "reachedFiles": 571,
+  "ignoredFiles": 301,
+  "orphans": [
+    {
+      "file": "apps/landing/instrumentation-client.ts",
+      "confidence": "high",
+      "nodeCount": 1
+    },
+    {
+      "file": "apps/landing/src/app/[locale]/(main)/open-source-banner.tsx",
+      "confidence": "high",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/landing/src/proxy.ts",
+      "confidence": "high",
+      "nodeCount": 3
+    },
+    {
+      "file": "apps/web/instrumentation-client.ts",
+      "confidence": "high",
+      "nodeCount": 1
+    },
+    {
+      "file": "apps/web/src/app/[locale]/(optional-space)/new/back-button.tsx",
+      "confidence": "high",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/components/frame.tsx",
+      "confidence": "high",
+      "nodeCount": 4
+    },
+    {
+      "file": "apps/web/src/components/poll-status.tsx",
+      "confidence": "high",
+      "nodeCount": 3
+    },
+    {
+      "file": "apps/web/src/components/time-zone-picker/timezone-utils.ts",
+      "confidence": "high",
+      "nodeCount": 4
+    },
+    {
+      "file": "apps/web/src/features/conferencing/components/conferencing-link.tsx",
+      "confidence": "high",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/lib/utils/local-storage.ts",
+      "confidence": "high",
+      "nodeCount": 8
+    },
+    {
+      "file": "apps/web/src/proxy.ts",
+      "confidence": "high",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/billing/src/lib/get-pricing.ts",
+      "confidence": "high",
+      "nodeCount": 2
+    },
+    {
+      "file": "packages/database/generated/prisma/browser.ts",
+      "confidence": "high",
+      "nodeCount": 31
+    },
+    {
+      "file": "packages/emails/src/templates/change-email.tsx",
+      "confidence": "high",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/emails/src/templates/event-canceled.tsx",
+      "confidence": "high",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/emails/src/templates/finalized-host.tsx",
+      "confidence": "high",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/emails/src/templates/finalized-participant.tsx",
+      "confidence": "high",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/emails/src/templates/new-comment.tsx",
+      "confidence": "high",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/emails/src/templates/new-participant-confirmation.tsx",
+      "confidence": "high",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/emails/src/templates/new-poll.tsx",
+      "confidence": "high",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/emails/src/templates/register.tsx",
+      "confidence": "high",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/emails/src/templates/space-invite.tsx",
+      "confidence": "high",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/ui/src/action-bar.tsx",
+      "confidence": "high",
+      "nodeCount": 5
+    },
+    {
+      "file": "packages/ui/src/alert.tsx",
+      "confidence": "high",
+      "nodeCount": 5
+    },
+    {
+      "file": "packages/ui/src/avatar.tsx",
+      "confidence": "high",
+      "nodeCount": 8
+    },
+    {
+      "file": "packages/ui/src/badge.tsx",
+      "confidence": "high",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/ui/src/breadcrumb.tsx",
+      "confidence": "high",
+      "nodeCount": 8
+    },
+    {
+      "file": "packages/ui/src/card.tsx",
+      "confidence": "high",
+      "nodeCount": 7
+    },
+    {
+      "file": "packages/ui/src/color-picker.tsx",
+      "confidence": "high",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/ui/src/command.tsx",
+      "confidence": "high",
+      "nodeCount": 13
+    },
+    {
+      "file": "packages/ui/src/dot-pattern.tsx",
+      "confidence": "high",
+      "nodeCount": 3
+    },
+    {
+      "file": "packages/ui/src/dropdown-menu.tsx",
+      "confidence": "high",
+      "nodeCount": 13
+    },
+    {
+      "file": "packages/ui/src/field.tsx",
+      "confidence": "high",
+      "nodeCount": 12
+    },
+    {
+      "file": "packages/ui/src/flex.tsx",
+      "confidence": "high",
+      "nodeCount": 8
+    },
+    {
+      "file": "packages/ui/src/form.tsx",
+      "confidence": "high",
+      "nodeCount": 12
+    },
+    {
+      "file": "packages/ui/src/page-tabs.tsx",
+      "confidence": "high",
+      "nodeCount": 5
+    },
+    {
+      "file": "packages/ui/src/progress.tsx",
+      "confidence": "high",
+      "nodeCount": 2
+    },
+    {
+      "file": "packages/ui/src/radio-group.tsx",
+      "confidence": "high",
+      "nodeCount": 3
+    },
+    {
+      "file": "packages/ui/src/radio-pills.tsx",
+      "confidence": "high",
+      "nodeCount": 3
+    },
+    {
+      "file": "packages/ui/src/select.tsx",
+      "confidence": "high",
+      "nodeCount": 9
+    },
+    {
+      "file": "packages/ui/src/sonner.tsx",
+      "confidence": "high",
+      "nodeCount": 3
+    },
+    {
+      "file": "packages/ui/src/switch.tsx",
+      "confidence": "high",
+      "nodeCount": 2
+    },
+    {
+      "file": "packages/ui/src/table.tsx",
+      "confidence": "high",
+      "nodeCount": 9
+    },
+    {
+      "file": "packages/ui/src/tabs.tsx",
+      "confidence": "high",
+      "nodeCount": 5
+    },
+    {
+      "file": "packages/ui/src/theme-provider.tsx",
+      "confidence": "high",
+      "nodeCount": 3
+    },
+    {
+      "file": "packages/ui/src/tile.tsx",
+      "confidence": "high",
+      "nodeCount": 6
+    },
+    {
+      "file": "packages/utils/src/nanoid.ts",
+      "confidence": "high",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/utils/src/safe-session-storage.ts",
+      "confidence": "high",
+      "nodeCount": 3
+    },
+    {
+      "file": "packages/utils/src/sleep.ts",
+      "confidence": "high",
+      "nodeCount": 2
+    },
+    {
+      "file": "vitest.workspace.ts",
+      "confidence": "high",
+      "nodeCount": 1
+    },
+    {
+      "file": "apps/landing/src/components/error-page.tsx",
+      "confidence": "low",
+      "nodeCount": 3
+    },
+    {
+      "file": "apps/landing/src/i18n/i18next.ts",
+      "confidence": "low",
+      "nodeCount": 1
+    },
+    {
+      "file": "apps/landing/src/i18n/server.ts",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/landing/src/types.ts",
+      "confidence": "low",
+      "nodeCount": 4
+    },
+    {
+      "file": "apps/web/src/app/[locale]/e/[id]/components/user-dropdown.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/components/add-to-calendar-button.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/components/clock.tsx",
+      "confidence": "low",
+      "nodeCount": 5
+    },
+    {
+      "file": "apps/web/src/components/container.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/components/discussion/discussion.tsx",
+      "confidence": "low",
+      "nodeCount": 5
+    },
+    {
+      "file": "apps/web/src/components/discussion/index.ts",
+      "confidence": "low",
+      "nodeCount": 1
+    },
+    {
+      "file": "apps/web/src/components/event-card.tsx",
+      "confidence": "low",
+      "nodeCount": 4
+    },
+    {
+      "file": "apps/web/src/components/event-meta.tsx",
+      "confidence": "low",
+      "nodeCount": 8
+    },
+    {
+      "file": "apps/web/src/components/login-link.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/components/new-participant-modal.tsx",
+      "confidence": "low",
+      "nodeCount": 7
+    },
+    {
+      "file": "apps/web/src/components/page-dialog.tsx",
+      "confidence": "low",
+      "nodeCount": 7
+    },
+    {
+      "file": "apps/web/src/components/participant-dropdown.tsx",
+      "confidence": "low",
+      "nodeCount": 6
+    },
+    {
+      "file": "apps/web/src/components/participant.tsx",
+      "confidence": "low",
+      "nodeCount": 3
+    },
+    {
+      "file": "apps/web/src/components/poll/desktop-poll.tsx",
+      "confidence": "low",
+      "nodeCount": 4
+    },
+    {
+      "file": "apps/web/src/components/poll/desktop-poll/participant-row-form.tsx",
+      "confidence": "low",
+      "nodeCount": 3
+    },
+    {
+      "file": "apps/web/src/components/poll/desktop-poll/participant-row.tsx",
+      "confidence": "low",
+      "nodeCount": 4
+    },
+    {
+      "file": "apps/web/src/components/poll/desktop-poll/poll-header.tsx",
+      "confidence": "low",
+      "nodeCount": 4
+    },
+    {
+      "file": "apps/web/src/components/poll/mobile-poll.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/components/poll/mobile-poll/date-option.tsx",
+      "confidence": "low",
+      "nodeCount": 3
+    },
+    {
+      "file": "apps/web/src/components/poll/mobile-poll/grouped-options.tsx",
+      "confidence": "low",
+      "nodeCount": 3
+    },
+    {
+      "file": "apps/web/src/components/poll/mobile-poll/poll-option.tsx",
+      "confidence": "low",
+      "nodeCount": 4
+    },
+    {
+      "file": "apps/web/src/components/poll/mobile-poll/poll-options.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/components/poll/mobile-poll/time-slot-option.tsx",
+      "confidence": "low",
+      "nodeCount": 3
+    },
+    {
+      "file": "apps/web/src/components/poll/poll-footer.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/components/poll/responsive-results.tsx",
+      "confidence": "low",
+      "nodeCount": 4
+    },
+    {
+      "file": "apps/web/src/components/poll/vote-icon.tsx",
+      "confidence": "low",
+      "nodeCount": 4
+    },
+    {
+      "file": "apps/web/src/components/poll/vote-selector.tsx",
+      "confidence": "low",
+      "nodeCount": 5
+    },
+    {
+      "file": "apps/web/src/components/poll/voting-form.tsx",
+      "confidence": "low",
+      "nodeCount": 5
+    },
+    {
+      "file": "apps/web/src/components/poll/you-avatar.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/components/register-link.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/components/scroll-container.tsx",
+      "confidence": "low",
+      "nodeCount": 3
+    },
+    {
+      "file": "apps/web/src/components/user-dropdown.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/components/vote-icon/if-need-be-icon.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/components/vote-icon/no-icon.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/components/vote-icon/pending-icon.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/components/vote-icon/yes-icon.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/features/auth/data.ts",
+      "confidence": "low",
+      "nodeCount": 3
+    },
+    {
+      "file": "apps/web/src/features/event-types/client.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/i18n/server.ts",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "apps/web/src/lib/datetime/relative-time.tsx",
+      "confidence": "low",
+      "nodeCount": 3
+    },
+    {
+      "file": "apps/web/src/trpc/types.ts",
+      "confidence": "low",
+      "nodeCount": 5
+    },
+    {
+      "file": "apps/web/src/types.ts",
+      "confidence": "low",
+      "nodeCount": 5
+    },
+    {
+      "file": "packages/database/generated/prisma/internal/prismaNamespaceBrowser.ts",
+      "confidence": "low",
+      "nodeCount": 40
+    },
+    {
+      "file": "packages/database/src/client.ts",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "packages/emails/src/components/powered-by.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "packages/emails/src/index.ts",
+      "confidence": "low",
+      "nodeCount": 1
+    },
+    {
+      "file": "packages/emails/src/templates/new-participant.tsx",
+      "confidence": "low",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/posthog/src/client.ts",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "packages/posthog/src/server.ts",
+      "confidence": "low",
+      "nodeCount": 1
+    },
+    {
+      "file": "packages/posthog/src/utils.ts",
+      "confidence": "low",
+      "nodeCount": 3
+    },
+    {
+      "file": "packages/screenshots/capture/helpers.ts",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "packages/test-helpers/src/email.ts",
+      "confidence": "low",
+      "nodeCount": 3
+    },
+    {
+      "file": "packages/test-helpers/src/index.ts",
+      "confidence": "low",
+      "nodeCount": 1
+    },
+    {
+      "file": "packages/test-helpers/src/login.ts",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "packages/test-helpers/src/mailpit.ts",
+      "confidence": "low",
+      "nodeCount": 12
+    },
+    {
+      "file": "packages/ui/src/billing-plan.tsx",
+      "confidence": "low",
+      "nodeCount": 9
+    },
+    {
+      "file": "packages/ui/src/helpers/component-props.ts",
+      "confidence": "low",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/ui/src/hooks/use-mobile.ts",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "packages/ui/src/hooks/use-platform.ts",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "packages/ui/src/icon.tsx",
+      "confidence": "low",
+      "nodeCount": 4
+    },
+    {
+      "file": "packages/ui/src/index.ts",
+      "confidence": "low",
+      "nodeCount": 1
+    },
+    {
+      "file": "packages/ui/src/input-otp.tsx",
+      "confidence": "low",
+      "nodeCount": 5
+    },
+    {
+      "file": "packages/ui/src/label.tsx",
+      "confidence": "low",
+      "nodeCount": 3
+    },
+    {
+      "file": "packages/ui/src/popover.tsx",
+      "confidence": "low",
+      "nodeCount": 7
+    },
+    {
+      "file": "packages/ui/src/separator.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "packages/ui/src/sheet.tsx",
+      "confidence": "low",
+      "nodeCount": 9
+    },
+    {
+      "file": "packages/ui/src/sidebar.tsx",
+      "confidence": "low",
+      "nodeCount": 27
+    },
+    {
+      "file": "packages/ui/src/skeleton.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "packages/ui/src/tooltip.tsx",
+      "confidence": "low",
+      "nodeCount": 2
+    },
+    {
+      "file": "packages/utils/src/encryption.ts",
+      "confidence": "low",
+      "nodeCount": 3
+    }
+  ]
+}

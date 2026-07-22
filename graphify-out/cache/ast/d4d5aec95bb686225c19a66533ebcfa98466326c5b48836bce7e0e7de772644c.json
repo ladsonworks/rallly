@@ -1,0 +1,1085 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "label": "emails.json",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "no_emails_common_disablenotifications",
+      "label": "common_disableNotifications",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "no_emails_common_poweredby",
+      "label": "common_poweredBy",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "no_emails_common_viewon",
+      "label": "common_viewOn",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "no_emails_eventcanceledcontent",
+      "label": "eventCanceledContent",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "no_emails_eventcanceledheading",
+      "label": "eventCanceledHeading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "no_emails_eventcanceledpreview",
+      "label": "eventCanceledPreview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "no_emails_eventcanceledsubject",
+      "label": "eventCanceledSubject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "no_emails_finalizehost_button",
+      "label": "finalizeHost_button",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "no_emails_finalizehost_content",
+      "label": "finalizeHost_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "no_emails_finalizehost_content2",
+      "label": "finalizeHost_content2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "no_emails_finalizehost_heading",
+      "label": "finalizeHost_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "no_emails_finalizehost_preview",
+      "label": "finalizeHost_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "no_emails_finalizehost_subject",
+      "label": "finalizeHost_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "no_emails_finalizeparticipant_content",
+      "label": "finalizeParticipant_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L15"
+    },
+    {
+      "id": "no_emails_finalizeparticipant_content2",
+      "label": "finalizeParticipant_content2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "no_emails_finalizeparticipant_heading",
+      "label": "finalizeParticipant_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L17"
+    },
+    {
+      "id": "no_emails_finalizeparticipant_preview",
+      "label": "finalizeParticipant_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L18"
+    },
+    {
+      "id": "no_emails_finalizeparticipant_subject",
+      "label": "finalizeParticipant_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "no_emails_license_key_activationsteps",
+      "label": "license_key_activationSteps",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "no_emails_license_key_content",
+      "label": "license_key_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L21"
+    },
+    {
+      "id": "no_emails_license_key_licensekey",
+      "label": "license_key_licenseKey",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "no_emails_license_key_nextstepsheading",
+      "label": "license_key_nextStepsHeading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L23"
+    },
+    {
+      "id": "no_emails_license_key_plan",
+      "label": "license_key_plan",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "no_emails_license_key_preview",
+      "label": "license_key_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "no_emails_license_key_questionsheading",
+      "label": "license_key_questionsHeading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L26"
+    },
+    {
+      "id": "no_emails_license_key_seats",
+      "label": "license_key_seats",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L27"
+    },
+    {
+      "id": "no_emails_license_key_signoff",
+      "label": "license_key_signoff",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L28"
+    },
+    {
+      "id": "no_emails_license_key_subject",
+      "label": "license_key_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L29"
+    },
+    {
+      "id": "no_emails_license_key_support",
+      "label": "license_key_support",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L30"
+    },
+    {
+      "id": "no_emails_license_key_yourkey",
+      "label": "license_key_yourKey",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L31"
+    },
+    {
+      "id": "no_emails_newcomment_content",
+      "label": "newComment_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L32"
+    },
+    {
+      "id": "no_emails_newcomment_heading",
+      "label": "newComment_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L33"
+    },
+    {
+      "id": "no_emails_newcomment_preview",
+      "label": "newComment_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L34"
+    },
+    {
+      "id": "no_emails_newcomment_subject",
+      "label": "newComment_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L35"
+    },
+    {
+      "id": "no_emails_newparticipant_content",
+      "label": "newParticipant_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L36"
+    },
+    {
+      "id": "no_emails_newparticipant_content2",
+      "label": "newParticipant_content2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L37"
+    },
+    {
+      "id": "no_emails_newparticipant_heading",
+      "label": "newParticipant_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L38"
+    },
+    {
+      "id": "no_emails_newparticipant_preview",
+      "label": "newParticipant_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L39"
+    },
+    {
+      "id": "no_emails_newparticipant_subject",
+      "label": "newParticipant_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L40"
+    },
+    {
+      "id": "no_emails_newparticipantconfirmation_button",
+      "label": "newParticipantConfirmation_button",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L41"
+    },
+    {
+      "id": "no_emails_newparticipantconfirmation_content",
+      "label": "newParticipantConfirmation_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L42"
+    },
+    {
+      "id": "no_emails_newparticipantconfirmation_content2",
+      "label": "newParticipantConfirmation_content2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L43"
+    },
+    {
+      "id": "no_emails_newparticipantconfirmation_footnote",
+      "label": "newParticipantConfirmation_footnote",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L44"
+    },
+    {
+      "id": "no_emails_newparticipantconfirmation_heading",
+      "label": "newParticipantConfirmation_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L45"
+    },
+    {
+      "id": "no_emails_newparticipantconfirmation_preview",
+      "label": "newParticipantConfirmation_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L46"
+    },
+    {
+      "id": "no_emails_newparticipantconfirmation_subject",
+      "label": "newParticipantConfirmation_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L47"
+    },
+    {
+      "id": "no_emails_newpoll_button",
+      "label": "newPoll_button",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L48"
+    },
+    {
+      "id": "no_emails_newpoll_content",
+      "label": "newPoll_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L49"
+    },
+    {
+      "id": "no_emails_newpoll_heading",
+      "label": "newPoll_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L50"
+    },
+    {
+      "id": "no_emails_newpoll_preview",
+      "label": "newPoll_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L51"
+    },
+    {
+      "id": "no_emails_newpoll_subject",
+      "label": "newPoll_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L52"
+    },
+    {
+      "id": "no_emails_register_codevalid",
+      "label": "register_codeValid",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L53"
+    },
+    {
+      "id": "no_emails_register_heading",
+      "label": "register_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L54"
+    },
+    {
+      "id": "no_emails_register_preview",
+      "label": "register_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L55"
+    },
+    {
+      "id": "no_emails_register_subject",
+      "label": "register_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L56"
+    },
+    {
+      "id": "no_emails_register_text",
+      "label": "register_text",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L57"
+    },
+    {
+      "id": "no_emails_resetpassword_button",
+      "label": "resetPassword_button",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L58"
+    },
+    {
+      "id": "no_emails_resetpassword_content",
+      "label": "resetPassword_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L59"
+    },
+    {
+      "id": "no_emails_resetpassword_content2",
+      "label": "resetPassword_content2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L60"
+    },
+    {
+      "id": "no_emails_resetpassword_heading",
+      "label": "resetPassword_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L61"
+    },
+    {
+      "id": "no_emails_resetpassword_preview",
+      "label": "resetPassword_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L62"
+    },
+    {
+      "id": "no_emails_resetpassword_subject",
+      "label": "resetPassword_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L63"
+    },
+    {
+      "id": "no_emails_spaceinvite_button",
+      "label": "spaceInvite_button",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L64"
+    },
+    {
+      "id": "no_emails_spaceinvite_content",
+      "label": "spaceInvite_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L65"
+    },
+    {
+      "id": "no_emails_spaceinvite_heading",
+      "label": "spaceInvite_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L66"
+    },
+    {
+      "id": "no_emails_spaceinvite_preview",
+      "label": "spaceInvite_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L67"
+    },
+    {
+      "id": "no_emails_spaceinvite_subject",
+      "label": "spaceInvite_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L68"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_common_disablenotifications",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_common_poweredby",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_common_viewon",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_eventcanceledcontent",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_eventcanceledheading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_eventcanceledpreview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_eventcanceledsubject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_finalizehost_button",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_finalizehost_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_finalizehost_content2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_finalizehost_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_finalizehost_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_finalizehost_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_finalizeparticipant_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_finalizeparticipant_content2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_finalizeparticipant_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_finalizeparticipant_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_finalizeparticipant_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_license_key_activationsteps",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_license_key_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_license_key_licensekey",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_license_key_nextstepsheading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_license_key_plan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_license_key_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_license_key_questionsheading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_license_key_seats",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_license_key_signoff",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_license_key_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_license_key_support",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_license_key_yourkey",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newcomment_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newcomment_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newcomment_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newcomment_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newparticipant_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newparticipant_content2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newparticipant_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newparticipant_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newparticipant_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newparticipantconfirmation_button",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newparticipantconfirmation_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newparticipantconfirmation_content2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newparticipantconfirmation_footnote",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newparticipantconfirmation_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newparticipantconfirmation_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newparticipantconfirmation_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newpoll_button",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L48",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newpoll_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L49",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newpoll_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newpoll_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_newpoll_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L52",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_register_codevalid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L53",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_register_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_register_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_register_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L56",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_register_text",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L57",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_resetpassword_button",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L58",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_resetpassword_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L59",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_resetpassword_content2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L60",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_resetpassword_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L61",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_resetpassword_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L62",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_resetpassword_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L63",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_spaceinvite_button",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L64",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_spaceinvite_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L65",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_spaceinvite_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L66",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_spaceinvite_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L67",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_no_emails_json",
+      "target": "no_emails_spaceinvite_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/no/emails.json",
+      "source_location": "L68",
+      "weight": 1.0
+    }
+  ]
+}

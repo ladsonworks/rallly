@@ -1,0 +1,171 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_packages_test_helpers_package_json",
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "test_helpers_package_name",
+      "label": "name",
+      "file_type": "code",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "test_helpers_package_private",
+      "label": "private",
+      "file_type": "code",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "test_helpers_package_exports",
+      "label": "exports",
+      "file_type": "code",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "test_helpers_package_dependencies",
+      "label": "dependencies",
+      "file_type": "code",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "test_helpers_package_dependencies_playwright_test",
+      "label": "@playwright/test",
+      "file_type": "code",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "test_helpers_package_dependencies_cheerio",
+      "label": "cheerio",
+      "file_type": "code",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "test_helpers_package_devdependencies",
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "test_helpers_package_devdependencies_rallly_tsconfig",
+      "label": "@rallly/tsconfig",
+      "file_type": "code",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L12"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_packages_test_helpers_package_json",
+      "target": "test_helpers_package_name",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_test_helpers_package_json",
+      "target": "test_helpers_package_private",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_test_helpers_package_json",
+      "target": "test_helpers_package_exports",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_test_helpers_package_json",
+      "target": "test_helpers_package_dependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "test_helpers_package_dependencies",
+      "target": "test_helpers_package_dependencies_playwright_test",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "test_helpers_package_dependencies_playwright_test",
+      "target": "playwright_test",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "test_helpers_package_dependencies",
+      "target": "test_helpers_package_dependencies_cheerio",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "test_helpers_package_dependencies_cheerio",
+      "target": "cheerio",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "d_ladson_rallly_packages_test_helpers_package_json",
+      "target": "test_helpers_package_devdependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "test_helpers_package_devdependencies",
+      "target": "test_helpers_package_devdependencies_rallly_tsconfig",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "test_helpers_package_devdependencies_rallly_tsconfig",
+      "target": "rallly_tsconfig",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/test-helpers/package.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "context": "import"
+    }
+  ]
+}

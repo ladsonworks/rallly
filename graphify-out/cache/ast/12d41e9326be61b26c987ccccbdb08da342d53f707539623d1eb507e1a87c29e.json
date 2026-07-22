@@ -1,0 +1,47 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_contribute_documentation_mdx",
+      "label": "documentation.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/documentation.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "contribute_documentation_submitting_a_pull_request",
+      "label": "Submitting a Pull Request",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/documentation.mdx",
+      "source_location": "L16"
+    },
+    {
+      "id": "contribute_documentation_creating_an_issue",
+      "label": "Creating an Issue",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/documentation.mdx",
+      "source_location": "L21"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_contribute_documentation_mdx",
+      "target": "contribute_documentation_submitting_a_pull_request",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/contribute/documentation.mdx",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_contribute_documentation_mdx",
+      "target": "contribute_documentation_creating_an_issue",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/contribute/documentation.mdx",
+      "source_location": "L21",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

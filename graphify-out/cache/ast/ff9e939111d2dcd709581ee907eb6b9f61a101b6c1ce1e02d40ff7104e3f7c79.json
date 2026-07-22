@@ -1,0 +1,47 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_administrators_editing_a_meeting_poll_mdx",
+      "label": "editing-a-meeting-poll.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/administrators/editing-a-meeting-poll.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "administrators_editing_a_meeting_poll_changing_the_title_description_or_location",
+      "label": "Changing the title, description or location",
+      "file_type": "document",
+      "source_file": "apps/docs/administrators/editing-a-meeting-poll.mdx",
+      "source_location": "L12"
+    },
+    {
+      "id": "administrators_editing_a_meeting_poll_adding_or_removing_dates_or_times",
+      "label": "Adding or removing dates or times",
+      "file_type": "document",
+      "source_file": "apps/docs/administrators/editing-a-meeting-poll.mdx",
+      "source_location": "L23"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_administrators_editing_a_meeting_poll_mdx",
+      "target": "administrators_editing_a_meeting_poll_changing_the_title_description_or_location",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/administrators/editing-a-meeting-poll.mdx",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_administrators_editing_a_meeting_poll_mdx",
+      "target": "administrators_editing_a_meeting_poll_adding_or_removing_dates_or_times",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/administrators/editing-a-meeting-poll.mdx",
+      "source_location": "L23",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

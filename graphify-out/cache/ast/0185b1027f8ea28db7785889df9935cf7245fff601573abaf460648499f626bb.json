@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_faq_mdx",
+      "label": "faq.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/faq.mdx",
+      "source_location": "L1"
+    }
+  ],
+  "edges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

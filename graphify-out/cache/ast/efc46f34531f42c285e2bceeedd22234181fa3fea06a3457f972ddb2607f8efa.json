@@ -1,0 +1,765 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "label": "emails.json",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "ca_emails_common_poweredby",
+      "label": "common_poweredBy",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "ca_emails_common_disablenotifications",
+      "label": "common_disableNotifications",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "ca_emails_finalizehost_content",
+      "label": "finalizeHost_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "ca_emails_finalizehost_preview",
+      "label": "finalizeHost_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "ca_emails_finalizehost_heading",
+      "label": "finalizeHost_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "ca_emails_finalizehost_content2",
+      "label": "finalizeHost_content2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "ca_emails_finalizehost_button",
+      "label": "finalizeHost_button",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "ca_emails_finalizehost_subject",
+      "label": "finalizeHost_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "ca_emails_finalizeparticipant_content",
+      "label": "finalizeParticipant_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "ca_emails_finalizeparticipant_preview",
+      "label": "finalizeParticipant_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "ca_emails_finalizeparticipant_heading",
+      "label": "finalizeParticipant_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "ca_emails_finalizeparticipant_content2",
+      "label": "finalizeParticipant_content2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "ca_emails_finalizeparticipant_subject",
+      "label": "finalizeParticipant_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "ca_emails_login_button",
+      "label": "login_button",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L15"
+    },
+    {
+      "id": "ca_emails_login_content2",
+      "label": "login_content2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "ca_emails_login_preview",
+      "label": "login_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L17"
+    },
+    {
+      "id": "ca_emails_login_heading",
+      "label": "login_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L18"
+    },
+    {
+      "id": "ca_emails_login_content",
+      "label": "login_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "ca_emails_login_codevalid",
+      "label": "login_codeValid",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "ca_emails_login_subject",
+      "label": "login_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L21"
+    },
+    {
+      "id": "ca_emails_newcomment_content",
+      "label": "newComment_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "ca_emails_newcomment_subject",
+      "label": "newComment_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L23"
+    },
+    {
+      "id": "ca_emails_newparticipantconfirmation_content",
+      "label": "newParticipantConfirmation_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "ca_emails_newparticipantconfirmation_content2",
+      "label": "newParticipantConfirmation_content2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "ca_emails_newparticipantconfirmation_button",
+      "label": "newParticipantConfirmation_button",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L26"
+    },
+    {
+      "id": "ca_emails_newparticipantconfirmation_footnote",
+      "label": "newParticipantConfirmation_footnote",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L27"
+    },
+    {
+      "id": "ca_emails_newparticipantconfirmation_preview",
+      "label": "newParticipantConfirmation_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L28"
+    },
+    {
+      "id": "ca_emails_newparticipantconfirmation_heading",
+      "label": "newParticipantConfirmation_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L29"
+    },
+    {
+      "id": "ca_emails_newparticipantconfirmation_subject",
+      "label": "newParticipantConfirmation_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L30"
+    },
+    {
+      "id": "ca_emails_newparticipant_content",
+      "label": "newParticipant_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L31"
+    },
+    {
+      "id": "ca_emails_newparticipant_content2",
+      "label": "newParticipant_content2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L32"
+    },
+    {
+      "id": "ca_emails_newparticipant_preview",
+      "label": "newParticipant_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L33"
+    },
+    {
+      "id": "ca_emails_newparticipant_heading",
+      "label": "newParticipant_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L34"
+    },
+    {
+      "id": "ca_emails_newparticipant_subject",
+      "label": "newParticipant_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L35"
+    },
+    {
+      "id": "ca_emails_newpoll_content",
+      "label": "newPoll_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L36"
+    },
+    {
+      "id": "ca_emails_newpoll_heading",
+      "label": "newPoll_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L37"
+    },
+    {
+      "id": "ca_emails_newpoll_button",
+      "label": "newPoll_button",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L38"
+    },
+    {
+      "id": "ca_emails_newpoll_subject",
+      "label": "newPoll_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L39"
+    },
+    {
+      "id": "ca_emails_register_footer",
+      "label": "register_footer",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L40"
+    },
+    {
+      "id": "ca_emails_register_preview",
+      "label": "register_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L41"
+    },
+    {
+      "id": "ca_emails_register_heading",
+      "label": "register_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L42"
+    },
+    {
+      "id": "ca_emails_register_text",
+      "label": "register_text",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L43"
+    },
+    {
+      "id": "ca_emails_register_codevalid",
+      "label": "register_codeValid",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L44"
+    },
+    {
+      "id": "ca_emails_register_subject",
+      "label": "register_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L45"
+    },
+    {
+      "id": "ca_emails_common_viewon",
+      "label": "common_viewOn",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L46"
+    },
+    {
+      "id": "ca_emails_newcomment_preview",
+      "label": "newComment_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L47"
+    },
+    {
+      "id": "ca_emails_newcomment_heading",
+      "label": "newComment_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L48"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_common_poweredby",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_common_disablenotifications",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_finalizehost_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_finalizehost_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_finalizehost_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_finalizehost_content2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_finalizehost_button",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_finalizehost_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_finalizeparticipant_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_finalizeparticipant_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_finalizeparticipant_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_finalizeparticipant_content2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_finalizeparticipant_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_login_button",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_login_content2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_login_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_login_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_login_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_login_codevalid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_login_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newcomment_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newcomment_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newparticipantconfirmation_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newparticipantconfirmation_content2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newparticipantconfirmation_button",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newparticipantconfirmation_footnote",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newparticipantconfirmation_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newparticipantconfirmation_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newparticipantconfirmation_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newparticipant_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newparticipant_content2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newparticipant_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newparticipant_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newparticipant_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newpoll_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newpoll_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newpoll_button",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newpoll_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_register_footer",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_register_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_register_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_register_text",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_register_codevalid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_register_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_common_viewon",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newcomment_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_ca_emails_json",
+      "target": "ca_emails_newcomment_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/ca/emails.json",
+      "source_location": "L48",
+      "weight": 1.0
+    }
+  ]
+}

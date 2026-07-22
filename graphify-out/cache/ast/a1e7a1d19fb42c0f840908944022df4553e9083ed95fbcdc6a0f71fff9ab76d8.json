@@ -1,0 +1,1219 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_package_json",
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "landing_package_name",
+      "label": "name",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "landing_package_version",
+      "label": "version",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "landing_package_private",
+      "label": "private",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "landing_package_scripts",
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "landing_package_scripts_dev",
+      "label": "dev",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "landing_package_scripts_build",
+      "label": "build",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "landing_package_scripts_analyze",
+      "label": "analyze",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "landing_package_scripts_start",
+      "label": "start",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "landing_package_scripts_type_check",
+      "label": "type-check",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "landing_package_scripts_i18n_scan",
+      "label": "i18n:scan",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "landing_package_dependencies",
+      "label": "dependencies",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "landing_package_dependencies_prisma_adapter_pg",
+      "label": "@prisma/adapter-pg",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "landing_package_dependencies_prisma_client",
+      "label": "@prisma/client",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L15"
+    },
+    {
+      "id": "landing_package_dependencies_rallly_billing",
+      "label": "@rallly/billing",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "landing_package_dependencies_rallly_database",
+      "label": "@rallly/database",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L17"
+    },
+    {
+      "id": "landing_package_dependencies_rallly_languages",
+      "label": "@rallly/languages",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L18"
+    },
+    {
+      "id": "landing_package_dependencies_rallly_posthog",
+      "label": "@rallly/posthog",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "landing_package_dependencies_rallly_tailwind_config",
+      "label": "@rallly/tailwind-config",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "landing_package_dependencies_rallly_ui",
+      "label": "@rallly/ui",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L21"
+    },
+    {
+      "id": "landing_package_dependencies_rallly_utils",
+      "label": "@rallly/utils",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "landing_package_dependencies_svgr_webpack",
+      "label": "@svgr/webpack",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L23"
+    },
+    {
+      "id": "landing_package_dependencies_vercel_analytics",
+      "label": "@vercel/analytics",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "landing_package_dependencies_dayjs",
+      "label": "dayjs",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "landing_package_dependencies_gray_matter",
+      "label": "gray-matter",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L26"
+    },
+    {
+      "id": "landing_package_dependencies_i18next",
+      "label": "i18next",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L27"
+    },
+    {
+      "id": "landing_package_dependencies_i18next_icu",
+      "label": "i18next-icu",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L28"
+    },
+    {
+      "id": "landing_package_dependencies_i18next_resources_to_backend",
+      "label": "i18next-resources-to-backend",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L29"
+    },
+    {
+      "id": "landing_package_dependencies_intl_messageformat",
+      "label": "intl-messageformat",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L30"
+    },
+    {
+      "id": "landing_package_dependencies_lodash",
+      "label": "lodash",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L31"
+    },
+    {
+      "id": "landing_package_dependencies_lucide_react",
+      "label": "lucide-react",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L32"
+    },
+    {
+      "id": "landing_package_dependencies_motion",
+      "label": "motion",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L33"
+    },
+    {
+      "id": "landing_package_dependencies_nanoid",
+      "label": "nanoid",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L34"
+    },
+    {
+      "id": "landing_package_dependencies_next",
+      "label": "next",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L35"
+    },
+    {
+      "id": "landing_package_dependencies_next_mdx_remote",
+      "label": "next-mdx-remote",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L36"
+    },
+    {
+      "id": "landing_package_dependencies_next_seo",
+      "label": "next-seo",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L37"
+    },
+    {
+      "id": "landing_package_dependencies_pg",
+      "label": "pg",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L38"
+    },
+    {
+      "id": "landing_package_dependencies_react",
+      "label": "react",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L39"
+    },
+    {
+      "id": "landing_package_dependencies_react_dom",
+      "label": "react-dom",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L40"
+    },
+    {
+      "id": "landing_package_dependencies_react_i18next",
+      "label": "react-i18next",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L41"
+    },
+    {
+      "id": "landing_package_dependencies_react_use",
+      "label": "react-use",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L42"
+    },
+    {
+      "id": "landing_package_dependencies_tailwindcss",
+      "label": "tailwindcss",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L43"
+    },
+    {
+      "id": "landing_package_devdependencies",
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L45"
+    },
+    {
+      "id": "landing_package_devdependencies_next_bundle_analyzer",
+      "label": "@next/bundle-analyzer",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L46"
+    },
+    {
+      "id": "landing_package_devdependencies_rallly_tsconfig",
+      "label": "@rallly/tsconfig",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L47"
+    },
+    {
+      "id": "landing_package_devdependencies_types_color_hash",
+      "label": "@types/color-hash",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L48"
+    },
+    {
+      "id": "landing_package_devdependencies_types_lodash",
+      "label": "@types/lodash",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L49"
+    },
+    {
+      "id": "landing_package_devdependencies_types_node",
+      "label": "@types/node",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L50"
+    },
+    {
+      "id": "landing_package_devdependencies_types_react",
+      "label": "@types/react",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L51"
+    },
+    {
+      "id": "landing_package_devdependencies_types_react_dom",
+      "label": "@types/react-dom",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L52"
+    },
+    {
+      "id": "landing_package_devdependencies_cross_env",
+      "label": "cross-env",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L53"
+    },
+    {
+      "id": "landing_package_devdependencies_i18next_cli",
+      "label": "i18next-cli",
+      "file_type": "code",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L54"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_package_json",
+      "target": "landing_package_name",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_package_json",
+      "target": "landing_package_version",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_package_json",
+      "target": "landing_package_private",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_package_json",
+      "target": "landing_package_scripts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_scripts",
+      "target": "landing_package_scripts_dev",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_scripts",
+      "target": "landing_package_scripts_build",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_scripts",
+      "target": "landing_package_scripts_analyze",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_scripts",
+      "target": "landing_package_scripts_start",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_scripts",
+      "target": "landing_package_scripts_type_check",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_scripts",
+      "target": "landing_package_scripts_i18n_scan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_package_json",
+      "target": "landing_package_dependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_prisma_adapter_pg",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_prisma_adapter_pg",
+      "target": "prisma_adapter_pg",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_prisma_client",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_prisma_client",
+      "target": "prisma_client",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_rallly_billing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_rallly_billing",
+      "target": "rallly_billing",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_rallly_database",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_rallly_database",
+      "target": "rallly_database",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_rallly_languages",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_rallly_languages",
+      "target": "rallly_languages",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_rallly_posthog",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_rallly_posthog",
+      "target": "rallly_posthog",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_rallly_tailwind_config",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_rallly_tailwind_config",
+      "target": "rallly_tailwind_config",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_rallly_ui",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_rallly_ui",
+      "target": "rallly_ui",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_rallly_utils",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_rallly_utils",
+      "target": "rallly_utils",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_svgr_webpack",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_svgr_webpack",
+      "target": "svgr_webpack",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_vercel_analytics",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_vercel_analytics",
+      "target": "vercel_analytics",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_dayjs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_dayjs",
+      "target": "dayjs",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_gray_matter",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_gray_matter",
+      "target": "gray_matter",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L26",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_i18next",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_i18next",
+      "target": "i18next",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L27",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_i18next_icu",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_i18next_icu",
+      "target": "i18next_icu",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_i18next_resources_to_backend",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_i18next_resources_to_backend",
+      "target": "i18next_resources_to_backend",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L29",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_intl_messageformat",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_intl_messageformat",
+      "target": "intl_messageformat",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L30",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_lodash",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_lodash",
+      "target": "lodash",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L31",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_lucide_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_lucide_react",
+      "target": "lucide_react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L32",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_motion",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_motion",
+      "target": "motion",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L33",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_nanoid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_nanoid",
+      "target": "nanoid",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L34",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_next",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_next",
+      "target": "next",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L35",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_next_mdx_remote",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_next_mdx_remote",
+      "target": "next_mdx_remote",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L36",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_next_seo",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_next_seo",
+      "target": "next_seo",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L37",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_pg",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_pg",
+      "target": "pg",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L38",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_react",
+      "target": "react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L39",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_react_dom",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_react_dom",
+      "target": "react_dom",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L40",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_react_i18next",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_react_i18next",
+      "target": "react_i18next",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L41",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_react_use",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_react_use",
+      "target": "react_use",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L42",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_dependencies",
+      "target": "landing_package_dependencies_tailwindcss",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_dependencies_tailwindcss",
+      "target": "tailwindcss",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L43",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_package_json",
+      "target": "landing_package_devdependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_devdependencies",
+      "target": "landing_package_devdependencies_next_bundle_analyzer",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_devdependencies_next_bundle_analyzer",
+      "target": "next_bundle_analyzer",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L46",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_devdependencies",
+      "target": "landing_package_devdependencies_rallly_tsconfig",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_devdependencies_rallly_tsconfig",
+      "target": "rallly_tsconfig",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L47",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_devdependencies",
+      "target": "landing_package_devdependencies_types_color_hash",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L48",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_devdependencies_types_color_hash",
+      "target": "types_color_hash",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L48",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_devdependencies",
+      "target": "landing_package_devdependencies_types_lodash",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L49",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_devdependencies_types_lodash",
+      "target": "types_lodash",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L49",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_devdependencies",
+      "target": "landing_package_devdependencies_types_node",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_devdependencies_types_node",
+      "target": "types_node",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L50",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_devdependencies",
+      "target": "landing_package_devdependencies_types_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_devdependencies_types_react",
+      "target": "types_react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L51",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_devdependencies",
+      "target": "landing_package_devdependencies_types_react_dom",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L52",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_devdependencies_types_react_dom",
+      "target": "types_react_dom",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L52",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_devdependencies",
+      "target": "landing_package_devdependencies_cross_env",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L53",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_devdependencies_cross_env",
+      "target": "cross_env",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L53",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "landing_package_devdependencies",
+      "target": "landing_package_devdependencies_i18next_cli",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_package_devdependencies_i18next_cli",
+      "target": "i18next_cli",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/package.json",
+      "source_location": "L54",
+      "weight": 1.0,
+      "context": "import"
+    }
+  ]
+}

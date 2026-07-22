@@ -1,0 +1,79 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_self_hosting_managed_hosting_mdx",
+      "label": "managed-hosting.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/managed-hosting.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "self_hosting_managed_hosting_revenue_sharing_providers",
+      "label": "Revenue Sharing Providers",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/managed-hosting.mdx",
+      "source_location": "L8"
+    },
+    {
+      "id": "self_hosting_managed_hosting_pikapods_https_pikapods_com",
+      "label": "[PikaPods](https://pikapods.com)",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/managed-hosting.mdx",
+      "source_location": "L14"
+    },
+    {
+      "id": "self_hosting_managed_hosting_cloudron_https_cloudron_io",
+      "label": "[Cloudron](https://cloudron.io)",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/managed-hosting.mdx",
+      "source_location": "L20"
+    },
+    {
+      "id": "self_hosting_managed_hosting_elestio_https_elest_io",
+      "label": "[Elestio](https://elest.io/)",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/managed-hosting.mdx",
+      "source_location": "L32"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_managed_hosting_mdx",
+      "target": "self_hosting_managed_hosting_revenue_sharing_providers",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/managed-hosting.mdx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_managed_hosting_revenue_sharing_providers",
+      "target": "self_hosting_managed_hosting_pikapods_https_pikapods_com",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/managed-hosting.mdx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_managed_hosting_revenue_sharing_providers",
+      "target": "self_hosting_managed_hosting_cloudron_https_cloudron_io",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/managed-hosting.mdx",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_managed_hosting_revenue_sharing_providers",
+      "target": "self_hosting_managed_hosting_elestio_https_elest_io",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/managed-hosting.mdx",
+      "source_location": "L32",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

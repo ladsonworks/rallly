@@ -1,0 +1,213 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_packages_languages_package_json",
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "languages_package_name",
+      "label": "name",
+      "file_type": "code",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "languages_package_version",
+      "label": "version",
+      "file_type": "code",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "languages_package_private",
+      "label": "private",
+      "file_type": "code",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "languages_package_exports",
+      "label": "exports",
+      "file_type": "code",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "languages_package_dependencies",
+      "label": "dependencies",
+      "file_type": "code",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "languages_package_dependencies_formatjs_intl_localematcher",
+      "label": "@formatjs/intl-localematcher",
+      "file_type": "code",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "languages_package_dependencies_negotiator",
+      "label": "negotiator",
+      "file_type": "code",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "languages_package_devdependencies",
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "languages_package_devdependencies_rallly_tsconfig",
+      "label": "@rallly/tsconfig",
+      "file_type": "code",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "languages_package_devdependencies_types_negotiator",
+      "label": "@types/negotiator",
+      "file_type": "code",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L15"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_packages_languages_package_json",
+      "target": "languages_package_name",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_languages_package_json",
+      "target": "languages_package_version",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_languages_package_json",
+      "target": "languages_package_private",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_languages_package_json",
+      "target": "languages_package_exports",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_languages_package_json",
+      "target": "languages_package_dependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "languages_package_dependencies",
+      "target": "languages_package_dependencies_formatjs_intl_localematcher",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "languages_package_dependencies_formatjs_intl_localematcher",
+      "target": "formatjs_intl_localematcher",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "languages_package_dependencies",
+      "target": "languages_package_dependencies_negotiator",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "languages_package_dependencies_negotiator",
+      "target": "negotiator",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "d_ladson_rallly_packages_languages_package_json",
+      "target": "languages_package_devdependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "languages_package_devdependencies",
+      "target": "languages_package_devdependencies_rallly_tsconfig",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "languages_package_devdependencies_rallly_tsconfig",
+      "target": "rallly_tsconfig",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "languages_package_devdependencies",
+      "target": "languages_package_devdependencies_types_negotiator",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "languages_package_devdependencies_types_negotiator",
+      "target": "types_negotiator",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/languages/package.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "import"
+    }
+  ]
+}

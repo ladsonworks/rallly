@@ -1,0 +1,639 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_agents_skills_organization_best_practices_skill_md",
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "organization_best_practices_skill_setting_up_organizations",
+      "label": "Setting Up Organizations",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L6"
+    },
+    {
+      "id": "organization_best_practices_skill_client_side_setup",
+      "label": "Client-Side Setup",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L27"
+    },
+    {
+      "id": "organization_best_practices_skill_creating_organizations",
+      "label": "Creating Organizations",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L40"
+    },
+    {
+      "id": "organization_best_practices_skill_controlling_organization_creation",
+      "label": "Controlling Organization Creation",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L55"
+    },
+    {
+      "id": "organization_best_practices_skill_creating_organizations_on_behalf_of_users",
+      "label": "Creating Organizations on Behalf of Users",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L71"
+    },
+    {
+      "id": "organization_best_practices_skill_active_organizations",
+      "label": "Active Organizations",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L88"
+    },
+    {
+      "id": "organization_best_practices_skill_getting_full_organization_data",
+      "label": "Getting Full Organization Data",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L109"
+    },
+    {
+      "id": "organization_best_practices_skill_members",
+      "label": "Members",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L118"
+    },
+    {
+      "id": "organization_best_practices_skill_adding_members_server_side",
+      "label": "Adding Members (Server-Side)",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L122"
+    },
+    {
+      "id": "organization_best_practices_skill_assigning_multiple_roles",
+      "label": "Assigning Multiple Roles",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L138"
+    },
+    {
+      "id": "organization_best_practices_skill_removing_members",
+      "label": "Removing Members",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L152"
+    },
+    {
+      "id": "organization_best_practices_skill_updating_member_roles",
+      "label": "Updating Member Roles",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L164"
+    },
+    {
+      "id": "organization_best_practices_skill_membership_limits",
+      "label": "Membership Limits",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L173"
+    },
+    {
+      "id": "organization_best_practices_skill_invitations",
+      "label": "Invitations",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L188"
+    },
+    {
+      "id": "organization_best_practices_skill_setting_up_invitation_emails",
+      "label": "Setting Up Invitation Emails",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L192"
+    },
+    {
+      "id": "organization_best_practices_skill_sending_invitations",
+      "label": "Sending Invitations",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L221"
+    },
+    {
+      "id": "organization_best_practices_skill_creating_shareable_invitation_urls",
+      "label": "Creating Shareable Invitation URLs",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L230"
+    },
+    {
+      "id": "organization_best_practices_skill_accepting_invitations",
+      "label": "Accepting Invitations",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L246"
+    },
+    {
+      "id": "organization_best_practices_skill_invitation_configuration",
+      "label": "Invitation Configuration",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L254"
+    },
+    {
+      "id": "organization_best_practices_skill_roles_permissions",
+      "label": "Roles & Permissions",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L264"
+    },
+    {
+      "id": "organization_best_practices_skill_checking_permissions",
+      "label": "Checking Permissions",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L275"
+    },
+    {
+      "id": "organization_best_practices_skill_client_side_permission_checks",
+      "label": "Client-Side Permission Checks",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L287"
+    },
+    {
+      "id": "organization_best_practices_skill_teams",
+      "label": "Teams",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L300"
+    },
+    {
+      "id": "organization_best_practices_skill_enabling_teams",
+      "label": "Enabling Teams",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L304"
+    },
+    {
+      "id": "organization_best_practices_skill_creating_teams",
+      "label": "Creating Teams",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L320"
+    },
+    {
+      "id": "organization_best_practices_skill_managing_team_members",
+      "label": "Managing Team Members",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L328"
+    },
+    {
+      "id": "organization_best_practices_skill_active_teams",
+      "label": "Active Teams",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L344"
+    },
+    {
+      "id": "organization_best_practices_skill_team_limits",
+      "label": "Team Limits",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L354"
+    },
+    {
+      "id": "organization_best_practices_skill_dynamic_access_control",
+      "label": "Dynamic Access Control",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L366"
+    },
+    {
+      "id": "organization_best_practices_skill_enabling_dynamic_access_control",
+      "label": "Enabling Dynamic Access Control",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L370"
+    },
+    {
+      "id": "organization_best_practices_skill_creating_custom_roles",
+      "label": "Creating Custom Roles",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L387"
+    },
+    {
+      "id": "organization_best_practices_skill_updating_and_deleting_roles",
+      "label": "Updating and Deleting Roles",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L399"
+    },
+    {
+      "id": "organization_best_practices_skill_lifecycle_hooks",
+      "label": "Lifecycle Hooks",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L418"
+    },
+    {
+      "id": "organization_best_practices_skill_schema_customization",
+      "label": "Schema Customization",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L458"
+    },
+    {
+      "id": "organization_best_practices_skill_security_considerations",
+      "label": "Security Considerations",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L493"
+    },
+    {
+      "id": "organization_best_practices_skill_owner_protection",
+      "label": "Owner Protection",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L495"
+    },
+    {
+      "id": "organization_best_practices_skill_organization_deletion",
+      "label": "Organization Deletion",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L513"
+    },
+    {
+      "id": "organization_best_practices_skill_invitation_security",
+      "label": "Invitation Security",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L539"
+    },
+    {
+      "id": "organization_best_practices_skill_complete_configuration_example",
+      "label": "Complete Configuration Example",
+      "file_type": "document",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L545"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_agents_skills_organization_best_practices_skill_md",
+      "target": "organization_best_practices_skill_setting_up_organizations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_setting_up_organizations",
+      "target": "organization_best_practices_skill_client_side_setup",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_organization_best_practices_skill_md",
+      "target": "organization_best_practices_skill_creating_organizations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_creating_organizations",
+      "target": "organization_best_practices_skill_controlling_organization_creation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_creating_organizations",
+      "target": "organization_best_practices_skill_creating_organizations_on_behalf_of_users",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L71",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_organization_best_practices_skill_md",
+      "target": "organization_best_practices_skill_active_organizations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L88",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_active_organizations",
+      "target": "organization_best_practices_skill_getting_full_organization_data",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L109",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_organization_best_practices_skill_md",
+      "target": "organization_best_practices_skill_members",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L118",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_members",
+      "target": "organization_best_practices_skill_adding_members_server_side",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L122",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_members",
+      "target": "organization_best_practices_skill_assigning_multiple_roles",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L138",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_members",
+      "target": "organization_best_practices_skill_removing_members",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L152",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_members",
+      "target": "organization_best_practices_skill_updating_member_roles",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L164",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_members",
+      "target": "organization_best_practices_skill_membership_limits",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L173",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_organization_best_practices_skill_md",
+      "target": "organization_best_practices_skill_invitations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L188",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_invitations",
+      "target": "organization_best_practices_skill_setting_up_invitation_emails",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L192",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_invitations",
+      "target": "organization_best_practices_skill_sending_invitations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L221",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_invitations",
+      "target": "organization_best_practices_skill_creating_shareable_invitation_urls",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L230",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_invitations",
+      "target": "organization_best_practices_skill_accepting_invitations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L246",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_invitations",
+      "target": "organization_best_practices_skill_invitation_configuration",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L254",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_organization_best_practices_skill_md",
+      "target": "organization_best_practices_skill_roles_permissions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L264",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_roles_permissions",
+      "target": "organization_best_practices_skill_checking_permissions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L275",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_roles_permissions",
+      "target": "organization_best_practices_skill_client_side_permission_checks",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L287",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_organization_best_practices_skill_md",
+      "target": "organization_best_practices_skill_teams",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L300",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_teams",
+      "target": "organization_best_practices_skill_enabling_teams",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L304",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_teams",
+      "target": "organization_best_practices_skill_creating_teams",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L320",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_teams",
+      "target": "organization_best_practices_skill_managing_team_members",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L328",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_teams",
+      "target": "organization_best_practices_skill_active_teams",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L344",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_teams",
+      "target": "organization_best_practices_skill_team_limits",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L354",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_organization_best_practices_skill_md",
+      "target": "organization_best_practices_skill_dynamic_access_control",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L366",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_dynamic_access_control",
+      "target": "organization_best_practices_skill_enabling_dynamic_access_control",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L370",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_dynamic_access_control",
+      "target": "organization_best_practices_skill_creating_custom_roles",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L387",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_dynamic_access_control",
+      "target": "organization_best_practices_skill_updating_and_deleting_roles",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L399",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_organization_best_practices_skill_md",
+      "target": "organization_best_practices_skill_lifecycle_hooks",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L418",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_organization_best_practices_skill_md",
+      "target": "organization_best_practices_skill_schema_customization",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L458",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_organization_best_practices_skill_md",
+      "target": "organization_best_practices_skill_security_considerations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L493",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_security_considerations",
+      "target": "organization_best_practices_skill_owner_protection",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L495",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_security_considerations",
+      "target": "organization_best_practices_skill_organization_deletion",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L513",
+      "weight": 1.0
+    },
+    {
+      "source": "organization_best_practices_skill_security_considerations",
+      "target": "organization_best_practices_skill_invitation_security",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L539",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_agents_skills_organization_best_practices_skill_md",
+      "target": "organization_best_practices_skill_complete_configuration_example",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/organization-best-practices/SKILL.md",
+      "source_location": "L545",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

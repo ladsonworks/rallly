@@ -1,0 +1,143 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_security_md",
+      "label": "SECURITY.md",
+      "file_type": "document",
+      "source_file": "SECURITY.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "rallly_security_security_policy",
+      "label": "Security Policy",
+      "file_type": "document",
+      "source_file": "SECURITY.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "rallly_security_reporting_a_vulnerability",
+      "label": "Reporting a Vulnerability",
+      "file_type": "document",
+      "source_file": "SECURITY.md",
+      "source_location": "L3"
+    },
+    {
+      "id": "rallly_security_supported_versions",
+      "label": "Supported Versions",
+      "file_type": "document",
+      "source_file": "SECURITY.md",
+      "source_location": "L15"
+    },
+    {
+      "id": "rallly_security_scope",
+      "label": "Scope",
+      "file_type": "document",
+      "source_file": "SECURITY.md",
+      "source_location": "L20"
+    },
+    {
+      "id": "rallly_security_out_of_scope",
+      "label": "Out of Scope",
+      "file_type": "document",
+      "source_file": "SECURITY.md",
+      "source_location": "L36"
+    },
+    {
+      "id": "rallly_security_safe_harbor",
+      "label": "Safe Harbor",
+      "file_type": "document",
+      "source_file": "SECURITY.md",
+      "source_location": "L53"
+    },
+    {
+      "id": "rallly_security_guidelines",
+      "label": "Guidelines",
+      "file_type": "document",
+      "source_file": "SECURITY.md",
+      "source_location": "L59"
+    },
+    {
+      "id": "rallly_security_response",
+      "label": "Response",
+      "file_type": "document",
+      "source_file": "SECURITY.md",
+      "source_location": "L67"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_security_md",
+      "target": "rallly_security_security_policy",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "SECURITY.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_security_security_policy",
+      "target": "rallly_security_reporting_a_vulnerability",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "SECURITY.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_security_security_policy",
+      "target": "rallly_security_supported_versions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "SECURITY.md",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_security_security_policy",
+      "target": "rallly_security_scope",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "SECURITY.md",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_security_security_policy",
+      "target": "rallly_security_out_of_scope",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "SECURITY.md",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_security_security_policy",
+      "target": "rallly_security_safe_harbor",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "SECURITY.md",
+      "source_location": "L53",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_security_security_policy",
+      "target": "rallly_security_guidelines",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "SECURITY.md",
+      "source_location": "L59",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_security_security_policy",
+      "target": "rallly_security_response",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "SECURITY.md",
+      "source_location": "L67",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

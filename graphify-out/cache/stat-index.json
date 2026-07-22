@@ -1,0 +1,2407 @@
+{
+  "D:\\Ladson\\rallly\\.husky\\_\\husky.sh": {
+    "size": 160,
+    "mtime_ns": 1783914178055359900,
+    "hash": "6db0aa99aece6ebd17bbc27c5e5287a462fb39cc4a2ca3a82a6277c166bdb3a0"
+  },
+  "D:\\Ladson\\rallly\\.mcp.json": {
+    "size": 136,
+    "mtime_ns": 1783913886201595700,
+    "hash": "eb8721858b27ddfa2b9351b580330f6c96fe888d0fd741310a59cd02b51697ec"
+  },
+  "D:\\Ladson\\rallly\\.vscode\\settings.json": {
+    "size": 680,
+    "mtime_ns": 1783913886201595700,
+    "hash": "512244dea491aacd49786aaac1d9dfa9b683cb40e63ba9b0860693cba3468eba"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\biome.json": {
+    "size": 89,
+    "mtime_ns": 1783913886201595700,
+    "hash": "51ef9e6eb5c89cc40617f5701ad6b5d867dfa11b6d24c2a153484f803d18d024"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\docs.json": {
+    "size": 3907,
+    "mtime_ns": 1783913886201595700,
+    "hash": "f0f382b676db042d90b77c04ff2ff4d27425f738105be1c8c1f2759568733c15"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\package.json": {
+    "size": 320,
+    "mtime_ns": 1783913886232216500,
+    "hash": "abf2e80757a1fe8957a1a6f545b933fd01f9345f322ffe516b13603297c421e5"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\biome.json": {
+    "size": 89,
+    "mtime_ns": 1783913886235236700,
+    "hash": "73d28c7d5065dbcf6a68f83458c5809a04ebf5781c9be01bda0e4a9ea66c40af"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\package.json": {
+    "size": 1722,
+    "mtime_ns": 1783913886235236700,
+    "hash": "a1e7a1d19fb42c0f840908944022df4553e9083ed95fbcdc6a0f71fff9ab76d8"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\.well-known\\microsoft-identity-association.json": {
+    "size": 119,
+    "mtime_ns": 1783913886235236700,
+    "hash": "6e66aaeb2707eff24b5197bbe4cafb4c69504fc8ee6e0a5835aed6fd27d82b57"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ca\\blog.json": {
+    "size": 156,
+    "mtime_ns": 1783913886238605800,
+    "hash": "183f9b6ace3ce131e93668ddae53295c3e7ffbeb0dbf93c8c34d61da001d7c61"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ca\\common.json": {
+    "size": 1043,
+    "mtime_ns": 1783913886238605800,
+    "hash": "1189fd5727192b037a97e57bf7126cc93d3cb32f9316b978787c3f39420f2a0b"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ca\\home.json": {
+    "size": 2868,
+    "mtime_ns": 1783913886238605800,
+    "hash": "7731032803e7b1f7ba6a5c335c5d56feec3b56237c320e2877d69440e8f1150a"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ca\\pricing.json": {
+    "size": 2930,
+    "mtime_ns": 1783913886238605800,
+    "hash": "4eada2e2409835fa3c61b9bcb5668ebae1a9b47d74205293c0c613e37f764566"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\cs\\blog.json": {
+    "size": 151,
+    "mtime_ns": 1783913886238605800,
+    "hash": "c9ebc80f1cbeecd7bc9ba91427f2ab5ddd6f06ffecea8bde589d65b37f45606b"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\cs\\common.json": {
+    "size": 1916,
+    "mtime_ns": 1783913886238605800,
+    "hash": "f084a041edd7a4658a93709eaa64e1b9e5ea3835e3e303359252a8a89a55b120"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\cs\\home.json": {
+    "size": 3289,
+    "mtime_ns": 1783913886238605800,
+    "hash": "93b5a321724790e904effb852a20330470124a67a3de0642f3a4c368daebadf3"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\cs\\pricing.json": {
+    "size": 2895,
+    "mtime_ns": 1783913886238605800,
+    "hash": "ef34c4f79ce81ea154bfe4017a9fd130f0ef11d963a4a201939627dd7850a042"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\da\\blog.json": {
+    "size": 148,
+    "mtime_ns": 1783913886238605800,
+    "hash": "edc1ad9238507dc2385f266a17ebf322f20847b8ca10efccfec5053504a9a878"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\da\\common.json": {
+    "size": 1794,
+    "mtime_ns": 1783913886240625300,
+    "hash": "ec66c115d9bda9d6e6391e185aa34c8f8e0a96a9e4c5051adac75e4a36f00ed3"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\da\\home.json": {
+    "size": 3002,
+    "mtime_ns": 1783913886240625300,
+    "hash": "1bb7491ee86d4196923c0950a71f40bf3291e1e70f7d80e612425613bc6828ff"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\da\\pricing.json": {
+    "size": 2798,
+    "mtime_ns": 1783913886240625300,
+    "hash": "d4c0988968248648e8a668505ad97c5d22fca83d08512f363450523b54c7e558"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\de\\blog.json": {
+    "size": 146,
+    "mtime_ns": 1783913886240625300,
+    "hash": "30362f39a6bf57589c9690e07102d178cd381be7afe8a908a24d7b6619e7fb6f"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\de\\common.json": {
+    "size": 1901,
+    "mtime_ns": 1783913886240625300,
+    "hash": "fc1582a57ea292fbdfe6644b111d5b9f562e68cc9bfbf3670fe49af78445b29b"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\de\\home.json": {
+    "size": 3285,
+    "mtime_ns": 1783913886240625300,
+    "hash": "bd6eb9ccc603d323bedec81fd5078301aa40f6c0281cdb4a9073851826d0ab70"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\de\\pricing.json": {
+    "size": 3019,
+    "mtime_ns": 1783913886240625300,
+    "hash": "5839b7503eaa49a2ab745192359de074f05c079a9bdd6f0e79a03152595fb55e"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\en\\blog.json": {
+    "size": 143,
+    "mtime_ns": 1783913886240625300,
+    "hash": "f113464b2d4a0dced8a982a97f449ebbcae83a426712b91f86879783299ee3c2"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\en\\common.json": {
+    "size": 1701,
+    "mtime_ns": 1783913886240625300,
+    "hash": "e00db8e705498b6dca6d1d08f3336f054ec049f78427eec0f7450cffc49886bc"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\en\\home.json": {
+    "size": 2860,
+    "mtime_ns": 1784010023531395300,
+    "hash": "f39a6a5d65b8f1b3ce98f8ddf77b3ee7a98f6d41accc4e6535397bab3bf2b090"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\en\\pricing.json": {
+    "size": 2650,
+    "mtime_ns": 1784010023531395300,
+    "hash": "0e01b34a3259daaf61ffd682be1e8fc7b1c161d62108d7af492f6d16a70a9a6f"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\es\\blog.json": {
+    "size": 151,
+    "mtime_ns": 1783913886240625300,
+    "hash": "53ed1f730c1f2246c4562630e78ea12474dd92bc235a311ab0f83a32f487782c"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\es\\common.json": {
+    "size": 1922,
+    "mtime_ns": 1783913886240625300,
+    "hash": "4b0bee05d04953730b5efdc754fe342d86db55254eb28b65c9e4d277aa32ce37"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\es\\home.json": {
+    "size": 3282,
+    "mtime_ns": 1783913886240625300,
+    "hash": "665752a315803ac2aaff87f40ed2fb0eb0c224ae460018dd5866cc84569a09ff"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\es\\pricing.json": {
+    "size": 3080,
+    "mtime_ns": 1783913886240625300,
+    "hash": "f16d63699c9a4a2c651de6b881542afb574c319d8e4af53c950419e9aa81bf76"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\eu\\blog.json": {
+    "size": 154,
+    "mtime_ns": 1783913886240625300,
+    "hash": "1ee2af356e45d25341770fbf93ab7b563cc47a0bb739cf893db339089042a0e4"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\eu\\common.json": {
+    "size": 1094,
+    "mtime_ns": 1783913886240625300,
+    "hash": "fc85e6f9e2757270320cae5a04f59d4ede0c4c14d35ec66af38a3ade49e4ee41"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\eu\\home.json": {
+    "size": 3966,
+    "mtime_ns": 1783913886240625300,
+    "hash": "889135a7dc51a1d605388108de640a790e55f6e9221ee88975519b41104f3c66"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\eu\\pricing.json": {
+    "size": 2942,
+    "mtime_ns": 1783913886240625300,
+    "hash": "48a975d5e4237d25eb0071cbe0f11fbd0ca0b57a05e21e4a058d78580721142c"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\fa\\blog.json": {
+    "size": 4,
+    "mtime_ns": 1783913886243008800,
+    "hash": "9ef8733de3fb057225560b3708c9f67c4ad219a96a857667f310148e9bb42061"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\fa\\common.json": {
+    "size": 796,
+    "mtime_ns": 1783913886243008800,
+    "hash": "b699ca0c345664d0a8e3521de9f94d45331fd8b36a127492a2ee14ae641adc4b"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\fa\\home.json": {
+    "size": 350,
+    "mtime_ns": 1783913886243008800,
+    "hash": "7c18084acf7d4152e172a66821a69bcc52ab0a5b066e6c1b9fe753207ebf2db6"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\fa\\pricing.json": {
+    "size": 4,
+    "mtime_ns": 1783913886243008800,
+    "hash": "bf8722dc9489b107bd9158c9dfbc48e456492f9c5ed9a62683bfda6c7cf2b5a7"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\fi\\blog.json": {
+    "size": 158,
+    "mtime_ns": 1783913886243008800,
+    "hash": "570433192bfcb6fd079c090c439284de64b2fd35460662af97248c28d4c9ac71"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\fi\\common.json": {
+    "size": 1822,
+    "mtime_ns": 1783913886243008800,
+    "hash": "d070445fe3aa06e43d218d2f2b0a838511d51b16960a69c915aa287eda7c3fe6"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\fi\\home.json": {
+    "size": 3121,
+    "mtime_ns": 1783913886243008800,
+    "hash": "68dd95a754579bb8be5db67e293f5b8031c3b0706fe30c1476d8fa3151622a90"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\fi\\pricing.json": {
+    "size": 2934,
+    "mtime_ns": 1783913886243008800,
+    "hash": "0f821dbb6de3feab89f0b77ffb0b98ac3889f2b4598732369074ea3301cf97df"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\fr\\blog.json": {
+    "size": 165,
+    "mtime_ns": 1783913886243008800,
+    "hash": "91b657bc916a42e71d799d9fa072c6c11ed70ac4f04124d93a2819c506cf9578"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\fr\\common.json": {
+    "size": 1967,
+    "mtime_ns": 1783913886243008800,
+    "hash": "dcf6ec5932bf81e2d2f2297d6756d4c38fb92bdadc04b86527478c4340443b98"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\fr\\home.json": {
+    "size": 3439,
+    "mtime_ns": 1783913886243008800,
+    "hash": "dc9e6c3fe32fbde3145d38d2ffd5975d5feee50ad8005d899c9695d94d6c54b8"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\fr\\pricing.json": {
+    "size": 3361,
+    "mtime_ns": 1783913886244863200,
+    "hash": "6e8b985ed9e81b7f98c72e114b7b95eb1c6cf974354605cbacf5dd628b0252d2"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\hr\\blog.json": {
+    "size": 130,
+    "mtime_ns": 1783913886244863200,
+    "hash": "3b326020ba241c3b25807d6481ad3424d355ec8fe731eb10879321159e826987"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\hr\\common.json": {
+    "size": 1024,
+    "mtime_ns": 1783913886244863200,
+    "hash": "9ab1b861d3993a6da121de041d44c91d64499013953de00693073f9bbac95880"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\hr\\home.json": {
+    "size": 2892,
+    "mtime_ns": 1783913886245369100,
+    "hash": "740052eb6feb68df62c4177b070d3b9731d9ec9d5fa1eeab35df7876227a584b"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\hr\\pricing.json": {
+    "size": 2726,
+    "mtime_ns": 1783913886245369100,
+    "hash": "2c06e1aa61bcdb933ddaf92cd77c007f14fb7376c1c85b9f4c653e33bc62737f"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\hu\\blog.json": {
+    "size": 163,
+    "mtime_ns": 1783913886245369100,
+    "hash": "cbd66eff49c0f87e96ce30e02f9caaef25d35f5d0e6ad8041ed81819199e0bcf"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\hu\\common.json": {
+    "size": 1936,
+    "mtime_ns": 1783913886245369100,
+    "hash": "cd419361b236dcab543fb22f42e34c19b0f87ec4fe4aa66d47c913819cbacc3f"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\hu\\home.json": {
+    "size": 3484,
+    "mtime_ns": 1783913886245369100,
+    "hash": "40e543d2b01c629b52e482e9c6190d070db10b4e656e3e3ee2c9dc95fbb5466f"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\hu\\pricing.json": {
+    "size": 2961,
+    "mtime_ns": 1783913886245369100,
+    "hash": "736ddc0494f0981c8eb364b60b103f692730c20cafcfa4c4309dc16aeadff541"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\it\\blog.json": {
+    "size": 141,
+    "mtime_ns": 1783913886245369100,
+    "hash": "37cbe6615f470a46b3c13099e5ff6083879e932733000d773acf66d9ee47b8bb"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\it\\common.json": {
+    "size": 1837,
+    "mtime_ns": 1783913886245369100,
+    "hash": "aa2221dd6967d0441f5ba5a58b163fe8ece807d12a73980ea08e64e1b10a1742"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\it\\home.json": {
+    "size": 3216,
+    "mtime_ns": 1783913886245369100,
+    "hash": "639df72c75c7ab4c0bd1b7cc6d99df3fdd371f773372f5ac3f010c582598a687"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\it\\pricing.json": {
+    "size": 3057,
+    "mtime_ns": 1783913886245369100,
+    "hash": "a62cd2ca0dc6f56a6f72b9ca86c22a181b411bf1bdb04335c36cc2cc9b27a9b9"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ja\\blog.json": {
+    "size": 175,
+    "mtime_ns": 1783913886245369100,
+    "hash": "a08d89752a87495df4c418d5b82cc14bf20480fbc07c3e6bd7809773a6412bd4"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ja\\common.json": {
+    "size": 1221,
+    "mtime_ns": 1783913886245369100,
+    "hash": "5bec60ee2492041829dfa4c2eb4782dc8ab4656fb12b6674216172a7121ee76e"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ja\\home.json": {
+    "size": 4465,
+    "mtime_ns": 1783913886245369100,
+    "hash": "68dff0b004f2ee6b12af0eea405493e62bd88ba5c39f78636d41c7aac40acd59"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ja\\pricing.json": {
+    "size": 3492,
+    "mtime_ns": 1783913886245369100,
+    "hash": "f3b56a7f8599993c4384878e8d93c5c19bab334a15fde78dd9b964f4571112e2"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ko\\blog.json": {
+    "size": 162,
+    "mtime_ns": 1783913886245369100,
+    "hash": "9f0d3582ff79b72a29ee923d2aa31cd4f78b253cc502ce58ba3541164383f194"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ko\\common.json": {
+    "size": 1152,
+    "mtime_ns": 1783913886245369100,
+    "hash": "95a76469004ac024dd227beefd5419c05dd07f154d514057d04b236aa2a2c0c8"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ko\\home.json": {
+    "size": 4439,
+    "mtime_ns": 1783913886245369100,
+    "hash": "427577e251c13957b20afa348d5d8c04b09cfa68e2bce07ede49677c7e1e64ed"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ko\\pricing.json": {
+    "size": 3051,
+    "mtime_ns": 1783913886245369100,
+    "hash": "3be9901d8aee92d1db3ad00f43abc116de04fbe9873d85df7f7af6f9db6fd7ba"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\nb\\blog.json": {
+    "size": 4,
+    "mtime_ns": 1783913886245369100,
+    "hash": "7c0f6dacc72e52334c81d8041b941ed36da2d720b1982a32eba87b0ffdaaaa8f"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\nb\\common.json": {
+    "size": 4,
+    "mtime_ns": 1783913886245369100,
+    "hash": "009fa05dc59931729625414269d86e59059ea8169afb4dfc884b008631cadb58"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\nb\\home.json": {
+    "size": 4,
+    "mtime_ns": 1783913886245369100,
+    "hash": "05ad65e7b6cde47445d38b40676a0028cfe613074cc6907dde8a7d7704894fc5"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\nb\\pricing.json": {
+    "size": 4,
+    "mtime_ns": 1783913886245369100,
+    "hash": "8358893a39219fb896cdd29e87b8098c7b36805521891824d7bd3c6257ca3877"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\nl\\blog.json": {
+    "size": 77,
+    "mtime_ns": 1783913886245369100,
+    "hash": "c526b811ab4bf95caf7dfd30738c9a3e5d8b6196e9feb09a14c2f6d8fe1c58f4"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\nl\\common.json": {
+    "size": 1779,
+    "mtime_ns": 1783913886245369100,
+    "hash": "df832c6bea90685bd8efb3d19a853c8a61fc31f763134869da0855fe099e9d11"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\nl\\home.json": {
+    "size": 2998,
+    "mtime_ns": 1783913886245369100,
+    "hash": "9fd5d9dfbd65ca07877cf6f02c71c75a362c038dd4666cf3eb6bf5b30865c351"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\nl\\pricing.json": {
+    "size": 2936,
+    "mtime_ns": 1783913886245369100,
+    "hash": "c21f7861d0d3480f9243bb3f539650dc1b16fd45e299016b911e3c0ad7153293"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\nn\\blog.json": {
+    "size": 4,
+    "mtime_ns": 1783913886245369100,
+    "hash": "255e9a3c6fb4c2cbd50d24bb7c4fdcf6a7f3e642cc1e3e4b397732815b0eecfe"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\nn\\common.json": {
+    "size": 4,
+    "mtime_ns": 1783913886245369100,
+    "hash": "af88586c4c5e1f117867b720111aa743720b635810042d82b2194c70e5bbd7a6"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\nn\\home.json": {
+    "size": 4,
+    "mtime_ns": 1783913886245369100,
+    "hash": "f5ae0f71f5a91b2154681f1e4bd79927cd6024306d5b3e7eed65675e787167cf"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\nn\\pricing.json": {
+    "size": 51,
+    "mtime_ns": 1783913886245369100,
+    "hash": "c24ab41b18efc1a78ccbe58e734a1111d7e4938f8aa14b14b59fa1f827ae578b"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\no\\blog.json": {
+    "size": 75,
+    "mtime_ns": 1783913886245369100,
+    "hash": "0c48640794b1a0b8c3ba1755f8c1c02ee7460e710c79aaa0b7a2847508a03d9a"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\no\\common.json": {
+    "size": 1801,
+    "mtime_ns": 1783913886245369100,
+    "hash": "cdde3c06e66bb74be158d801ca95d4adea48082cb686a5b1556e2a6f79262437"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\no\\home.json": {
+    "size": 2916,
+    "mtime_ns": 1783913886245369100,
+    "hash": "d7716b3437ca0e7ced508d383bbf2d782cb41a3e3bdb22aa2f9f0ecb10ab4d98"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\no\\pricing.json": {
+    "size": 2825,
+    "mtime_ns": 1783913886245369100,
+    "hash": "d3c56996b648321a87216da52473c95792fb496f49e84d86cec56c974d8e7780"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\pl\\blog.json": {
+    "size": 74,
+    "mtime_ns": 1783913886245369100,
+    "hash": "a35ff1a53c2132a06ab985de9971a266ad2c6f8331dee6856bfa768f3c1f9142"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\pl\\common.json": {
+    "size": 1941,
+    "mtime_ns": 1783913886245369100,
+    "hash": "8d2ac0a8edbc5a4a40db1192717e2493b7c86ad55e49b1970c15738ca61366a3"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\pl\\home.json": {
+    "size": 2910,
+    "mtime_ns": 1783913886245369100,
+    "hash": "b2faca97cbfdd8cbc96d8a57d6259829a8981132f6839306d168b33e559c32f0"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\pl\\pricing.json": {
+    "size": 2976,
+    "mtime_ns": 1783913886245369100,
+    "hash": "24df8cd38bc283f3ef073c892125dc36a6e09c59f5fa0adc684242d504ab1cfc"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\pt-BR\\blog.json": {
+    "size": 159,
+    "mtime_ns": 1783913886245369100,
+    "hash": "5bedaca4bb9b6ded3421e140763c6ef2f4daeac78fb2ec53ae2adf9ff4c268ab"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\pt-BR\\common.json": {
+    "size": 1916,
+    "mtime_ns": 1783913886245369100,
+    "hash": "376817508d723cbad551db4e66dfd101b2e69bc1d3febaafa81cb1fe4f1c94d7"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\pt-BR\\home.json": {
+    "size": 3196,
+    "mtime_ns": 1783913886245369100,
+    "hash": "5e901462adf41a39882ab3dd336941614706c30a220f0e208b64fa811c369506"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\pt-BR\\pricing.json": {
+    "size": 3030,
+    "mtime_ns": 1783913886245369100,
+    "hash": "d594d8bf368ec10f687a2c5c0649f04f12f2cb0e1e512bf53ef413d522a5ee54"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\pt\\blog.json": {
+    "size": 161,
+    "mtime_ns": 1783913886245369100,
+    "hash": "8f786a265d41b676db612af31b5e2790fa2c8f41c0f81c52303354ba59de181a"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\pt\\common.json": {
+    "size": 2052,
+    "mtime_ns": 1783913886245369100,
+    "hash": "9c3c8c1ed7e957f936abbe27a27f5c542fda99a9d57b659ec33bf6be08e51545"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\pt\\home.json": {
+    "size": 4346,
+    "mtime_ns": 1783913886245369100,
+    "hash": "f28cfb138487776708d86a498197bb0665e88e14244e095431d80323e769a9e5"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\pt\\pricing.json": {
+    "size": 3003,
+    "mtime_ns": 1783913886245369100,
+    "hash": "9d00e17b475f93c119a09d8e41381ca5367ddcb2d80a471549f80b2038b66b68"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ru\\blog.json": {
+    "size": 101,
+    "mtime_ns": 1783913886245369100,
+    "hash": "5ada9cfe1d55617479231e30e5295f6d8a572e79348bfe5c24d389d8f5ad62d8"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ru\\common.json": {
+    "size": 2596,
+    "mtime_ns": 1783913886245369100,
+    "hash": "2481c04c46e41fe41929bab7b57501f3a6939078620809451655b44fd1b5a918"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ru\\home.json": {
+    "size": 4448,
+    "mtime_ns": 1783913886245369100,
+    "hash": "3fdb53b9042d80861450726ae0741a46c7a64d16c3465cad747d12be16f29e5c"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\ru\\pricing.json": {
+    "size": 4383,
+    "mtime_ns": 1783913886245369100,
+    "hash": "46145e6627e0cb14e96dd6125445ed06ac12e5bc5a797bf162e0deb5154c0d84"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\sk\\blog.json": {
+    "size": 150,
+    "mtime_ns": 1783913886245369100,
+    "hash": "25361ba74e79f854b84f641f1cd0a41b62e576884d201807da3decf9295d9389"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\sk\\common.json": {
+    "size": 1044,
+    "mtime_ns": 1783913886245369100,
+    "hash": "57e1bc1ad02b68a111323eaf71853dcac84d29ac325df9fabcf8e071e2bcac48"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\sk\\home.json": {
+    "size": 2909,
+    "mtime_ns": 1783913886245369100,
+    "hash": "883dfac9c7f11de2f022ca198717a12d0e229bd683d77b19c538a1a1797211c4"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\sk\\pricing.json": {
+    "size": 2884,
+    "mtime_ns": 1783913886245369100,
+    "hash": "f7ac806741966c34a0c038774a71859359ab2056728287d4efb5a399f4491e0e"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\sv\\blog.json": {
+    "size": 153,
+    "mtime_ns": 1783913886245369100,
+    "hash": "a07c2c5ba7f258360b051f7c4eda33dc73ef3bc64252116564c78df0b6a2d50d"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\sv\\common.json": {
+    "size": 1852,
+    "mtime_ns": 1783913886245369100,
+    "hash": "93b09b256b26845c5e59b33ea3b602cba1f569dd3bd37e2973d8e2240dbd0b49"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\sv\\home.json": {
+    "size": 3200,
+    "mtime_ns": 1783913886245369100,
+    "hash": "80a00c9c50b83249c53ede268916b556d11ec05cd8e6055fc008402ab2d038db"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\sv\\pricing.json": {
+    "size": 2950,
+    "mtime_ns": 1783913886245369100,
+    "hash": "c3c9af9898e510499accd59372026756ff4cc040be6463101070df3453b1ec4e"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\th\\blog.json": {
+    "size": 226,
+    "mtime_ns": 1783913886245369100,
+    "hash": "f2caf5887c20624684afbcbbd2b95718759556fe01f5ae05ee2dcaf3b576f598"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\th\\common.json": {
+    "size": 1769,
+    "mtime_ns": 1783913886245369100,
+    "hash": "7f98c0c0b796f947e07b629d9f0b8efa4fd5e0f52e9636c6e7918e67ded38725"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\th\\home.json": {
+    "size": 4,
+    "mtime_ns": 1783913886245369100,
+    "hash": "5529f767f8d5f82ba35d4f144510a192351ca3ad5e223a52ad80d4e55d1b7d0c"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\th\\pricing.json": {
+    "size": 44,
+    "mtime_ns": 1783913886245369100,
+    "hash": "1ef930b808deeb8e787146c4563dd3817d8b59360d92f2a719d83c985b0d6b5f"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\tr\\blog.json": {
+    "size": 157,
+    "mtime_ns": 1783913886245369100,
+    "hash": "7c1bf299038c02db59f2e241ac437ba3ec522649de7478613d99310559c90078"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\tr\\common.json": {
+    "size": 1125,
+    "mtime_ns": 1783913886245369100,
+    "hash": "cd14a48cedff545804514c7c08848859ab8aeed67c6b81c34177a7d9faffe9d3"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\tr\\home.json": {
+    "size": 3335,
+    "mtime_ns": 1783913886245369100,
+    "hash": "606a831755e209b2e1df54a439952b55c2df4207e154ec9979b2304cf1590103"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\tr\\pricing.json": {
+    "size": 2976,
+    "mtime_ns": 1783913886245369100,
+    "hash": "0f79e2d993be6ad56d10c8569bdab434403660b09dde8a2d1c1b96b5bdf6a121"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\vi\\blog.json": {
+    "size": 4,
+    "mtime_ns": 1783913886245369100,
+    "hash": "d93374f7acc52e2cf92a4bd855912ee61d29b006145aff5970b6ecda84e61c8e"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\vi\\common.json": {
+    "size": 705,
+    "mtime_ns": 1783913886245369100,
+    "hash": "8018bae6962155fe3f16979cd83c4571e45d463a2cd7a4c2b50a45787e2e7b4b"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\vi\\home.json": {
+    "size": 185,
+    "mtime_ns": 1783913886245369100,
+    "hash": "efd8418cb2d586dcf00f8fbd6243f5e24fa35f6f2613f7b32384ac9515a53ca2"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\vi\\pricing.json": {
+    "size": 4,
+    "mtime_ns": 1783913886245369100,
+    "hash": "4cb1be2b7bfc3df22e9799c491ec7fa5c04f917a03b919cb5a94adb4ea64f196"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\zh-Hant\\blog.json": {
+    "size": 147,
+    "mtime_ns": 1783913886245369100,
+    "hash": "f2e4344e1f18acd3552296df4865ec61dd3003378823e241bb40a56bed85d8d6"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\zh-Hant\\common.json": {
+    "size": 959,
+    "mtime_ns": 1783913886245369100,
+    "hash": "587aae7e40965b65fdd32e5118c634395f537caf84bb349e7c82076d31f9dc3c"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\zh-Hant\\home.json": {
+    "size": 2414,
+    "mtime_ns": 1783913886245369100,
+    "hash": "c0ed6e12feef7020876611183456c3ed55f6580da33893495133f26dc76a1b3f"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\zh-Hant\\pricing.json": {
+    "size": 2290,
+    "mtime_ns": 1783913886245369100,
+    "hash": "c7f97e32bd1fb1a21d4eeaafebdbd844959701305a8e431ae24999193b0ce4ae"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\zh\\blog.json": {
+    "size": 74,
+    "mtime_ns": 1783913886245369100,
+    "hash": "d8a5461b2134cc9f68533beb0b21dbe4ea2e432a62663f4a740c8f07cb538d62"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\zh\\common.json": {
+    "size": 1596,
+    "mtime_ns": 1783913886245369100,
+    "hash": "c9204b592e3532d690ecdf8b1ff855b43e5291e21619530063c8b25f47c38828"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\zh\\home.json": {
+    "size": 2566,
+    "mtime_ns": 1783913886245369100,
+    "hash": "c2b5a5d6166a5f244de599f95146708ba3968c6a14c7c571cebe7cacac3821f2"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\public\\locales\\zh\\pricing.json": {
+    "size": 2416,
+    "mtime_ns": 1783913886245369100,
+    "hash": "dc5d44a9a73905b80212b68d36cf42041f74d0577bb3c498c5d81567b271e20d"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\tsconfig.json": {
+    "size": 382,
+    "mtime_ns": 1783913886353872300,
+    "hash": "fc89e51455135f01a542278e4daebb850b687d5a8bfb625d2e6074ebac564e44"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\vercel.json": {
+    "size": 243,
+    "mtime_ns": 1783913886353872300,
+    "hash": "d43591d39a96e0427c5a725a833049cd1db0b107e963090b3139a381ff3edc96"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\biome.json": {
+    "size": 8968,
+    "mtime_ns": 1783913886353872300,
+    "hash": "6dfee28d94ab15577e4c29bb13a478432f0bd287fed325135ba2e62c64a35191"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\knip.json": {
+    "size": 130,
+    "mtime_ns": 1783913886353872300,
+    "hash": "cc296c21f651d18ab6623a10244815e8b2fad72c3874a61b868d4d635bda3f5b"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\package.json": {
+    "size": 4543,
+    "mtime_ns": 1783913886353872300,
+    "hash": "e5691bba1de67c4f6e9800962fc52540177c12b635f8cedb7f6090196edd57db"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\ca\\app.json": {
+    "size": 11441,
+    "mtime_ns": 1783913886353872300,
+    "hash": "34834282a9abd8b1307339af6f9638c0063688cb3abb567052a457e9984d58d5"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\cs\\app.json": {
+    "size": 40945,
+    "mtime_ns": 1783913886353872300,
+    "hash": "bb8bfc2bc35ee8d2d819e0824f6fd294a01b399f2d828c063135a77573e12532"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\da\\app.json": {
+    "size": 38972,
+    "mtime_ns": 1783913886353872300,
+    "hash": "8fff1895d766c6f0706f1f349d23a82f72fe2dd905bd36f2b9c7952ff3e687d6"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\de\\app.json": {
+    "size": 42088,
+    "mtime_ns": 1783913886353872300,
+    "hash": "2c6e82feaac62780b789cd689193834d9e25c6b8278e127c05519aae70a753b3"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\en\\app.json": {
+    "size": 37681,
+    "mtime_ns": 1783913886353872300,
+    "hash": "a0e037d39b52aca33176b1ae1fac84a7cd61466119eb4682f4a876c060df6ae0"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\es\\app.json": {
+    "size": 42047,
+    "mtime_ns": 1783913886353872300,
+    "hash": "6f0a7a97fbc469faaadb35ceb804e8701f2942302d801c67e5710cf1cc2a441c"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\eu\\app.json": {
+    "size": 14004,
+    "mtime_ns": 1783913886362994600,
+    "hash": "51380497fb1778558d47dc3a550e1a8d7ae3a731492777c5955ec0928a679606"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\fa\\app.json": {
+    "size": 4220,
+    "mtime_ns": 1783913886362994600,
+    "hash": "ab690f7958be13de73dd0bbf2b9ef93fdfbd152455ae9345aaba93473d7f472b"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\fi\\app.json": {
+    "size": 39293,
+    "mtime_ns": 1783913886362994600,
+    "hash": "f0fdfc58b5ad5694b5b9918722dc177207579730ee3f8cd2e286ed6325e10254"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\fr\\app.json": {
+    "size": 42800,
+    "mtime_ns": 1783913886362994600,
+    "hash": "041c2b2d06df462a6e1da40ea2ef1d7b693cf1fa951ec87904ec6243c9147bfc"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\hr\\app.json": {
+    "size": 11043,
+    "mtime_ns": 1783913886362994600,
+    "hash": "c39d3edaaf8370b9172d01e244284837b64fd4f4a5115e408629fdb0b4e41497"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\hu\\app.json": {
+    "size": 42359,
+    "mtime_ns": 1783913886362994600,
+    "hash": "a3d7fdcf38a102045cb29d7dde020eb5270d6f54e8bbd70cec521a5132b97d5a"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\it\\app.json": {
+    "size": 40838,
+    "mtime_ns": 1783913886362994600,
+    "hash": "267ad178b2e6becde5567c65b755fdb9d53a0c4fe9dc8d052c7ba2394a49b681"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\ja\\app.json": {
+    "size": 15777,
+    "mtime_ns": 1783913886362994600,
+    "hash": "2fb9ec271aeaa256645d9ea48b4d99b2b1279f2d5d983b1936e0635326ae53b4"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\ko\\app.json": {
+    "size": 14719,
+    "mtime_ns": 1783913886365815900,
+    "hash": "8c829f12d944346ef36d1c5c58ca67aac3664b470351b339db4268e37f51ace4"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\nb\\app.json": {
+    "size": 4,
+    "mtime_ns": 1783913886365815900,
+    "hash": "2b5d5cd12f507ee35ea2f6eaef898883c811cf28aec12c12bfca8965fa7c8b02"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\nl\\app.json": {
+    "size": 34805,
+    "mtime_ns": 1783913886365815900,
+    "hash": "09848a3cbfbfea5d6823b1afdb860f2de4508f4e75408df6b176a6f5e3655c55"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\nn\\app.json": {
+    "size": 1445,
+    "mtime_ns": 1783913886365815900,
+    "hash": "a87b4242bc3c79851fdb6d28960158fdc79e930baa31371cb3030ead0d82acaa"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\no\\app.json": {
+    "size": 34294,
+    "mtime_ns": 1783913886365815900,
+    "hash": "f146201911eaa32a93348806c8941408e4cb596d505c52e9cd65b84f98b12eaf"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\pl\\app.json": {
+    "size": 15438,
+    "mtime_ns": 1783913886365815900,
+    "hash": "fcdf49fdc13696f0ffa491cf59df1b98c83a6fe0b1d9278dfc5a5ebb2fe87cfd"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\pt-BR\\app.json": {
+    "size": 40800,
+    "mtime_ns": 1783913886365815900,
+    "hash": "311c35b95c3df9fcb2b0cc7b69d5bd419aee12bff172a5e6538cdf52546253bc"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\pt\\app.json": {
+    "size": 20293,
+    "mtime_ns": 1783913886365815900,
+    "hash": "52ddbbd9609f83c765f52ee3fcd2ce5fd5e225a8f4536ebf39ac8b73d00f064f"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\ru\\app.json": {
+    "size": 30418,
+    "mtime_ns": 1783913886365815900,
+    "hash": "e73a1422ff7dc820f7670ae45f7beea8a145ff761c6a9e2b9ea94c3994fc7aa8"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\sk\\app.json": {
+    "size": 11301,
+    "mtime_ns": 1783913886365815900,
+    "hash": "3579f2baa0fbf911d2152490efcd57e58143dbda33c1f47f2cc46c54dc920deb"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\sv\\app.json": {
+    "size": 37204,
+    "mtime_ns": 1783913886365815900,
+    "hash": "ade75edec2bf135589ef9253fef7dec4525683e3b46141b7a780a6ef0fad0d71"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\th\\app.json": {
+    "size": 522,
+    "mtime_ns": 1783913886365815900,
+    "hash": "3e83eb78c08ff7d703064c6336629c554d22afec5cdfdd75a4a0ade5d6fd09e7"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\tr\\app.json": {
+    "size": 12126,
+    "mtime_ns": 1783913886365815900,
+    "hash": "7231402677780fceef1871f18529712d4e88fd2f44e5a34569a9baa5a0b5f338"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\vi\\app.json": {
+    "size": 5993,
+    "mtime_ns": 1783913886365815900,
+    "hash": "a15520cb4ff6d38a116d8b9b38ca4927123615296735f052b73f2fa05ade03b6"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\zh-Hant\\app.json": {
+    "size": 10601,
+    "mtime_ns": 1783913886369565500,
+    "hash": "f9bd9551bf287959670de474883debcbc045c5e5534a8c2646e4db1d70bdd0ba"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\public\\locales\\zh\\app.json": {
+    "size": 17185,
+    "mtime_ns": 1783913886369565500,
+    "hash": "e2f1d705eafc5fc31a30814ff91ab106bb4e352fd63a200d0ae149fcab77e05d"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\src\\app\\manifest.json": {
+    "size": 764,
+    "mtime_ns": 1783913886409162800,
+    "hash": "df6d2463e8d17aec226bb55a0cd022ba677215b7850c9e347bfa75497d293280"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\tsconfig.json": {
+    "size": 416,
+    "mtime_ns": 1783913886467471100,
+    "hash": "573de397584fdda2edef6bdc301a3c85061b96069c29d99f975ae243a8824d5a"
+  },
+  "D:\\Ladson\\rallly\\apps\\web\\vercel.json": {
+    "size": 457,
+    "mtime_ns": 1783913886467471100,
+    "hash": "9d0e1ad94b5b5fbd61342b570f1b1c47c60339ade9e8a6398ac52ea6679b8fbf"
+  },
+  "D:\\Ladson\\rallly\\biome.json": {
+    "size": 2845,
+    "mtime_ns": 1783913886469473400,
+    "hash": "a1f0dba5e3ea102e10cbfdae813cc37ce51e9a54e7712fd2a50ae71e514b3634"
+  },
+  "D:\\Ladson\\rallly\\docker\\cors.json": {
+    "size": 227,
+    "mtime_ns": 1783913886469473400,
+    "hash": "08bf67b723eac4e61fc426e439c226acc75b1d29e563840225a268a9a8c741d9"
+  },
+  "D:\\Ladson\\rallly\\package.json": {
+    "size": 2735,
+    "mtime_ns": 1783913886469473400,
+    "hash": "e752abba329bfff9307c79cd3a162fdeac37479f33164a0656f90ae1cbb96054"
+  },
+  "D:\\Ladson\\rallly\\packages\\billing\\biome.json": {
+    "size": 89,
+    "mtime_ns": 1783913886471475700,
+    "hash": "1486c13325eaf1cc40a60927ef942adeab628a943dc4094c679a1288c7f243b7"
+  },
+  "D:\\Ladson\\rallly\\packages\\billing\\package.json": {
+    "size": 1071,
+    "mtime_ns": 1783913886471475700,
+    "hash": "f2b0f8a33255e88c4929375a29d3a9a57a5a456e8bb31203531c7d94b4f9beb8"
+  },
+  "D:\\Ladson\\rallly\\packages\\billing\\tsconfig.json": {
+    "size": 131,
+    "mtime_ns": 1783913886471475700,
+    "hash": "0e2b33e0605f75e4d338c541cd01b1f9d88388ebaf505466a3ba3c1142826aa6"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\biome.json": {
+    "size": 89,
+    "mtime_ns": 1783913886471475700,
+    "hash": "c1052f637fbd219200c15924842973a65ff341b68bbf8b027de06acf2a33b382"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\package.json": {
+    "size": 852,
+    "mtime_ns": 1783913886471475700,
+    "hash": "4ed0e520896a54a3c9084a7a97eadce50d1cd7bd7a0086b4ec32a3e4ff496bd8"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220315143815_init\\migration.sql": {
+    "size": 3042,
+    "mtime_ns": 1783913886471475700,
+    "hash": "2386a1e28eaa2c4a75c666e3f3965a19ecba2e5efa573a4042c104e6c409c7f3"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220322193753_add_comments\\migration.sql": {
+    "size": 727,
+    "mtime_ns": 1783913886471475700,
+    "hash": "7ec9a7eea314053170036c91c28ad9ec0b0fccd7f554521c6820a02c7ff32e87"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220329102907_add_links\\migration.sql": {
+    "size": 1480,
+    "mtime_ns": 1783913886474692900,
+    "hash": "7afb889867aa4ef7af669eae9ddf298268b6bb4ce70647dd1218d5240cbd762e"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220330085423_add_notifications_column\\migration.sql": {
+    "size": 98,
+    "mtime_ns": 1783913886474692900,
+    "hash": "d02469e418ba921181d2b6960f46eb159098a1b2aa699a79944bdf963ac85fda"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220408120721_legacy_column\\migration.sql": {
+    "size": 148,
+    "mtime_ns": 1783913886474692900,
+    "hash": "6ee58ff22a1570d3a95164b67dbaac20b7fbed2647ba8ca9bbb2343f30971135"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220412112814_cascade_delete\\migration.sql": {
+    "size": 732,
+    "mtime_ns": 1783913886474692900,
+    "hash": "d15539dc7294abae10ed74947e672fb9fb334c7111de99d07c09c3b0cd3b13cc"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220412115407_cascade_delete_participants\\migration.sql": {
+    "size": 264,
+    "mtime_ns": 1783913886474692900,
+    "hash": "3713d23188ccc89349b8d3becf8db56e384c21534f8788411d3567eb6ff06898"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220412115744_cascade_delete_votes\\migration.sql": {
+    "size": 236,
+    "mtime_ns": 1783913886474692900,
+    "hash": "3da8fb1d4b807af44476a4e70f7fde4e9f4967b0ff7e95afd8066eb761c60c80"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220414101318_remove_duplicate_emails\\migration.sql": {
+    "size": 1364,
+    "mtime_ns": 1783913886474692900,
+    "hash": "261be2a164ab6abc7b6507502ea89c3edb8ac5f66c98cb79db0e63d050a3ac57"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220506105524_sessions_update\\migration.sql": {
+    "size": 420,
+    "mtime_ns": 1783913886474692900,
+    "hash": "72fa09267dce27f0176d3cc44a2c11cc017969de1fff3ab0b89091ff0608fa34"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220511113020_add_if_need_be\\migration.sql": {
+    "size": 169,
+    "mtime_ns": 1783913886474692900,
+    "hash": "f0df79967ad39c9354c5ea1c17e1652be98d1dcd37320f5273e9e04c9130d9cf"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220511180705_naming_convention_update\\migration.sql": {
+    "size": 6381,
+    "mtime_ns": 1783913886474692900,
+    "hash": "d9158457518f8ed4026430f5e8ea104c1285e8a0ad431d7439aa2b52527db602"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220512093441_add_no_votes\\migration.sql": {
+    "size": 547,
+    "mtime_ns": 1783913886474692900,
+    "hash": "2cb610ea3979273493b7c40e6cb318e3bd05c128b1c145e6de3216d47d7ecec1"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220519075453_add_delete_column\\migration.sql": {
+    "size": 1905,
+    "mtime_ns": 1783913886476701000,
+    "hash": "ea25115964df426846fcf77c68a8f9e606fba5e796099be6b313ba7b9d4f7760"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220520115326_add_touch_column\\migration.sql": {
+    "size": 113,
+    "mtime_ns": 1783913886476701000,
+    "hash": "08358d98d4b40e3a2557fef701084b2eb05496d816621e4308906d18692331b2"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220522153812_change_referential_integrity\\migration.sql": {
+    "size": 851,
+    "mtime_ns": 1783913886476701000,
+    "hash": "aad43630852a826911f5b724e33f102aa4901cc4c24f97942398dd9b1532665a"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220522165453_add_deleted_at_column\\migration.sql": {
+    "size": 143,
+    "mtime_ns": 1783913886476701000,
+    "hash": "b5deb847672b6f0ba46a998800f5703d4e93b42ffdb5fcf4e9c2f9ef8225ce7b"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220623175037_remove_links_model\\migration.sql": {
+    "size": 744,
+    "mtime_ns": 1783913886476701000,
+    "hash": "7e6a9758cd4f1d29fc7d87ffd45da9a463540f835dbb4c3d556cc6fcab78e368"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220624111614_rename_poll_id\\migration.sql": {
+    "size": 784,
+    "mtime_ns": 1783913886476701000,
+    "hash": "68ed8e0baca5a9f19ae9dd2ae4bcd87057262379bcefb12fb8ce94ea9e123472"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20220627191901_remove_user_relation\\migration.sql": {
+    "size": 601,
+    "mtime_ns": 1783913886476701000,
+    "hash": "d4ae1e7b5a13dff479a03202892a89df7f13251de19cf22a7e3449ca2dd1c812"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20221026220835_add_indexes\\migration.sql": {
+    "size": 200,
+    "mtime_ns": 1783913886476701000,
+    "hash": "b392b4dacb11bcb26e5cc155011deeeb02461c98c6437914ff5e5a4b67703603"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230117103853_update_indexes\\migration.sql": {
+    "size": 472,
+    "mtime_ns": 1783913886476701000,
+    "hash": "9bef5808c858477243d5d4b0b4fbb3bd4571daad73297ac62a52542a0e0e1c0f"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230118192253_bring_back_comment_index\\migration.sql": {
+    "size": 91,
+    "mtime_ns": 1783913886476701000,
+    "hash": "ea20a5f6dd5588fee57fad386a9473dae7552898b2c94096a75f087939491e94"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230118200546_add_unqiue_participant\\migration.sql": {
+    "size": 288,
+    "mtime_ns": 1783913886476701000,
+    "hash": "071400eb70051c255190134fc2ea5e310885596579ebaf6e043544ba3da394b4"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230303142641_add_participant_email\\migration.sql": {
+    "size": 72,
+    "mtime_ns": 1783913886476701000,
+    "hash": "90715b17f9e00013b5be7a937ef45e5aa1b68920f7937f8520371fbcc9028910"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230318113511_remove_unecessary_unique_indexes\\migration.sql": {
+    "size": 165,
+    "mtime_ns": 1783913886476701000,
+    "hash": "cefdcd58ddb7ed3458ca75f39b2e5e2965c9a415ff9efc9b93b2b4fb98999312"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230322143831_watchers\\migration.sql": {
+    "size": 725,
+    "mtime_ns": 1783913886478709000,
+    "hash": "dc08c1d791ee1090b34208c380e46b92006f9dbe4528e29f203ad352ea80d403"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230327105647_remove_author_name\\migration.sql": {
+    "size": 203,
+    "mtime_ns": 1783913886478709000,
+    "hash": "693c7ec032d7d00df3f2d0b8abd0ad741ff0b2ffe453fd809471026aea06aeb2"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230329173551_options_refactor\\migration.sql": {
+    "size": 1176,
+    "mtime_ns": 1783913886478709000,
+    "hash": "bf33ff9ce9fb6f93dcc1218d7462c40ef8297510aca7c5135b9b40296af6aaa3"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230614141138_v3\\migration.sql": {
+    "size": 1119,
+    "mtime_ns": 1783913886478709000,
+    "hash": "67f4ed43198d2af1c02f7c53799d879dcdf36b7c6a9b63304b961776f56da5b2"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230615111329_events\\migration.sql": {
+    "size": 242,
+    "mtime_ns": 1783913886478709000,
+    "hash": "0830a5e5feb2c5a98b3566ab0693cee04d3194ab598014834738507139c75588"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230615163229_remove_selected_option_id\\migration.sql": {
+    "size": 217,
+    "mtime_ns": 1783913886478709000,
+    "hash": "06406ae70be50a78da14b014c4328a59be6113b18df9e131fecdac2d5df09133"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230704153346_user_payments\\migration.sql": {
+    "size": 489,
+    "mtime_ns": 1783913886478709000,
+    "hash": "dc91f912379fbc1e02c9cf40758e89433ae1a102b34aa21d4e2fdc2cb5b87a38"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230721163042_hide_participants\\migration.sql": {
+    "size": 103,
+    "mtime_ns": 1783913886478709000,
+    "hash": "33eac6657e5aec685bb9138a1b75a893da752782eb98451e64a67cac74910094"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230725112615_add_poll_config\\migration.sql": {
+    "size": 262,
+    "mtime_ns": 1783913886478709000,
+    "hash": "384738f5387c4ea4eb6cfb961790b1cfcf36add0494008e2fcc2a2313ca1a981"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230823084154_stripe_subscriptions\\migration.sql": {
+    "size": 818,
+    "mtime_ns": 1783913886478709000,
+    "hash": "838d0dbe825ead029ff07c4650eed27e462926dead89f958f2b9e92b19eac3dc"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20230915170216_add_required_email\\migration.sql": {
+    "size": 111,
+    "mtime_ns": 1783913886478709000,
+    "hash": "4dfa921675f38e3592fb10dd25d84dce583506a1a1981dd92b091ffb7d8b32ef"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20231016093654_next_auth\\migration.sql": {
+    "size": 852,
+    "mtime_ns": 1783913886478709000,
+    "hash": "f6f15ca914df29131a498133f0b11a6ee37dde446311a6b15141c812f00c12d0"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20231027074632_nextauth_ci_identifiers\\migration.sql": {
+    "size": 98,
+    "mtime_ns": 1783913886478709000,
+    "hash": "f6d7ebc81854845d962a02683fcfceb58bde1be23ee6e51eb5c2a6ec65cf148c"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20231117153753_add_nextauth_provider_accounts\\migration.sql": {
+    "size": 549,
+    "mtime_ns": 1783913886478709000,
+    "hash": "d5d40a88d070415073b4caa2519a63b2af39158ec0de8b0401be22ed29619af8"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20231118134458_add_account_user_index\\migration.sql": {
+    "size": 87,
+    "mtime_ns": 1783913886478709000,
+    "hash": "569a3951b23504830cac7fcfb9233368a3fb81101941b71b477f6ff7c6819390"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20231122061137_map_account_table_names\\migration.sql": {
+    "size": 831,
+    "mtime_ns": 1783913886478709000,
+    "hash": "5a9c664c9707085a6015e5e63a1dcd4bff9fda2d0f105615603935fb50e40cf7"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20231205043530_poll_status\\migration.sql": {
+    "size": 1585,
+    "mtime_ns": 1783913886478709000,
+    "hash": "970d837594af96a2fcab96b57a64b7897c8157a18ef976f996a4d8d0e904bede"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20231205080854_fix_finalized_poll_status\\migration.sql": {
+    "size": 277,
+    "mtime_ns": 1783913886478709000,
+    "hash": "5eedee610d245351e38c0c2e5e2ed7191d00895cec013303a65eb1f939b7b9ba"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20240127064213_add_image_field\\migration.sql": {
+    "size": 65,
+    "mtime_ns": 1783913886478709000,
+    "hash": "2a5a7def934fcb56d0bc65a832240a9be5300cb3570fda0ff22534e8a71cc198"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20240221084400_unset_invalid_timezones\\migration.sql": {
+    "size": 129,
+    "mtime_ns": 1783913886478709000,
+    "hash": "50783d1ec07d0768141a7dc314169624a47e72d65c015c04651fa4a485d03a21"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20240224011353_remove_legacy_user_preferences\\migration.sql": {
+    "size": 46,
+    "mtime_ns": 1783913886478709000,
+    "hash": "5bfc2ff9d82a6d0922644a1fa7bda28b6cff9e7536934b3335ae181107579cf7"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20240224033808_option_start_time\\migration.sql": {
+    "size": 722,
+    "mtime_ns": 1783913886478709000,
+    "hash": "b65cbe877219da2d08cce29d8bb465198584d6dd7d37e2f7deb5ab5094d5f844"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20240309043111_remove_poll_vote_index\\migration.sql": {
+    "size": 47,
+    "mtime_ns": 1783913886478709000,
+    "hash": "94941c96c8f7ad4170d176bce448899bc13ae1104f651e1099fb25d72d78b078"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20240309051319_add_option_vote_index\\migration.sql": {
+    "size": 89,
+    "mtime_ns": 1783913886478709000,
+    "hash": "507f8f1bf5d6acb7fe2af09dad8533926e7c7a777ea573484201cce94fb79d24"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20240315104329_index_votes_by_poll\\migration.sql": {
+    "size": 85,
+    "mtime_ns": 1783913886478709000,
+    "hash": "985c5631bfd37799854a23c200cb55dae2ee9726c7ab64b39cd460e10d178f2d"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20240317095541_remove_legacy_start_column\\migration.sql": {
+    "size": 195,
+    "mtime_ns": 1783913886478709000,
+    "hash": "1db06c879862ef18076f7b537e081019af359ac8940d527fd2cf5280645883a1"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20240704085250_soft_delete_participants\\migration.sql": {
+    "size": 143,
+    "mtime_ns": 1783913886478709000,
+    "hash": "98cadb912b19315ec3ef93556312e0a3448e8955a63d2de253e19d0e9dd0eb78"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20240901171230_participant_locale\\migration.sql": {
+    "size": 73,
+    "mtime_ns": 1783913886478709000,
+    "hash": "bea86f2ad7446b005a870d2158aca47a77aa4fdca2a2e6f2491f0f9901edcf69"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20241224103150_guest_id_column\\migration.sql": {
+    "size": 1644,
+    "mtime_ns": 1783913886478709000,
+    "hash": "32a39eca492dd5fb090d9f0093492336da21369ab9a8cec7d59312cfebea7d70"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20241228093234_update_relational_model\\migration.sql": {
+    "size": 4647,
+    "mtime_ns": 1783913886478709000,
+    "hash": "bd14ff8f04240321f65dde942b89dc2e755cd8d172f507a7df53e650a27d0d6d"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250217082042_add_subscription_fields\\migration.sql": {
+    "size": 108,
+    "mtime_ns": 1783913886478709000,
+    "hash": "a0b9913ad392f8b44c2552e58e671275a7f55f95ef9c62cd4749de82b51d02fc"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250217103625_make_subscription_fields_required\\migration.sql": {
+    "size": 921,
+    "mtime_ns": 1783913886478709000,
+    "hash": "34f7098a03a369433ac09f62f591717b07ec333a183d447ed15467fe1eb17b6d"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250221104854_add_cancel_at_period_end\\migration.sql": {
+    "size": 114,
+    "mtime_ns": 1783913886478709000,
+    "hash": "5e8e7829ed493cd6333a0ed1c85f5f90019200b1170ce75a1e5ed2f31784cd82"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250221111248_add_subscription_interval_enum\\migration.sql": {
+    "size": 718,
+    "mtime_ns": 1783913886478709000,
+    "hash": "2d3bcd68c111834ac124cf94eacd905987d5ba865931af4713620e7b44fec7f9"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250222172325_add_payment_method_table\\migration.sql": {
+    "size": 515,
+    "mtime_ns": 1783913886478709000,
+    "hash": "da683e26107ba73bf5db5900cd931e0ed9510dc24980a12e2a174cfa2882cd3c"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250223160003_set_subscription_status_enum\\migration.sql": {
+    "size": 826,
+    "mtime_ns": 1783913886484132100,
+    "hash": "fb17c8621f99fef443a240886167db24f45a3d77d4fb29623eea009b237ebf95"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250226173250_remove_paddle_subscriptions\\migration.sql": {
+    "size": 542,
+    "mtime_ns": 1783913886484132100,
+    "hash": "214454a02b6d190a4677c6463dcf1f0c2a8d126ba81061b8c86da40980578f27"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250227110115_make_subscription_user_required\\migration.sql": {
+    "size": 992,
+    "mtime_ns": 1783913886484132100,
+    "hash": "1edbe0a195779c785e8595dc90a107613d066741a7b6b10e093e706c181b143c"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250302163530_add_user_ban_fields\\migration.sql": {
+    "size": 169,
+    "mtime_ns": 1783913886484132100,
+    "hash": "9b3f4d2bea14730ec090a5e5a14a9c905a0f0981af15c23767df72b6a481f811"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250327193922_track_poll_views\\migration.sql": {
+    "size": 924,
+    "mtime_ns": 1783913886484132100,
+    "hash": "a774769752126f628e9586b155113f0fcbcd672529ffc7dbd356c816dc67eefa"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250402100733_remove_closed_column\\migration.sql": {
+    "size": 193,
+    "mtime_ns": 1783913886484132100,
+    "hash": "6decf36a987641b38727c5423f9d8db11f13dbeb6ab026e2431d0ef83819a529"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250415153024_scheduled_events\\migration.sql": {
+    "size": 3682,
+    "mtime_ns": 1783913886484132100,
+    "hash": "44ebfd3267ab94630526414a108b22c62d241f019d36b4c9c0db06b82f935f08"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250415155219_migrate_events\\migration.sql": {
+    "size": 2066,
+    "mtime_ns": 1783913886484132100,
+    "hash": "52bdd02b1fd7801672a0aba66a17ab0687fe05885c09b69bcf1212a6bb9d39b0"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250421170921_migrate_invites\\migration.sql": {
+    "size": 3702,
+    "mtime_ns": 1783913886484132100,
+    "hash": "2e478c58ac143e1c5e11e00aec4743073ed8644179228c13d536f543e336fff9"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250522093338_add_user_role\\migration.sql": {
+    "size": 164,
+    "mtime_ns": 1783913886484132100,
+    "hash": "036ebd203683ab0c3f38d23ad26b175776e3f1d6413dc380088bf7b1a39d39ca"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250522165415_licensing_schema\\migration.sql": {
+    "size": 1857,
+    "mtime_ns": 1783913886484132100,
+    "hash": "fc659822476414459e7ded662113ae4e9f0e44c72e5bcf7914806f97d6d3ff0c"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250523161200_remove_invitee_constraints\\migration.sql": {
+    "size": 179,
+    "mtime_ns": 1783913886484132100,
+    "hash": "5d53f4b958d0ebbbbd803811fd279c79372c3eab5590042baf754da99329691e"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250526175615_remove_stripe_customer_id\\migration.sql": {
+    "size": 223,
+    "mtime_ns": 1783913886484132100,
+    "hash": "071a2d07151c889574ba8cfec6515c274783eede1fdf088bef43ec19eaadd0ba"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250602144531_add_instance_settings\\migration.sql": {
+    "size": 482,
+    "mtime_ns": 1783913886484132100,
+    "hash": "7c944c78a094b8fd40590ecf470601f06d2c975bd7df4192e0299c29abfe0d66"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250602181052_add_instance_settings_constraints\\migration.sql": {
+    "size": 513,
+    "mtime_ns": 1783913886484132100,
+    "hash": "af89870bb20270a86a54fb46cf6478565f0a0583c2d27b1d47ff848cf30784b4"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250614062854_remove_deprecated_event_model\\migration.sql": {
+    "size": 337,
+    "mtime_ns": 1783913886484132100,
+    "hash": "8b7156e78c6860c7e35742960f63c1bfd24f3ef824bf5c630406c99843b7e126"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250614062855_create_spaces_model\\migration.sql": {
+    "size": 1236,
+    "mtime_ns": 1783913886484132100,
+    "hash": "f835a8041fefd201524b1e3896c7001f576137c0c8b325251f1053e9cd2a9cc2"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250614110551_create_spaces\\migration.sql": {
+    "size": 530,
+    "mtime_ns": 1783913886484132100,
+    "hash": "162222da55709bc53e635116398c9ebf8eb02adcae39367bb0be3bb3b988b589"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250614115818_migrate_events_to_spaces\\migration.sql": {
+    "size": 642,
+    "mtime_ns": 1783913886484132100,
+    "hash": "74abaaa2b5158fd9fa47fe84998c930d72a9b3e125d782e7f46c712663c154b2"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250615114214_update_indexes\\migration.sql": {
+    "size": 942,
+    "mtime_ns": 1783913886484132100,
+    "hash": "82832d652c4b1854ccb1c7938df2eee1c48806b834ff1db89d40a3b831ce3b38"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250616140319_create_space_members\\migration.sql": {
+    "size": 1020,
+    "mtime_ns": 1783913886484132100,
+    "hash": "5f8a76a6690e90eecffea28790fa0357dfd80d7612d453f2cac9fc7e72c3c279"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250616140359_space_members_migration\\migration.sql": {
+    "size": 480,
+    "mtime_ns": 1783913886484132100,
+    "hash": "78d1defcdd8bd107ab39443fcff7cce12eedc2009ae98e5997711de64b9ec492"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250710102819_add_active_space_to_user\\migration.sql": {
+    "size": 464,
+    "mtime_ns": 1783913886484132100,
+    "hash": "8e21d67a6eb21e53468142ec4d2c7e3a9fdbfb135e3c24029b9658d69e0670e3"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250711140850_add_time_zone_column\\migration.sql": {
+    "size": 76,
+    "mtime_ns": 1783913886484132100,
+    "hash": "ee3cc9481be97408f4981b2eb8e27f2423c264a2b61c897bc0672f6337f005de"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250715153525_update_space_member_indexes\\migration.sql": {
+    "size": 264,
+    "mtime_ns": 1783913886484132100,
+    "hash": "023745530665ff861a00f853ec7f73b943a598bc2195eff16aefe85aced410f2"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250722083454_remove_owner_role\\migration.sql": {
+    "size": 741,
+    "mtime_ns": 1783913886484132100,
+    "hash": "720c5933d433a56ebb4ad0f33dac97b6afedf982fc1bdbc9fe9f28788453ea97"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250723192600_add_space_member_invite\\migration.sql": {
+    "size": 1049,
+    "mtime_ns": 1783913886484132100,
+    "hash": "5c3d3786b41d2e35efccdf6c09f593f6db140650e5210c2ab2bd0792475f3241"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250724140012_add_subscription_columns\\migration.sql": {
+    "size": 143,
+    "mtime_ns": 1783913886484132100,
+    "hash": "7dd3118030658a272fc9e9cc9cdd8e00c712c5896fb36c6b8cf7eb61daebaea8"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250729143210_add_space_member_last_selected_at\\migration.sql": {
+    "size": 127,
+    "mtime_ns": 1783913886489427400,
+    "hash": "b72ce7f12dd6cb19e935808e91be657c8eb5ae9f9c9c037d102682058c83f201"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250729144904_drop_user_active_space_id\\migration.sql": {
+    "size": 299,
+    "mtime_ns": 1783913886489427400,
+    "hash": "b3dab6ae5d44570177b10f69f9c11ca55c45a86b9ad83377bbd9de2929763126"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250730115902_subscription_item_id_non_nullable\\migration.sql": {
+    "size": 268,
+    "mtime_ns": 1783913886489427400,
+    "hash": "021be752572200704b6131fc53b6e75fabbdf6a6001e8d27512862ed0bd999c0"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250731100421_update_subscription_interval_enum\\migration.sql": {
+    "size": 601,
+    "mtime_ns": 1783913886489427400,
+    "hash": "768324d8f455a9d9f0661b3cf2ae9630f2f1d453123dc1a9f357d9f7c8654f19"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250804130713_add_space_image_column\\migration.sql": {
+    "size": 66,
+    "mtime_ns": 1783913886489427400,
+    "hash": "8ec2d1429caa162b921cc56d35591fc2409e6cf6ae279fd51c4f3b69d0eb332a"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250804152225_allow_user_multiple_subscriptions\\migration.sql": {
+    "size": 55,
+    "mtime_ns": 1783913886489427400,
+    "hash": "a9a2f04c1ed4982b2f79135811bf160af2fd2fe55bb9ea31f8b32c25f44b4b3e"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20250901121851_add_ics_columns\\migration.sql": {
+    "size": 538,
+    "mtime_ns": 1783913886489427400,
+    "hash": "aaeafdbb125e12f80eea359d99a38fc15e2c35d257e984dbecca0e62dc3a04a4"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20251007051830_add_integration_models\\migration.sql": {
+    "size": 3737,
+    "mtime_ns": 1783913886489427400,
+    "hash": "3dbeab41cc8ab3933b297ebfcfe03ff85cd96c7e13fc7f1accbe02bf47b8fa38"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20251014054941_better_auth\\migration.sql": {
+    "size": 2838,
+    "mtime_ns": 1783913886489427400,
+    "hash": "fa690e57a1bd4c21c0cb43f5b820ebbe87878c89d8aa2c588a725c6db28f3a51"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20251021132911_add_better_auth_admin_fields\\migration.sql": {
+    "size": 345,
+    "mtime_ns": 1783913886489427400,
+    "hash": "bff3ac3c4116ab755e51fcf9c8005673e26e43f145d842a01b1aa5ce1d42bfa7"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20251021160519_add_last_login_method\\migration.sql": {
+    "size": 77,
+    "mtime_ns": 1783913886489427400,
+    "hash": "61c66a18d323ead680b92453fc8ac23ef0053b463848c5f5fe8c8279809e3733"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20251027170830_anonymous_user\\migration.sql": {
+    "size": 95,
+    "mtime_ns": 1783913886491430700,
+    "hash": "ab603603f06dade9137c0120b3e5ca82b076d181bc5fa7881690f85c36aa8c73"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20251107120000_allow_multiple_space_subscriptions\\migration.sql": {
+    "size": 68,
+    "mtime_ns": 1783913886491430700,
+    "hash": "e1ad778761b2547aa94612499b525bb08e5a9233ea206cd973084f7fc27636fc"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20251107131500_add_space_tier\\migration.sql": {
+    "size": 413,
+    "mtime_ns": 1783913886491430700,
+    "hash": "6c8480b87557415b574888ee72a3f15b3238294716571f03524ee5f3fddea8a9"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20251110113931_non_nullable_space_id_susbcription\\migration.sql": {
+    "size": 361,
+    "mtime_ns": 1783913886491430700,
+    "hash": "58e331237136edf7d6fbef41b62d9e6be14f9dcac761040bd40c231b48eb40cc"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20251202151504_better_auth_joins\\migration.sql": {
+    "size": 466,
+    "mtime_ns": 1783913886491430700,
+    "hash": "f6df856d398b479bf54675301991af71e70cbd63f8d4ea724c86813ec322a8db"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20251216111415_consolidate_microsoft_provider\\migration.sql": {
+    "size": 1404,
+    "mtime_ns": 1783913886491430700,
+    "hash": "193c2c96188a57e5f9c2f8976ad066a6f907ec92bf13f1806fcd6815874be5c1"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20251222101400_add_api_keys\\migration.sql": {
+    "size": 1049,
+    "mtime_ns": 1783913886491430700,
+    "hash": "99dd9da2584b0233a00213ac579ea513b1d369a6e52287a7836d50f766b8dd25"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20251229171820_add_white_label_addon\\migration.sql": {
+    "size": 223,
+    "mtime_ns": 1783913886491430700,
+    "hash": "7bc26198086fdf4e8a9c1ab10278ef2e84218854f77fe1eb7dea2cb15b898db7"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260107154216_add_space_api_keys\\migration.sql": {
+    "size": 1026,
+    "mtime_ns": 1783913886491430700,
+    "hash": "2609cc3f6b7ee5f25c6e821bd0274e1858a15675ae22864b1137fa3001862c31"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260107155716_remove_user_api_keys\\migration.sql": {
+    "size": 264,
+    "mtime_ns": 1783913886491430700,
+    "hash": "39961008d031b5e1ad98af5b188871f6ba8b250b8e327e96c08c15a73fb1b505"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260117124004_update_poll_status_enum\\migration.sql": {
+    "size": 961,
+    "mtime_ns": 1783913886491430700,
+    "hash": "34dfd8789f72d21ebec422caeb34a7248b75c1e6821ca958860b57b85ec2765f"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260304114245_notification_prefs\\migration.sql": {
+    "size": 688,
+    "mtime_ns": 1783913886491430700,
+    "hash": "ce72dbe14a9e9e0694c1f0e66c921d34d32c09c5f5cc685ec447f350bbc7dc9f"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260309174403_add_poll_muted_drop_watchers\\migration.sql": {
+    "size": 710,
+    "mtime_ns": 1783913886493433200,
+    "hash": "7fbcdba8ddc35204b6c6e33f15a12bebabdf7bc97a3781e6ccae6de44d640e2c"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260313103853_remove_touched_at\\migration.sql": {
+    "size": 201,
+    "mtime_ns": 1783913886493433200,
+    "hash": "8a20425da1b0bb0808f7563e2a4769785548ffe9e997c1794359b790717acf12"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260403112726_add_space_primary_color_and_show_branding\\migration.sql": {
+    "size": 138,
+    "mtime_ns": 1783913886493433200,
+    "hash": "ff51a11feddb1598b0686e5c7b28cbde38270d6e48140802c70b66ef19ac55bd"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260423144927_add_instance_id\\migration.sql": {
+    "size": 423,
+    "mtime_ns": 1783913886493433200,
+    "hash": "4ca7142c3f4e41465fc7c303c004c17d3f57ea8328cde6d6237a9b16c4ea02db"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260423172330_add_registered_instance\\migration.sql": {
+    "size": 472,
+    "mtime_ns": 1783913886493433200,
+    "hash": "f848df00bcca80c9de0ac52ba150cca1c48a4a0ebd9a3dadadb5d4f66af9612e"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260509200506_add_poll_kind\\migration.sql": {
+    "size": 360,
+    "mtime_ns": 1783913886493433200,
+    "hash": "e6030603e4acde8b66af72f3525dae9be6fb628c50dab5d04bd17afb9160458e"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260514141310_add_event_type\\migration.sql": {
+    "size": 1050,
+    "mtime_ns": 1783913886494435200,
+    "hash": "e6f3b48d0526e2ac03ee00ac890d8b001b3e854e93238089eaef98d9ccec0e74"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260514165732_migrate_hash_indexes_to_btree_small_tables\\migration.sql": {
+    "size": 1449,
+    "mtime_ns": 1783913886494435200,
+    "hash": "d345eb9c38082f6cdf2336296f4c89e6decee8b4fb683b6639f141368124e887"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260518184939_add_sheet_and_extend_scheduled_event\\migration.sql": {
+    "size": 3381,
+    "mtime_ns": 1783913886494435200,
+    "hash": "eea8ddd107495a3ced7e2b0ce3166861ecc873488b0c811744faab8b5bc0bd5a"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260519111112_invitee_email_citext\\migration.sql": {
+    "size": 105,
+    "mtime_ns": 1783913886494435200,
+    "hash": "9776ac56544c66131d900f80ff999d157ac2347f74301440c1b11fc680f0eba7"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260519160226_add_hide_attendees_to_scheduled_event\\migration.sql": {
+    "size": 444,
+    "mtime_ns": 1783913886494435200,
+    "hash": "3d1fc38ea759ca88adfb705113d4c5bba9e3f4dc16cc27fbd595b8d199627a0b"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260525130443_structured_location_and_conferencing\\migration.sql": {
+    "size": 942,
+    "mtime_ns": 1783913886494435200,
+    "hash": "2447b2164817bd48739fe3a5e983ac4b2630cb403943fc2c0e58955d93ac2aa3"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260615095634_add_user_last_seen_at\\migration.sql": {
+    "size": 115,
+    "mtime_ns": 1783913886494435200,
+    "hash": "5c46b0c45df55c776deaa29c0eb7a9521da95bcd432da3cb36065bde58d89bf0"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260616094409_drop_verification_tokens_table\\migration.sql": {
+    "size": 200,
+    "mtime_ns": 1783913886494435200,
+    "hash": "934b95caed4baf9d91f5f963da5efe2d797f6b0ad6e0c0148ad608ed2796f447"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260616131914_unique_scheduled_event_invite_email\\migration.sql": {
+    "size": 1242,
+    "mtime_ns": 1783913886494435200,
+    "hash": "8cca87f44c56717063700bee0fc19e54129795e7acfa028384bde9be158845a5"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260619111500_drop_poll_views\\migration.sql": {
+    "size": 219,
+    "mtime_ns": 1783913886494435200,
+    "hash": "850bc433a01cf2f86b917c612f1d8cd1bb5335378484a0a90c7d95b1b59c8a1f"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260619150228_fix_all_day_option_timezone_shift\\migration.sql": {
+    "size": 3493,
+    "mtime_ns": 1783913886494435200,
+    "hash": "2a916790ef1b413e6869650ab025483144a224d1e36c789a1119d0d7f8c8774b"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260620115022_drop_guest_id_columns\\migration.sql": {
+    "size": 565,
+    "mtime_ns": 1783913886494435200,
+    "hash": "c9016aa59c40c1cabd713bfb8601c0a225df20ed4e0999a3be228407c60b3c13"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260703161929_add_scheduled_event_space_status_start_index\\migration.sql": {
+    "size": 129,
+    "mtime_ns": 1783913886494435200,
+    "hash": "665c02e31fec8677307bfc935041db53098127029ca20a2ad8cca52add5de86a"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260708131500_normalize_empty_string_time_zones\\migration.sql": {
+    "size": 662,
+    "mtime_ns": 1783913886496438200,
+    "hash": "0588fdcbd543f5a8278f5e93d5d8c93f583a8a56f8ca063e1a75e5d0e14e10db"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260709104425_enforce_all_day_event_invariants\\migration.sql": {
+    "size": 2047,
+    "mtime_ns": 1783913886496438200,
+    "hash": "56491cf264ac25507e9dee1c441c26d275c608830f9339fd01039ba1080026b2"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260710092341_add_poll_closed_reason\\migration.sql": {
+    "size": 886,
+    "mtime_ns": 1783913886496438200,
+    "hash": "f59c11ab0888d989d3d055e94a39eb227f6bbc51748bcfea8a3a700a0cc4d9d3"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\prisma\\migrations\\20260710120000_add_license_idempotency_key\\migration.sql": {
+    "size": 182,
+    "mtime_ns": 1783913886496438200,
+    "hash": "bd639a304429278e2f3345aedc79f9f62f3c5f5477d85272511ae4391c40d26b"
+  },
+  "D:\\Ladson\\rallly\\packages\\database\\tsconfig.json": {
+    "size": 120,
+    "mtime_ns": 1783913886498441000,
+    "hash": "4c42d928fc05cb7f36fefd5c2d72aaa34518423025a559c1c12f235f8c7ef2ba"
+  },
+  "D:\\Ladson\\rallly\\packages\\dayjs\\biome.json": {
+    "size": 89,
+    "mtime_ns": 1783913886498441000,
+    "hash": "7c6da6351d215399ee69950f0a0e5dd6e4e88366da4afeee5b3c3095d134e256"
+  },
+  "D:\\Ladson\\rallly\\packages\\dayjs\\package.json": {
+    "size": 68,
+    "mtime_ns": 1783913886498441000,
+    "hash": "8285c5f384e4bf317d9e50e1e968d2ea1f75e866120774f270ff4bf32ccd83fd"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\biome.json": {
+    "size": 89,
+    "mtime_ns": 1783913886498441000,
+    "hash": "d8baad70b3e296ac651027d1d91709e6d2fd8a128f185f87211ab19f959db0c1"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\ca\\emails.json": {
+    "size": 3852,
+    "mtime_ns": 1783913886500443500,
+    "hash": "efc46f34531f42c285e2bceeedd22234181fa3fea06a3457f972ddb2607f8efa"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\cs\\emails.json": {
+    "size": 6148,
+    "mtime_ns": 1783913886500443500,
+    "hash": "8001299fc2ad4a743c5a8ddde3db43cdca4f675fdbec7ff8da1e199a6c3e26d0"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\da\\emails.json": {
+    "size": 5951,
+    "mtime_ns": 1783913886500443500,
+    "hash": "4ba85732d735f3364e15d5a7b135914da8320edeee2b973cfb7adacc78cdaa80"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\de\\emails.json": {
+    "size": 6369,
+    "mtime_ns": 1783913886500443500,
+    "hash": "a3c0379cf207c66fadb59ecce59acf73c2365d69fa6f1246689395820350fa46"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\en\\emails.json": {
+    "size": 5656,
+    "mtime_ns": 1783913886500443500,
+    "hash": "c014dced659aa652418f2e99c8ebe23b34e5a4c59f707b2d7f1c2272ada21c53"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\es\\emails.json": {
+    "size": 6322,
+    "mtime_ns": 1783913886500443500,
+    "hash": "112e529cb95cf3c1e332bedf3222fe04ae4e27192fe02821e1076de986d25380"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\eu\\emails.json": {
+    "size": 4420,
+    "mtime_ns": 1783913886500443500,
+    "hash": "37f5f784cd365054801047e5a3dbca7d52e14ab8f1b6495214fbb79092c9721c"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\fi\\emails.json": {
+    "size": 5979,
+    "mtime_ns": 1783913886500443500,
+    "hash": "78fc54f8df1968b7393eb70636b6b4205b471710772af7bce2200225ed153d48"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\fr\\emails.json": {
+    "size": 6379,
+    "mtime_ns": 1783913886500443500,
+    "hash": "7a7569b4c9f301846cd1860aee23cee6145419b7e84cae14299e7d301c4bb455"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\hr\\emails.json": {
+    "size": 3593,
+    "mtime_ns": 1783913886502446200,
+    "hash": "af5783619fbc5518669f0adca995e9fa3fb584c9178caae4666a92bd065c7bfc"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\hu\\emails.json": {
+    "size": 6392,
+    "mtime_ns": 1783913886502446200,
+    "hash": "9b98268b2c6fd51abf41d06dd56b328d9eb2637ad868353102e23f386615ce64"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\it\\emails.json": {
+    "size": 6061,
+    "mtime_ns": 1783913886502446200,
+    "hash": "7f146e15095fd45f63771cb3fc3e50597a986b8d023165ca6907ed2adf4521a1"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\ja\\emails.json": {
+    "size": 4441,
+    "mtime_ns": 1783913886502446200,
+    "hash": "35486e297d07536eda15cac6c5d868c2840126fc86c415ea08e4f76a7dc67876"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\ko\\emails.json": {
+    "size": 1235,
+    "mtime_ns": 1783913886502446200,
+    "hash": "0c9516073fef3e2f0e4758d43d323ad06419f451076d918f7fab83cb391c83e2"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\nl\\emails.json": {
+    "size": 5347,
+    "mtime_ns": 1783913886502446200,
+    "hash": "10cfef125a74597df8d59e83bcc2abdf37e17829451c811c07c3552b910e895a"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\no\\emails.json": {
+    "size": 5038,
+    "mtime_ns": 1783913886502446200,
+    "hash": "d4d5aec95bb686225c19a66533ebcfa98466326c5b48836bce7e0e7de772644c"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\pl\\emails.json": {
+    "size": 4019,
+    "mtime_ns": 1783913886502446200,
+    "hash": "8aafcd7319a1302d5f4ae62be5f89477fd248ad1743550932a74be584d97a95a"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\pt-BR\\emails.json": {
+    "size": 6007,
+    "mtime_ns": 1783913886502446200,
+    "hash": "a81360c09bca2deb7987b8d1889caf4b2cf2aab74b353a004adf0b2696f6bcd8"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\pt\\emails.json": {
+    "size": 6584,
+    "mtime_ns": 1783913886502446200,
+    "hash": "7a569c97b354e2dfb26e4ddcfe324e69694f2a61949888eab2747666df15ccdf"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\ru\\emails.json": {
+    "size": 6231,
+    "mtime_ns": 1783913886502446200,
+    "hash": "e0ab2ff17a4ff34252536c230c4073d50da5313341187a6cb6e877e702ddf198"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\sk\\emails.json": {
+    "size": 3750,
+    "mtime_ns": 1783913886502446200,
+    "hash": "7b6ed9526d507da43909c6253bbb306afd348758b3a1dfe3bef89e868a3cd587"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\sv\\emails.json": {
+    "size": 5202,
+    "mtime_ns": 1783913886502446200,
+    "hash": "67eba4dd43cabf2e9caa099a3ab60fb3e6f6d27968ccb2f28cf206998390a284"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\th\\emails.json": {
+    "size": 4,
+    "mtime_ns": 1783913886502446200,
+    "hash": "fced97889cf998db4be8478282cdedc6c04259fe222a0e99c6a153b860864e7d"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\tr\\emails.json": {
+    "size": 3879,
+    "mtime_ns": 1783913886502446200,
+    "hash": "28e3a7376691d3ecf27684f51c01e26426198b0c508a82a0431cbe2a6355363e"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\vi\\emails.json": {
+    "size": 4,
+    "mtime_ns": 1783913886502446200,
+    "hash": "ed4848497b935ac93f19def3777c0aa30d8078abbfd2ff2111fa893b4249ab94"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\zh-Hant\\emails.json": {
+    "size": 3450,
+    "mtime_ns": 1783913886502446200,
+    "hash": "8e5541e166fe2da8348959656493ae57265c48e1ce36f292d494a31fbedd57da"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\locales\\zh\\emails.json": {
+    "size": 2858,
+    "mtime_ns": 1783913886502446200,
+    "hash": "3d453706189821eaf5319df2913310b81cb33c6a756d6d3af17e64f846bf7e26"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\package.json": {
+    "size": 1111,
+    "mtime_ns": 1783913886502446200,
+    "hash": "52b6c8e9046dc937588659d89ab684bb299fa51ea5d198e4d6c980500071c083"
+  },
+  "D:\\Ladson\\rallly\\packages\\emails\\tsconfig.json": {
+    "size": 166,
+    "mtime_ns": 1783913886502446200,
+    "hash": "7923bee7274dd4af24049bdc127221a86a5abec3e465bc2c4127e86c2f02a068"
+  },
+  "D:\\Ladson\\rallly\\packages\\languages\\biome.json": {
+    "size": 89,
+    "mtime_ns": 1783913886502446200,
+    "hash": "d98b4c14a6572581663f88ea6b2386273231337be1b608a44d044a5a7f514a5e"
+  },
+  "D:\\Ladson\\rallly\\packages\\languages\\package.json": {
+    "size": 362,
+    "mtime_ns": 1783913886502446200,
+    "hash": "fa396991ad1a4f59a23a3ae724264ae2d1abcd3438b54501b0dd9a59c945254c"
+  },
+  "D:\\Ladson\\rallly\\packages\\languages\\tsconfig.json": {
+    "size": 112,
+    "mtime_ns": 1783913886502446200,
+    "hash": "c15f7356839c9dd83461371d482bebfd1df89f3716272a4929e60f1605e6ecf6"
+  },
+  "D:\\Ladson\\rallly\\packages\\logger\\package.json": {
+    "size": 276,
+    "mtime_ns": 1783913886502446200,
+    "hash": "d15ec6d73139d514f56560e500d837f94dfb41fa7f75623b756e94b75989d315"
+  },
+  "D:\\Ladson\\rallly\\packages\\logger\\tsconfig.json": {
+    "size": 124,
+    "mtime_ns": 1783913886502446200,
+    "hash": "c887e9b81e9cb0b2382612e89a56abad2887f797c49da3611b277c6d35d238ca"
+  },
+  "D:\\Ladson\\rallly\\packages\\posthog\\biome.json": {
+    "size": 89,
+    "mtime_ns": 1783913886510526500,
+    "hash": "1c09d40aa90299ad39a7a4a7fab4fc1af0e5b164d28f74687bdfa98016e72819"
+  },
+  "D:\\Ladson\\rallly\\packages\\posthog\\package.json": {
+    "size": 569,
+    "mtime_ns": 1783913886510526500,
+    "hash": "54bc84cb1664cc982f349b3354a02f260d9ccb04325e1be0d5b26bf982d6a4e4"
+  },
+  "D:\\Ladson\\rallly\\packages\\posthog\\tsconfig.json": {
+    "size": 120,
+    "mtime_ns": 1783913886510526500,
+    "hash": "caa7e915fad10e501008c791c9d011523cd7388059283bcd5e2d933dba6c4208"
+  },
+  "D:\\Ladson\\rallly\\packages\\screenshots\\package.json": {
+    "size": 342,
+    "mtime_ns": 1783913886510526500,
+    "hash": "94608b7266f6eecd2c9b87732c0ccbaf37374d603e7737e1f59a8e747b220aec"
+  },
+  "D:\\Ladson\\rallly\\packages\\screenshots\\tsconfig.json": {
+    "size": 257,
+    "mtime_ns": 1783913886510526500,
+    "hash": "b721cda1594222fe03ec6061743ef412e24530298718894efe7ff1d4ca1a8285"
+  },
+  "D:\\Ladson\\rallly\\packages\\tailwind-config\\package.json": {
+    "size": 444,
+    "mtime_ns": 1783913886510526500,
+    "hash": "a251305b5da7137068034f94e67345fe8f4cf0731274c294e06f79158b573f05"
+  },
+  "D:\\Ladson\\rallly\\packages\\test-helpers\\package.json": {
+    "size": 272,
+    "mtime_ns": 1783913886510526500,
+    "hash": "99624b742c8b771503a818e124f9515bf7c49b30fb291e71689448774d8c52a6"
+  },
+  "D:\\Ladson\\rallly\\packages\\test-helpers\\tsconfig.json": {
+    "size": 76,
+    "mtime_ns": 1783913886510526500,
+    "hash": "296dcdc3514bfb0f57c20e44205c2c00c4773cc1eb92ab26d376f40725538b4f"
+  },
+  "D:\\Ladson\\rallly\\packages\\tsconfig\\next.json": {
+    "size": 195,
+    "mtime_ns": 1783913886510526500,
+    "hash": "476044f45ada2a5cae1e42acbb00ec959f10faea601e88a295d6217b19ff4fda"
+  },
+  "D:\\Ladson\\rallly\\packages\\tsconfig\\node.json": {
+    "size": 391,
+    "mtime_ns": 1783913886510526500,
+    "hash": "654e030f1e6998b45351f093d2c578720255b7dca62c3ada505d300d2089879e"
+  },
+  "D:\\Ladson\\rallly\\packages\\tsconfig\\package.json": {
+    "size": 179,
+    "mtime_ns": 1783913886510526500,
+    "hash": "d28653c23bcdf50041076b3f0ca371d72a91407c79e369ec08a6b9b54ccd4dae"
+  },
+  "D:\\Ladson\\rallly\\packages\\tsconfig\\react.json": {
+    "size": 505,
+    "mtime_ns": 1783913886510526500,
+    "hash": "be4fe1103cf76153e087146ac5d549553842790d564774cee8b30df11fe2b745"
+  },
+  "D:\\Ladson\\rallly\\packages\\ui\\biome.json": {
+    "size": 89,
+    "mtime_ns": 1783913886510526500,
+    "hash": "859433934d6995508e31e96395dfe13a333efd5c6fcc0b707ff2546f1310303c"
+  },
+  "D:\\Ladson\\rallly\\packages\\ui\\components.json": {
+    "size": 211,
+    "mtime_ns": 1783913886510526500,
+    "hash": "0a32472e6c65f403cf18711d0c442640b88ab498fbff2befee59f148f4648770"
+  },
+  "D:\\Ladson\\rallly\\packages\\ui\\package.json": {
+    "size": 1474,
+    "mtime_ns": 1783913886510526500,
+    "hash": "195458a38cd6a54eeec0e5fa5dd582c59f6c11ecbd15357e730a660840ad47e8"
+  },
+  "D:\\Ladson\\rallly\\packages\\ui\\tsconfig.json": {
+    "size": 120,
+    "mtime_ns": 1783913886510526500,
+    "hash": "1cc7c1904ba186326486ea42774d900ba4469facc25ebaad2c161bacfe937857"
+  },
+  "D:\\Ladson\\rallly\\packages\\utils\\biome.json": {
+    "size": 89,
+    "mtime_ns": 1783913886510526500,
+    "hash": "005404bce5f514a6a19fba8364f28c3df7debc2655c090c420d0ebbe7c6097fd"
+  },
+  "D:\\Ladson\\rallly\\packages\\utils\\package.json": {
+    "size": 388,
+    "mtime_ns": 1783913886510526500,
+    "hash": "2532d4cbfc3ef4f1db922cdedb2ecdcd7b4059282714686489fcf6aa5f7378dd"
+  },
+  "D:\\Ladson\\rallly\\packages\\utils\\tsconfig.json": {
+    "size": 178,
+    "mtime_ns": 1783913886510526500,
+    "hash": "5babfe4334ed3437bd261165ea993f0bf81e7c048932b188dd6f56865bcdce20"
+  },
+  "D:\\Ladson\\rallly\\scripts\\create-release.sh": {
+    "size": 2130,
+    "mtime_ns": 1783913886526231900,
+    "hash": "2152d16f8375c76f22d84949c13d911ca8b9c49888ada48b739e21c6636401e2"
+  },
+  "D:\\Ladson\\rallly\\scripts\\docker-start.sh": {
+    "size": 380,
+    "mtime_ns": 1783913886526231900,
+    "hash": "037e34ac3ddfe569661913e1847e4997719ea4380d967a7b12d2b1d99c4b06e5"
+  },
+  "D:\\Ladson\\rallly\\skills-lock.json": {
+    "size": 1294,
+    "mtime_ns": 1783913886526231900,
+    "hash": "13dbab9dad111fd319d544b765526378392d71d6481fdd255a3d4b4537bf805f"
+  },
+  "D:\\Ladson\\rallly\\turbo.json": {
+    "size": 2780,
+    "mtime_ns": 1783913886526231900,
+    "hash": "d40b55cbced394da1c729f06eb3476a1ef25eaf5def6289186ee37090cc924ef"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\better-auth-best-practices\\SKILL.md": {
+    "size": 6318,
+    "mtime_ns": 1783913886191174500,
+    "hash": "6e3a2e67fd4eaa5983688fb9d58cd5fe49abe37867bf11f477d41d8c87f6b090"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\create-auth-skill\\SKILL.md": {
+    "size": 12101,
+    "mtime_ns": 1783913886191174500,
+    "hash": "b1a8e7f6104a82c92ac67c7992aeecb8978dc764e3f1ad3793849df246d14c48"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\devmoji\\SKILL.md": {
+    "size": 2676,
+    "mtime_ns": 1783913886191174500,
+    "hash": "ea61a2206a484d823724d19a857fb0e2bddf84eff46f894d63af2a477d9c942f"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\email-and-password-best-practices\\SKILL.md": {
+    "size": 8079,
+    "mtime_ns": 1783913886191174500,
+    "hash": "e2c99c1810f5cf6476668887e882666ee79d76e06e9e8fd3bb8cd9a6d56249fb"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\logging\\SKILL.md": {
+    "size": 3174,
+    "mtime_ns": 1783913886191174500,
+    "hash": "4a0750f6d9bf8c40ebf320b4ab3f68a829473b884bf99e33ec87ff65217b26b5"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\organization-best-practices\\SKILL.md": {
+    "size": 13849,
+    "mtime_ns": 1783913886191174500,
+    "hash": "fb0040c82446438199a91934ada3e34317b7b6cfcbf1faf13f35936386a9c180"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\SKILL.md": {
+    "size": 6292,
+    "mtime_ns": 1783913886191174500,
+    "hash": "b873f6f93c4b23058f14c8281372a4aa3adef86997918a9ebb0bdedffbe12bd9"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\db-execute.md": {
+    "size": 1814,
+    "mtime_ns": 1783913886191174500,
+    "hash": "5c791203f33fa8c90cb5f3c688b52c0f33404a54a92aea04968b0815cdd64282"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\db-pull.md": {
+    "size": 3759,
+    "mtime_ns": 1783913886191174500,
+    "hash": "df65dc8f49f7b82b622ad6035fffd4f048e636ebcfde9af5d8c3b6ee289a7b7e"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\db-push.md": {
+    "size": 2975,
+    "mtime_ns": 1783913886191174500,
+    "hash": "ca3c98825f08dc48bed2bc07eda0c81adefe568e18312c0b29b507fbbc160265"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\db-seed.md": {
+    "size": 3581,
+    "mtime_ns": 1783913886191174500,
+    "hash": "3246ee132b51a93b61ef8fe558b24c4adf26ff5c7da6d0666c5e60da8e17e84a"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\debug.md": {
+    "size": 1108,
+    "mtime_ns": 1783913886191174500,
+    "hash": "37b789348d7ac070bae6201595607dc1a39e1b4250b0c9841cfef91626dc03b8"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\dev.md": {
+    "size": 2819,
+    "mtime_ns": 1783913886191174500,
+    "hash": "0afc5bc5fd0b31962ce99aa018b5a96042461c7d1109dc27e7b00b3384655196"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\format.md": {
+    "size": 1109,
+    "mtime_ns": 1783913886191174500,
+    "hash": "41b375ca9179fb0ccb18b9aa32b83818180d31517bffa34f66613433147394a8"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\generate.md": {
+    "size": 2771,
+    "mtime_ns": 1783913886191174500,
+    "hash": "c7d40371847dbc289308a381e8a7e828da83317a0dd04c98e4ad43275b8e9139"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\init.md": {
+    "size": 2753,
+    "mtime_ns": 1783913886195423100,
+    "hash": "dd337824c633e2393d2e9cbc1066c682f9374282a2d1f0168fa57445db324b8f"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\migrate-deploy.md": {
+    "size": 2763,
+    "mtime_ns": 1783913886195423100,
+    "hash": "cf97f239a43df0dab42d9ccb910eb0e4be36a59800329a32107752c3978fd698"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\migrate-dev.md": {
+    "size": 3132,
+    "mtime_ns": 1783913886195423100,
+    "hash": "0aaae4d66dda6646237a1e3384155eafeabe75d6452e65e84740052e64197c22"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\migrate-diff.md": {
+    "size": 2177,
+    "mtime_ns": 1783913886195423100,
+    "hash": "5ba26147e49ae2ded099611acd3ed842926a5654ac7946d89aa0c8ea7101d455"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\migrate-reset.md": {
+    "size": 1606,
+    "mtime_ns": 1783913886195423100,
+    "hash": "914ac3c7ce7a8f408fb3f9705c4a51285bc3beb4caabd5927c7ee1e441959f0f"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\migrate-resolve.md": {
+    "size": 1728,
+    "mtime_ns": 1783913886195423100,
+    "hash": "4d5f94e3aa312035a88fff083a3fcc2805b6972c16dbf3d884dc6f8a9a85ee58"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\migrate-status.md": {
+    "size": 1585,
+    "mtime_ns": 1783913886195423100,
+    "hash": "4fc941f29625b920f5ae974f91afe6fa89fd41cf98e90a9d16def015a9a8cf76"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\studio.md": {
+    "size": 2178,
+    "mtime_ns": 1783913886195423100,
+    "hash": "d2759fb0b9dd800e43657c112b19f7757535d2228d2b01f3d6aae45c41c4d962"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-cli\\references\\validate.md": {
+    "size": 936,
+    "mtime_ns": 1783913886195423100,
+    "hash": "542a9e50a6add3d5562abbdc8d26e0b2e4af58fcd44328b15d9f4c7eac7f59b8"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-client-api\\SKILL.md": {
+    "size": 6481,
+    "mtime_ns": 1783913886195423100,
+    "hash": "d54614283921bb229a6d09f95141ec87262b0d3937482d3ab90037c48706d0ff"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-client-api\\references\\client-methods.md": {
+    "size": 4056,
+    "mtime_ns": 1783913886195423100,
+    "hash": "3584e1b4d5794a842f5a8569b95a0c9a2a8dc20d390409c0c71209a440a1d2a8"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-client-api\\references\\constructor.md": {
+    "size": 3843,
+    "mtime_ns": 1783913886195423100,
+    "hash": "ed5808d89439a8f8d756e7661f96ca7237c94be7a34abc7345f3b8f7167ecb10"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-client-api\\references\\filters.md": {
+    "size": 3714,
+    "mtime_ns": 1783913886195423100,
+    "hash": "b34d53325430629fd70d2cc80bc5f4c2534c0eaa500bb15de5edf5a5e651a879"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-client-api\\references\\model-queries.md": {
+    "size": 5051,
+    "mtime_ns": 1783913886195423100,
+    "hash": "35ca91355665a2390a978823e68aee7ddd0b9776824ad0230ffccdccf110abd4"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-client-api\\references\\query-options.md": {
+    "size": 4323,
+    "mtime_ns": 1783913886195423100,
+    "hash": "61d42bb3cbf8e763e9fd6bbb6418c3a01d33628889b6d26dc5bc4b421b555161"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-client-api\\references\\raw-queries.md": {
+    "size": 4089,
+    "mtime_ns": 1783913886195423100,
+    "hash": "d4bad3299ed72ced2dac814cef6bbaa56c6ac617dcbe00bd3efe84f6307e0657"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-client-api\\references\\relations.md": {
+    "size": 4743,
+    "mtime_ns": 1783913886195423100,
+    "hash": "84099419f94f33737a350a8e5b63e615d0eaf6de0b3232fbf13b595e7134d493"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-client-api\\references\\transactions.md": {
+    "size": 4008,
+    "mtime_ns": 1783913886195423100,
+    "hash": "67c09620fb2b0217a8dfdd996e6eadf5c2adfcd70d8e4717cba8964dee2feb61"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-database-setup\\SKILL.md": {
+    "size": 5169,
+    "mtime_ns": 1783913886195423100,
+    "hash": "a8ca9193b3584dbd2b8dc99523ba76601e9f233c568d91dff5b8a98931e30dad"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-database-setup\\references\\cockroachdb.md": {
+    "size": 1986,
+    "mtime_ns": 1783913886195423100,
+    "hash": "50b8874e561c9aaa27f6b354deecea91be962ce81c272be8427f9d0bb08db6f3"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-database-setup\\references\\mongodb.md": {
+    "size": 1875,
+    "mtime_ns": 1783913886195423100,
+    "hash": "de6bdeb73ab8be3255a85f396048006a378c79d08e9e6464baecf750f9c98591"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-database-setup\\references\\mysql.md": {
+    "size": 2321,
+    "mtime_ns": 1783913886195423100,
+    "hash": "de6f1e1328abbcdc58871994b977e836bbfce548e3c5291b79c5557b11b513fe"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-database-setup\\references\\postgresql.md": {
+    "size": 1992,
+    "mtime_ns": 1783913886195423100,
+    "hash": "a9272a3ae4a0bcf7374609288f72d0a2eeeb8e778d45cbd1fb09196ba7b3140f"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-database-setup\\references\\prisma-client-setup.md": {
+    "size": 1246,
+    "mtime_ns": 1783913886195423100,
+    "hash": "0a539ebfc79500fb2d0a0160482ea543dd77bccd80f1e94e5e33121aaa5bb6a9"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-database-setup\\references\\prisma-postgres.md": {
+    "size": 2177,
+    "mtime_ns": 1783913886199242200,
+    "hash": "fbd77107293a54296ed9152cbc06cc5b3f3541031febe13f90942fda1f44e9f3"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-database-setup\\references\\sqlite.md": {
+    "size": 2430,
+    "mtime_ns": 1783913886199242200,
+    "hash": "7420b09ee00959beda28c44549f04e4c393886516da99a5ad4da7c9656cca329"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-database-setup\\references\\sqlserver.md": {
+    "size": 2268,
+    "mtime_ns": 1783913886199242200,
+    "hash": "a4e47c014c851a62b264c330065ad858c8c20bc9404dab161517a1506553e528"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-postgres\\SKILL.md": {
+    "size": 3262,
+    "mtime_ns": 1783913886199242200,
+    "hash": "c767d366f611d53c979985e45b2a583e8acf777fedbed4b2c263d3073d9f1ac2"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-postgres\\references\\console-and-connections.md": {
+    "size": 1230,
+    "mtime_ns": 1783913886199242200,
+    "hash": "0ab55b10fa01f9a1626d8151e3d4160d755305863fa7427dfe41562cf67070cd"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-postgres\\references\\create-db-cli.md": {
+    "size": 2845,
+    "mtime_ns": 1783913886199242200,
+    "hash": "ffbe155d53af1d81513e1cece37acd0dadd637077fdda09145a74278ac691333"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-postgres\\references\\management-api-sdk.md": {
+    "size": 1476,
+    "mtime_ns": 1783913886199242200,
+    "hash": "d1251b325b1c395551f4d434d9a72f7df1ea83820fd0d57843e6dc0eea847776"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-postgres\\references\\management-api.md": {
+    "size": 1724,
+    "mtime_ns": 1783913886199242200,
+    "hash": "5a37215fc1f924b56001717f71bcd8fce1835b0e7e3ab355a1d08a5a685bb00a"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-upgrade-v7\\SKILL.md": {
+    "size": 6242,
+    "mtime_ns": 1783913886199242200,
+    "hash": "203335f15ba6553e17148ae063ec653d6b7cda19454b2914a266c08930c8b13d"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-upgrade-v7\\references\\accelerate-users.md": {
+    "size": 3626,
+    "mtime_ns": 1783913886199242200,
+    "hash": "1152bebd7d787c972e22a6f176d01501c6bbf4a62c9f528995bd6ebec4cab65b"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-upgrade-v7\\references\\driver-adapters.md": {
+    "size": 5672,
+    "mtime_ns": 1783913886199242200,
+    "hash": "2c057861421b5d190106d0b40cd89841cecc0d6ae5babc9d4209720ebedbbb1c"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-upgrade-v7\\references\\env-variables.md": {
+    "size": 3503,
+    "mtime_ns": 1783913886199242200,
+    "hash": "c2d53fa9bbe5a94f917cd66245923f382e5d6e2a2b5e48331a88f5d2f2c1d177"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-upgrade-v7\\references\\esm-support.md": {
+    "size": 2787,
+    "mtime_ns": 1783913886199242200,
+    "hash": "c68f680647da7dae8285412402e706dfdfdaf446e566d62b73638a9fc670afc5"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-upgrade-v7\\references\\prisma-config.md": {
+    "size": 3610,
+    "mtime_ns": 1783913886199242200,
+    "hash": "c69410e468c3f2af7a96dad345ff395f05c636c5ac62c9afdf60857bf174330e"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-upgrade-v7\\references\\removed-features.md": {
+    "size": 4377,
+    "mtime_ns": 1783913886201595700,
+    "hash": "6f9e594c9192b884e2e0c6e8a3265cc755b5c18da6b0db37b0b3216ddd8b7cac"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\prisma-upgrade-v7\\references\\schema-changes.md": {
+    "size": 2235,
+    "mtime_ns": 1783913886201595700,
+    "hash": "f2f6f25f40741910c068fd7a71e709194b1214aacdbf9e6ae6015a25c94246b0"
+  },
+  "D:\\Ladson\\rallly\\.agents\\skills\\two-factor-authentication-best-practices\\SKILL.md": {
+    "size": 10689,
+    "mtime_ns": 1783913886201595700,
+    "hash": "81cbc4dec6db35ef03e2d94ce12453191b38be19f56d74770e13da1f641e194c"
+  },
+  "D:\\Ladson\\rallly\\.github\\ISSUE_TEMPLATE\\---bug-report.md": {
+    "size": 884,
+    "mtime_ns": 1783913886201595700,
+    "hash": "f6f8f39f15d1d2eb3453b76f79eae180cd4cf8323de65d2060f47d4e7f46d9e4"
+  },
+  "D:\\Ladson\\rallly\\.github\\ISSUE_TEMPLATE\\---feature-request.md": {
+    "size": 323,
+    "mtime_ns": 1783913886201595700,
+    "hash": "5f76d1ffb1db6545c9256e8e88ef39119e1658a554c6265983ba8fab4afc8ca3"
+  },
+  "D:\\Ladson\\rallly\\.github\\ISSUE_TEMPLATE\\\ud83d\udee0\ufe0f-self-hosting-issue.md": {
+    "size": 1734,
+    "mtime_ns": 1783913886201595700,
+    "hash": "d3b94de35b7528ea034022c5baa9c287c9df79cdfa473c657d404e309b1a4dbe"
+  },
+  "D:\\Ladson\\rallly\\.github\\PULL_REQUEST_TEMPLATE.md": {
+    "size": 434,
+    "mtime_ns": 1783913886201595700,
+    "hash": "235dc3bb4bf000e8d92ad3d0cb90670eb72d005cab5b1570a3ed5056e5b5ff07"
+  },
+  "D:\\Ladson\\rallly\\CLAUDE.md": {
+    "size": 10863,
+    "mtime_ns": 1783913886201595700,
+    "hash": "ab858230217ad7876fff233f9b1116943432f5085a9631a2dc4c90d17d031d6a"
+  },
+  "D:\\Ladson\\rallly\\CODE_OF_CONDUCT.md": {
+    "size": 1283,
+    "mtime_ns": 1783913886201595700,
+    "hash": "2bd79f88ddf7250ba6283d4bb950d122ba6fba6e8e1d72dac253c7a3e8dd7f9f"
+  },
+  "D:\\Ladson\\rallly\\CONTRIBUTING.md": {
+    "size": 4111,
+    "mtime_ns": 1783913886201595700,
+    "hash": "08d1328a265bca5f1abee00b060752dda7a7601dd38df6f59956b770cd46e967"
+  },
+  "D:\\Ladson\\rallly\\README.md": {
+    "size": 3663,
+    "mtime_ns": 1783913886201595700,
+    "hash": "0f75e0e4161060c2ed029a96f0056afe558e248242f51f943c69b23ae1e45adb"
+  },
+  "D:\\Ladson\\rallly\\SECURITY.md": {
+    "size": 2672,
+    "mtime_ns": 1783913886201595700,
+    "hash": "f50c8d0f2e07cfa489411215e55ad57793f48e56da18076125a0cc917f2c35f6"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\README.md": {
+    "size": 1106,
+    "mtime_ns": 1783913886201595700,
+    "hash": "002623367f6e101edefdefca551bf6d267b83af4cebc8b4187da3169cadf51bd"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\administrators\\deleting-a-meeting-poll.mdx": {
+    "size": 343,
+    "mtime_ns": 1783913886201595700,
+    "hash": "4c4a7b9acec8bfb7609630907ab241768d6c2498919927ee17e4b79fc4e660dd"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\administrators\\editing-a-meeting-poll.mdx": {
+    "size": 835,
+    "mtime_ns": 1783913886201595700,
+    "hash": "ff9e939111d2dcd709581ee907eb6b9f61a101b6c1ce1e02d40ff7104e3f7c79"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\contact\\support.mdx": {
+    "size": 610,
+    "mtime_ns": 1783913886201595700,
+    "hash": "0192fcbb263b973cb08cc5b4d1da34e4aee1b3dc8abe93b56a29e83dc6855b16"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\contribute\\documentation.mdx": {
+    "size": 746,
+    "mtime_ns": 1783913886201595700,
+    "hash": "12d41e9326be61b26c987ccccbdb08da342d53f707539623d1eb507e1a87c29e"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\contribute\\donations.mdx": {
+    "size": 921,
+    "mtime_ns": 1783913886201595700,
+    "hash": "fea24d85fa1d7dad0fe2088d59e727af9586bb11053fee302eac282457dd978e"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\contribute\\introduction.mdx": {
+    "size": 1149,
+    "mtime_ns": 1783913886201595700,
+    "hash": "e0806c7dfe4db15fdf728684130388fa14e6b9be959fc75b25b904b95f94576e"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\contribute\\translations.mdx": {
+    "size": 4271,
+    "mtime_ns": 1783913886201595700,
+    "hash": "c72aa1a0d2e5c678a82bf482da637237558221456bee5df7f7fb5c197adb3305"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\faq.mdx": {
+    "size": 2291,
+    "mtime_ns": 1783913886201595700,
+    "hash": "0185b1027f8ea28db7785889df9935cf7245fff601573abaf460648499f626bb"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\guide\\content-moderation.mdx": {
+    "size": 825,
+    "mtime_ns": 1783913886201595700,
+    "hash": "af790192eabfa28bb84d3ae2f0195b6e5d17c21363dc0fb39cf8f903002cfa0d"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\guide\\participant-guide.mdx": {
+    "size": 1986,
+    "mtime_ns": 1783913886201595700,
+    "hash": "3776afedede53c58d03befe63bfc94801ee318e97e90feeb926c061162794921"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\introduction.mdx": {
+    "size": 2034,
+    "mtime_ns": 1783913886229122600,
+    "hash": "75fc19bd4fca9132a3520cbc92c6bf19862f46cb364c201159f193eae88ac361"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\self-hosting\\configuration.mdx": {
+    "size": 9061,
+    "mtime_ns": 1783913886232216500,
+    "hash": "2f3f265a4a168bce59f2ad37bfe8a88301961354035f95a175f3e7f521c97f02"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\self-hosting\\control-panel.mdx": {
+    "size": 1489,
+    "mtime_ns": 1783913886232216500,
+    "hash": "b54eb938a4ba30646736c098d6469b137d38dcbe339d912512f5088b288d2727"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\self-hosting\\installation\\docker.mdx": {
+    "size": 4325,
+    "mtime_ns": 1783913886232216500,
+    "hash": "162ccb26b40d8bca0eba2ca35c622d106f8b3ae2930dc96a47a81f29e834406a"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\self-hosting\\introduction.mdx": {
+    "size": 2357,
+    "mtime_ns": 1783913886233221700,
+    "hash": "0ec0ea2ba82f81894dd700280d2d8b0bc81e7cbaecd4b27dd71ac6388d1c4fc7"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\self-hosting\\licensing.mdx": {
+    "size": 5044,
+    "mtime_ns": 1783913886233221700,
+    "hash": "a994c1403322d3bffcdb76bbd4efb9fb6d9a9ee081a193da4412331633da77c7"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\self-hosting\\managed-hosting.mdx": {
+    "size": 1521,
+    "mtime_ns": 1783913886233221700,
+    "hash": "5bcd62c0d44bea3e1c80b823405f1b57961a7528683fe79ac5463e4fb2507c68"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\self-hosting\\management.mdx": {
+    "size": 4020,
+    "mtime_ns": 1783913886233221700,
+    "hash": "e1d2be08f111be7bd053e31257d7d95ba7a031c0f3fe92474f7a07bc0a1f1bb2"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\self-hosting\\migration.mdx": {
+    "size": 6961,
+    "mtime_ns": 1783913886233221700,
+    "hash": "7464f32063e246756a8576206f38bdcd0e705b5561dff6ffa97fce0ca6881771"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\self-hosting\\single-sign-on.mdx": {
+    "size": 3360,
+    "mtime_ns": 1783913886233221700,
+    "hash": "b37323273f92b3436898c4621e34c5d28196361dd20a07c07f68f354fa2fc91e"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\self-hosting\\white-labeling.mdx": {
+    "size": 2264,
+    "mtime_ns": 1783913886233221700,
+    "hash": "44b4412deb65e9dc26f7dcf8d1b28722804dd612b3484d0b313d2a6c8aad8b5a"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\spaces\\billing.mdx": {
+    "size": 4314,
+    "mtime_ns": 1783913886233221700,
+    "hash": "f3ed21fe7b3b72eaedabb2134daf7232fddbc1b7f3dccb52c899ee404b93ba02"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\spaces\\custom-branding.mdx": {
+    "size": 1171,
+    "mtime_ns": 1783913886233221700,
+    "hash": "7e749e5ca63ffe5fc90be69e2c7f620f3f6aca3a321cd425f9e1183d79869e23"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\spaces\\introduction.mdx": {
+    "size": 1732,
+    "mtime_ns": 1783913886233221700,
+    "hash": "c525a779b34155999149668e6e0c5a8db38fa3bf61f4a9bd90a5c21183dad181"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\spaces\\managing-seats.mdx": {
+    "size": 5111,
+    "mtime_ns": 1783913886233221700,
+    "hash": "9d872322631ddb3a2c0284b8f02dcdf0705ead3bb3d595bbd94e9a4bce3c5e08"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\spaces\\members.mdx": {
+    "size": 5015,
+    "mtime_ns": 1783913886233221700,
+    "hash": "40058dc5466e2eb4e84e0a620fb01e476bfdd24e14b7c497602561887497fd1c"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\workflow\\create.mdx": {
+    "size": 1955,
+    "mtime_ns": 1783913886233221700,
+    "hash": "66afec40f74ac8a8bc87b3b3c96dc70ad42612f5f98510d5e1b8413f5b709c0c"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\workflow\\invite.mdx": {
+    "size": 1102,
+    "mtime_ns": 1783913886235236700,
+    "hash": "204ad3cbbfedc67fed7eaa7090243a282c4dee22d041ac575261fc3e67c9d2a7"
+  },
+  "D:\\Ladson\\rallly\\apps\\docs\\workflow\\schedule.mdx": {
+    "size": 850,
+    "mtime_ns": 1783913886235236700,
+    "hash": "cd7e93f75a364434b61b4d4332aee85415854fcd65d9871e42fb4db011420ff2"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\src\\posts\\introducing-custom-branding.md": {
+    "size": 1547,
+    "mtime_ns": 1783913886350855500,
+    "hash": "c8e093c3404a15574e8f7540a097287c7d31c74cf101c769c216e9be4cf3dc51"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\src\\posts\\introducing-dark-mode.md": {
+    "size": 951,
+    "mtime_ns": 1783913886350855500,
+    "hash": "1ce76ae46ae7e625f941c30d28f7b5b5c730c9596889f2a11d2768535f57ccf6"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\src\\posts\\introducing-quick-create.md": {
+    "size": 1658,
+    "mtime_ns": 1783913886352864300,
+    "hash": "d9139de48fb5283ff159e7d2f54040edad0e24f28f1bfaf2cc63e3d6a769c764"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\src\\posts\\introducing-rallly-cli.md": {
+    "size": 3408,
+    "mtime_ns": 1783913886352864300,
+    "hash": "85ae1c07db7f45aa03ac7fa35ca4cd3b68efbf517a834cb0e81db8ee72c0168b"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\src\\posts\\introducing-rallly-pro.md": {
+    "size": 1898,
+    "mtime_ns": 1783913886352864300,
+    "hash": "3e71dc4af9834a4d006a5e5c7bef2fb952b98816a0999f5cbe314b516e2d5ba8"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\src\\posts\\introducing-spaces.md": {
+    "size": 2714,
+    "mtime_ns": 1783913886352864300,
+    "hash": "a65410e73da1700d7ba27a932efef8a521a65b1cbfcab4830e1c079f22b28b64"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\src\\posts\\july-recap.md": {
+    "size": 2512,
+    "mtime_ns": 1783913886352864300,
+    "hash": "1595abb102d2d63724f24a7926c86f8ca3f8a58734acb4c6c90d81b3f7e980dd"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\src\\posts\\mobile-ui-update.md": {
+    "size": 1738,
+    "mtime_ns": 1783913886352864300,
+    "hash": "5fde622f3b9eb02395b1d61cdec3694df0a15a8bc6f7c088f13841816eedd9a4"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\src\\posts\\new-version-announcment.md": {
+    "size": 3912,
+    "mtime_ns": 1783913886352864300,
+    "hash": "8425223c24c98930da027011f64e20af2c5058ad20a4699ed2a04030e5b85265"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\src\\posts\\rallly-3-0-self-hosting.md": {
+    "size": 1392,
+    "mtime_ns": 1783913886352864300,
+    "hash": "39f2d77785298d83c4fb9b3ececd29b23011683cd414c5a48278d156bf077076"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\src\\posts\\rallly-3-0.md": {
+    "size": 2185,
+    "mtime_ns": 1783913886353872300,
+    "hash": "87bab971345e1bd6229fad43785d3f1bae7c2f1d58b12ff744839e68c2a072e4"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\src\\posts\\rallly-pro-launch.md": {
+    "size": 1304,
+    "mtime_ns": 1783913886353872300,
+    "hash": "5827160e3c08d64064a913817769098fb9867b24abac5bdb42434035d0476cda"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\src\\posts\\security-update-react2shell.md": {
+    "size": 4145,
+    "mtime_ns": 1783913886353872300,
+    "hash": "b93164f0a6caceeb6bd853fedfd3749d7d44eb6b7e421bf20b522c6f998c6b50"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\src\\posts\\the-future-of-rallly.md": {
+    "size": 2639,
+    "mtime_ns": 1783913886353872300,
+    "hash": "66f893938a3324b06915a03978dd51abeae42a99852a149cc3268ba63ebf651e"
+  },
+  "D:\\Ladson\\rallly\\apps\\landing\\src\\posts\\white-labeling-support.md": {
+    "size": 1817,
+    "mtime_ns": 1783913886353872300,
+    "hash": "947375045fd3f14be4018b4c65f2d661b24217fb154aed6cca06df48ead5e8b7"
+  }
+}

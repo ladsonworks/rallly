@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_github_issue_template_self_hosting_issue_md",
+      "label": "\ud83d\udee0\ufe0f-self-hosting-issue.md",
+      "file_type": "document",
+      "source_file": ".github/ISSUE_TEMPLATE/\ud83d\udee0\ufe0f-self-hosting-issue.md",
+      "source_location": "L1"
+    }
+  ],
+  "edges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

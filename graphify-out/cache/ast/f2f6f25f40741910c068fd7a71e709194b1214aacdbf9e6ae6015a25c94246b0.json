@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_agents_skills_prisma_upgrade_v7_references_schema_changes_md",
+      "label": "schema-changes.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "references_schema_changes_schema_changes",
+      "label": "Schema Changes",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "references_schema_changes_generator_block_v7",
+      "label": "Generator Block (v7)",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L5"
+    },
+    {
+      "id": "references_schema_changes_key_changes",
+      "label": "Key Changes",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L14"
+    },
+    {
+      "id": "references_schema_changes_1_provider_name",
+      "label": "1. Provider name",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L16"
+    },
+    {
+      "id": "references_schema_changes_2_output_is_required_for_prisma_client",
+      "label": "2. Output is required (for `prisma-client`)",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L20"
+    },
+    {
+      "id": "references_schema_changes_3_engine_type_removed",
+      "label": "3. Engine type removed",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L31"
+    },
+    {
+      "id": "references_schema_changes_example_output_paths_prisma_client",
+      "label": "Example Output Paths (prisma-client)",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L35"
+    },
+    {
+      "id": "references_schema_changes_standard_project",
+      "label": "Standard project",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L37"
+    },
+    {
+      "id": "references_schema_changes_monorepo",
+      "label": "Monorepo",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L45"
+    },
+    {
+      "id": "references_schema_changes_same_directory_as_schema",
+      "label": "Same directory as schema",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L51"
+    },
+    {
+      "id": "references_schema_changes_datasource_block",
+      "label": "Datasource Block",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L59"
+    },
+    {
+      "id": "references_schema_changes_v7_schema_prisma",
+      "label": "v7 schema.prisma",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L63"
+    },
+    {
+      "id": "references_schema_changes_after_schema_changes",
+      "label": "After Schema Changes",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L83"
+    },
+    {
+      "id": "references_schema_changes_preview_features",
+      "label": "Preview Features",
+      "file_type": "document",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L101"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_agents_skills_prisma_upgrade_v7_references_schema_changes_md",
+      "target": "references_schema_changes_schema_changes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "references_schema_changes_schema_changes",
+      "target": "references_schema_changes_generator_block_v7",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "references_schema_changes_schema_changes",
+      "target": "references_schema_changes_key_changes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "references_schema_changes_key_changes",
+      "target": "references_schema_changes_1_provider_name",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "references_schema_changes_key_changes",
+      "target": "references_schema_changes_2_output_is_required_for_prisma_client",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "references_schema_changes_key_changes",
+      "target": "references_schema_changes_3_engine_type_removed",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "references_schema_changes_schema_changes",
+      "target": "references_schema_changes_example_output_paths_prisma_client",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "references_schema_changes_example_output_paths_prisma_client",
+      "target": "references_schema_changes_standard_project",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "references_schema_changes_example_output_paths_prisma_client",
+      "target": "references_schema_changes_monorepo",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "references_schema_changes_example_output_paths_prisma_client",
+      "target": "references_schema_changes_same_directory_as_schema",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "references_schema_changes_schema_changes",
+      "target": "references_schema_changes_datasource_block",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L59",
+      "weight": 1.0
+    },
+    {
+      "source": "references_schema_changes_datasource_block",
+      "target": "references_schema_changes_v7_schema_prisma",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L63",
+      "weight": 1.0
+    },
+    {
+      "source": "references_schema_changes_schema_changes",
+      "target": "references_schema_changes_after_schema_changes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L83",
+      "weight": 1.0
+    },
+    {
+      "source": "references_schema_changes_schema_changes",
+      "target": "references_schema_changes_preview_features",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/prisma-upgrade-v7/references/schema-changes.md",
+      "source_location": "L101",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

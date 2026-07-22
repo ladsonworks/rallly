@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_src_posts_introducing_rallly_pro_md",
+      "label": "introducing-rallly-pro.md",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-rallly-pro.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "posts_introducing_rallly_pro_1_finalize_polls_and_send_out_calendar_invites",
+      "label": "1. Finalize Polls and Send Out Calendar Invites",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-rallly-pro.md",
+      "source_location": "L13"
+    },
+    {
+      "id": "posts_introducing_rallly_pro_2_priority_support",
+      "label": "2. Priority Support",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-rallly-pro.md",
+      "source_location": "L19"
+    },
+    {
+      "id": "posts_introducing_rallly_pro_3_vote_on_feature_development",
+      "label": "3. Vote on Feature Development",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-rallly-pro.md",
+      "source_location": "L23"
+    },
+    {
+      "id": "posts_introducing_rallly_pro_4_extended_poll_life",
+      "label": "4. Extended Poll Life",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-rallly-pro.md",
+      "source_location": "L27"
+    },
+    {
+      "id": "posts_introducing_rallly_pro_5_upcoming_features",
+      "label": "5. Upcoming Features",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-rallly-pro.md",
+      "source_location": "L31"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_introducing_rallly_pro_md",
+      "target": "posts_introducing_rallly_pro_1_finalize_polls_and_send_out_calendar_invites",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/introducing-rallly-pro.md",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_introducing_rallly_pro_md",
+      "target": "posts_introducing_rallly_pro_2_priority_support",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/introducing-rallly-pro.md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_introducing_rallly_pro_md",
+      "target": "posts_introducing_rallly_pro_3_vote_on_feature_development",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/introducing-rallly-pro.md",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_introducing_rallly_pro_md",
+      "target": "posts_introducing_rallly_pro_4_extended_poll_life",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/introducing-rallly-pro.md",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_introducing_rallly_pro_md",
+      "target": "posts_introducing_rallly_pro_5_upcoming_features",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/introducing-rallly-pro.md",
+      "source_location": "L31",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

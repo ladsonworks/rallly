@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_github_issue_template_bug_report_md",
+      "label": "---bug-report.md",
+      "file_type": "document",
+      "source_file": ".github/ISSUE_TEMPLATE/---bug-report.md",
+      "source_location": "L1"
+    }
+  ],
+  "edges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

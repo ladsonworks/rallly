@@ -1,0 +1,111 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_src_posts_rallly_3_0_md",
+      "label": "rallly-3-0.md",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/rallly-3-0.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "posts_rallly_3_0_navigation",
+      "label": "Navigation",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/rallly-3-0.md",
+      "source_location": "L9"
+    },
+    {
+      "id": "posts_rallly_3_0_polls_page",
+      "label": "Polls page",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/rallly-3-0.md",
+      "source_location": "L15"
+    },
+    {
+      "id": "posts_rallly_3_0_poll_status",
+      "label": "Poll Status",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/rallly-3-0.md",
+      "source_location": "L21"
+    },
+    {
+      "id": "posts_rallly_3_0_performance",
+      "label": "Performance",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/rallly-3-0.md",
+      "source_location": "L27"
+    },
+    {
+      "id": "posts_rallly_3_0_updated_scoring",
+      "label": "Updated Scoring",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/rallly-3-0.md",
+      "source_location": "L31"
+    },
+    {
+      "id": "posts_rallly_3_0_conclusion",
+      "label": "Conclusion",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/rallly-3-0.md",
+      "source_location": "L37"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_rallly_3_0_md",
+      "target": "posts_rallly_3_0_navigation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/rallly-3-0.md",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_rallly_3_0_md",
+      "target": "posts_rallly_3_0_polls_page",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/rallly-3-0.md",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_rallly_3_0_md",
+      "target": "posts_rallly_3_0_poll_status",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/rallly-3-0.md",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_rallly_3_0_md",
+      "target": "posts_rallly_3_0_performance",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/rallly-3-0.md",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_rallly_3_0_md",
+      "target": "posts_rallly_3_0_updated_scoring",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/rallly-3-0.md",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_rallly_3_0_md",
+      "target": "posts_rallly_3_0_conclusion",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/rallly-3-0.md",
+      "source_location": "L37",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

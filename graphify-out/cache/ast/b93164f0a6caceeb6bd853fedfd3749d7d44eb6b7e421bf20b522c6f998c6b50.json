@@ -1,0 +1,63 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_src_posts_security_update_react2shell_md",
+      "label": "security-update-react2shell.md",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/security-update-react2shell.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "posts_security_update_react2shell_timeline",
+      "label": "Timeline",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/security-update-react2shell.md",
+      "source_location": "L19"
+    },
+    {
+      "id": "posts_security_update_react2shell_action_required",
+      "label": "Action Required",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/security-update-react2shell.md",
+      "source_location": "L27"
+    },
+    {
+      "id": "posts_security_update_react2shell_additional_information",
+      "label": "Additional Information",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/security-update-react2shell.md",
+      "source_location": "L41"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_security_update_react2shell_md",
+      "target": "posts_security_update_react2shell_timeline",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/security-update-react2shell.md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_security_update_react2shell_md",
+      "target": "posts_security_update_react2shell_action_required",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/security-update-react2shell.md",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_security_update_react2shell_md",
+      "target": "posts_security_update_react2shell_additional_information",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/security-update-react2shell.md",
+      "source_location": "L41",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,429 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_skills_lock_json",
+      "label": "skills-lock.json",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "rallly_skills_lock_version",
+      "label": "version",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "rallly_skills_lock_skills",
+      "label": "skills",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "rallly_skills_lock_skills_better_auth_best_practices",
+      "label": "better-auth-best-practices",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "rallly_skills_lock_better_auth_best_practices_source",
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "rallly_skills_lock_better_auth_best_practices_sourcetype",
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "rallly_skills_lock_better_auth_best_practices_computedhash",
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "rallly_skills_lock_skills_better_auth_security_best_practices",
+      "label": "better-auth-security-best-practices",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "rallly_skills_lock_better_auth_security_best_practices_source",
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "rallly_skills_lock_better_auth_security_best_practices_sourcetype",
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "rallly_skills_lock_better_auth_security_best_practices_computedhash",
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "rallly_skills_lock_skills_create_auth_skill",
+      "label": "create-auth-skill",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "rallly_skills_lock_create_auth_skill_source",
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L15"
+    },
+    {
+      "id": "rallly_skills_lock_create_auth_skill_sourcetype",
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "rallly_skills_lock_create_auth_skill_computedhash",
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L17"
+    },
+    {
+      "id": "rallly_skills_lock_skills_email_and_password_best_practices",
+      "label": "email-and-password-best-practices",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "rallly_skills_lock_email_and_password_best_practices_source",
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "rallly_skills_lock_email_and_password_best_practices_sourcetype",
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L21"
+    },
+    {
+      "id": "rallly_skills_lock_email_and_password_best_practices_computedhash",
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "rallly_skills_lock_skills_organization_best_practices",
+      "label": "organization-best-practices",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "rallly_skills_lock_organization_best_practices_source",
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "rallly_skills_lock_organization_best_practices_sourcetype",
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L26"
+    },
+    {
+      "id": "rallly_skills_lock_organization_best_practices_computedhash",
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L27"
+    },
+    {
+      "id": "rallly_skills_lock_skills_two_factor_authentication_best_practices",
+      "label": "two-factor-authentication-best-practices",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L29"
+    },
+    {
+      "id": "rallly_skills_lock_two_factor_authentication_best_practices_source",
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L30"
+    },
+    {
+      "id": "rallly_skills_lock_two_factor_authentication_best_practices_sourcetype",
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L31"
+    },
+    {
+      "id": "rallly_skills_lock_two_factor_authentication_best_practices_computedhash",
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L32"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_skills_lock_json",
+      "target": "rallly_skills_lock_version",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_skills_lock_json",
+      "target": "rallly_skills_lock_skills",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills",
+      "target": "rallly_skills_lock_skills_better_auth_best_practices",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_better_auth_best_practices",
+      "target": "rallly_skills_lock_better_auth_best_practices_source",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_better_auth_best_practices",
+      "target": "rallly_skills_lock_better_auth_best_practices_sourcetype",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_better_auth_best_practices",
+      "target": "rallly_skills_lock_better_auth_best_practices_computedhash",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills",
+      "target": "rallly_skills_lock_skills_better_auth_security_best_practices",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_better_auth_security_best_practices",
+      "target": "rallly_skills_lock_better_auth_security_best_practices_source",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_better_auth_security_best_practices",
+      "target": "rallly_skills_lock_better_auth_security_best_practices_sourcetype",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_better_auth_security_best_practices",
+      "target": "rallly_skills_lock_better_auth_security_best_practices_computedhash",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills",
+      "target": "rallly_skills_lock_skills_create_auth_skill",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_create_auth_skill",
+      "target": "rallly_skills_lock_create_auth_skill_source",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_create_auth_skill",
+      "target": "rallly_skills_lock_create_auth_skill_sourcetype",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_create_auth_skill",
+      "target": "rallly_skills_lock_create_auth_skill_computedhash",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills",
+      "target": "rallly_skills_lock_skills_email_and_password_best_practices",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_email_and_password_best_practices",
+      "target": "rallly_skills_lock_email_and_password_best_practices_source",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_email_and_password_best_practices",
+      "target": "rallly_skills_lock_email_and_password_best_practices_sourcetype",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_email_and_password_best_practices",
+      "target": "rallly_skills_lock_email_and_password_best_practices_computedhash",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills",
+      "target": "rallly_skills_lock_skills_organization_best_practices",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_organization_best_practices",
+      "target": "rallly_skills_lock_organization_best_practices_source",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_organization_best_practices",
+      "target": "rallly_skills_lock_organization_best_practices_sourcetype",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_organization_best_practices",
+      "target": "rallly_skills_lock_organization_best_practices_computedhash",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills",
+      "target": "rallly_skills_lock_skills_two_factor_authentication_best_practices",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_two_factor_authentication_best_practices",
+      "target": "rallly_skills_lock_two_factor_authentication_best_practices_source",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_two_factor_authentication_best_practices",
+      "target": "rallly_skills_lock_two_factor_authentication_best_practices_sourcetype",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_skills_lock_skills_two_factor_authentication_best_practices",
+      "target": "rallly_skills_lock_two_factor_authentication_best_practices_computedhash",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L32",
+      "weight": 1.0
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_introduction_mdx",
+      "label": "introduction.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/introduction.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "docs_introduction_what_is_rallly",
+      "label": "What is Rallly?",
+      "file_type": "document",
+      "source_file": "apps/docs/introduction.mdx",
+      "source_location": "L11"
+    },
+    {
+      "id": "docs_introduction_what_is_a_scheduling_poll",
+      "label": "What is a Scheduling Poll?",
+      "file_type": "document",
+      "source_file": "apps/docs/introduction.mdx",
+      "source_location": "L22"
+    },
+    {
+      "id": "docs_introduction_individual_vs_team_usage",
+      "label": "Individual vs Team Usage",
+      "file_type": "document",
+      "source_file": "apps/docs/introduction.mdx",
+      "source_location": "L40"
+    },
+    {
+      "id": "docs_introduction_how_much_does_it_cost",
+      "label": "How much does it cost?",
+      "file_type": "document",
+      "source_file": "apps/docs/introduction.mdx",
+      "source_location": "L47"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_introduction_mdx",
+      "target": "docs_introduction_what_is_rallly",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/introduction.mdx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_introduction_mdx",
+      "target": "docs_introduction_what_is_a_scheduling_poll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/introduction.mdx",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_introduction_mdx",
+      "target": "docs_introduction_individual_vs_team_usage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/introduction.mdx",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_introduction_mdx",
+      "target": "docs_introduction_how_much_does_it_cost",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/introduction.mdx",
+      "source_location": "L47",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

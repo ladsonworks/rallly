@@ -1,0 +1,77 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_public_locales_fa_home_json",
+      "label": "home.json",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/fa/home.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "fa_home_startusongithub",
+      "label": "startUsOnGithub",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/fa/home.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "fa_home_nologinrequired",
+      "label": "noLoginRequired",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/fa/home.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "fa_home_metadescription",
+      "label": "metaDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/fa/home.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "fa_home_getstarted",
+      "label": "getStarted",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/fa/home.json",
+      "source_location": "L5"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_fa_home_json",
+      "target": "fa_home_startusongithub",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/fa/home.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_fa_home_json",
+      "target": "fa_home_nologinrequired",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/fa/home.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_fa_home_json",
+      "target": "fa_home_metadescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/fa/home.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_fa_home_json",
+      "target": "fa_home_getstarted",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/fa/home.json",
+      "source_location": "L5",
+      "weight": 1.0
+    }
+  ]
+}

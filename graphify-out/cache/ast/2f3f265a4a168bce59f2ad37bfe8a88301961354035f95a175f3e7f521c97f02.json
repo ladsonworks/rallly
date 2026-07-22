@@ -1,0 +1,175 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_self_hosting_configuration_mdx",
+      "label": "configuration.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "self_hosting_configuration_general",
+      "label": "General",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L13"
+    },
+    {
+      "id": "self_hosting_configuration_email_smtp",
+      "label": "Email (SMTP)",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L43"
+    },
+    {
+      "id": "self_hosting_configuration_auth",
+      "label": "Auth",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L77"
+    },
+    {
+      "id": "self_hosting_configuration_single_sign_on",
+      "label": "Single Sign-On",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L95"
+    },
+    {
+      "id": "self_hosting_configuration_branding",
+      "label": "Branding",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L99"
+    },
+    {
+      "id": "self_hosting_configuration_advanced",
+      "label": "Advanced",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L135"
+    },
+    {
+      "id": "self_hosting_configuration_external_reverse_proxy",
+      "label": "External reverse proxy",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L141"
+    },
+    {
+      "id": "self_hosting_configuration_external_database",
+      "label": "External database",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L153"
+    },
+    {
+      "id": "self_hosting_configuration_external_object_storage",
+      "label": "External object storage",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L161"
+    },
+    {
+      "id": "self_hosting_configuration_running_the_image_directly",
+      "label": "Running the image directly",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L185"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_configuration_mdx",
+      "target": "self_hosting_configuration_general",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_configuration_mdx",
+      "target": "self_hosting_configuration_email_smtp",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_configuration_mdx",
+      "target": "self_hosting_configuration_auth",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L77",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_configuration_auth",
+      "target": "self_hosting_configuration_single_sign_on",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L95",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_configuration_mdx",
+      "target": "self_hosting_configuration_branding",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L99",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_configuration_mdx",
+      "target": "self_hosting_configuration_advanced",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L135",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_configuration_advanced",
+      "target": "self_hosting_configuration_external_reverse_proxy",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L141",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_configuration_advanced",
+      "target": "self_hosting_configuration_external_database",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L153",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_configuration_advanced",
+      "target": "self_hosting_configuration_external_object_storage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L161",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_configuration_mdx",
+      "target": "self_hosting_configuration_running_the_image_directly",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/configuration.mdx",
+      "source_location": "L185",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

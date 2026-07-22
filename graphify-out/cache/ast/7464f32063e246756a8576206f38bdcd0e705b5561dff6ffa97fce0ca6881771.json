@@ -1,0 +1,175 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_self_hosting_migration_mdx",
+      "label": "migration.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "self_hosting_migration_before_you_begin",
+      "label": "Before you begin",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L12"
+    },
+    {
+      "id": "self_hosting_migration_step_1_save_your_secrets",
+      "label": "Step 1 \u2014 Save your secrets",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L18"
+    },
+    {
+      "id": "self_hosting_migration_step_2_back_up_the_database",
+      "label": "Step 2 \u2014 Back up the database",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L34"
+    },
+    {
+      "id": "self_hosting_migration_step_3_stop_the_old_stack",
+      "label": "Step 3 \u2014 Stop the old stack",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L48"
+    },
+    {
+      "id": "self_hosting_migration_step_4_install_the_new_stack",
+      "label": "Step 4 \u2014 Install the new stack",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L72"
+    },
+    {
+      "id": "self_hosting_migration_step_5_start_the_stack_and_restore_the_database",
+      "label": "Step 5 \u2014 Start the stack and restore the database",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L87"
+    },
+    {
+      "id": "self_hosting_migration_step_6_verify",
+      "label": "Step 6 \u2014 Verify",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L120"
+    },
+    {
+      "id": "self_hosting_migration_step_7_clean_up",
+      "label": "Step 7 \u2014 Clean up",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L130"
+    },
+    {
+      "id": "self_hosting_migration_what_doesn_t_carry_over",
+      "label": "What doesn't carry over",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L147"
+    },
+    {
+      "id": "self_hosting_migration_moving_to_a_different_server",
+      "label": "Moving to a different server",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L153"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_migration_mdx",
+      "target": "self_hosting_migration_before_you_begin",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_migration_mdx",
+      "target": "self_hosting_migration_step_1_save_your_secrets",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_migration_mdx",
+      "target": "self_hosting_migration_step_2_back_up_the_database",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_migration_mdx",
+      "target": "self_hosting_migration_step_3_stop_the_old_stack",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L48",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_migration_mdx",
+      "target": "self_hosting_migration_step_4_install_the_new_stack",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L72",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_migration_mdx",
+      "target": "self_hosting_migration_step_5_start_the_stack_and_restore_the_database",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L87",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_migration_mdx",
+      "target": "self_hosting_migration_step_6_verify",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L120",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_migration_mdx",
+      "target": "self_hosting_migration_step_7_clean_up",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L130",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_migration_mdx",
+      "target": "self_hosting_migration_what_doesn_t_carry_over",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L147",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_migration_mdx",
+      "target": "self_hosting_migration_moving_to_a_different_server",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/migration.mdx",
+      "source_location": "L153",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

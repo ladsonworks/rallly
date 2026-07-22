@@ -1,0 +1,63 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_src_posts_rallly_3_0_self_hosting_md",
+      "label": "rallly-3-0-self-hosting.md",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/rallly-3-0-self-hosting.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "posts_rallly_3_0_self_hosting_how_to_use",
+      "label": "How to use",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/rallly-3-0-self-hosting.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "posts_rallly_3_0_self_hosting_pricing",
+      "label": "Pricing",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/rallly-3-0-self-hosting.md",
+      "source_location": "L15"
+    },
+    {
+      "id": "posts_rallly_3_0_self_hosting_upgrading_from_2_x",
+      "label": "Upgrading from 2.x",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/rallly-3-0-self-hosting.md",
+      "source_location": "L19"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_rallly_3_0_self_hosting_md",
+      "target": "posts_rallly_3_0_self_hosting_how_to_use",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/rallly-3-0-self-hosting.md",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_rallly_3_0_self_hosting_md",
+      "target": "posts_rallly_3_0_self_hosting_pricing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/rallly-3-0-self-hosting.md",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_src_posts_rallly_3_0_self_hosting_md",
+      "target": "posts_rallly_3_0_self_hosting_upgrading_from_2_x",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/src/posts/rallly-3-0-self-hosting.md",
+      "source_location": "L19",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

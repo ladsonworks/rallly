@@ -1,0 +1,159 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_spaces_managing_seats_mdx",
+      "label": "managing-seats.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "spaces_managing_seats_what_are_seats",
+      "label": "What are Seats?",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L7"
+    },
+    {
+      "id": "spaces_managing_seats_accessing_seat_management",
+      "label": "Accessing Seat Management",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L17"
+    },
+    {
+      "id": "spaces_managing_seats_adding_seats",
+      "label": "Adding Seats",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L25"
+    },
+    {
+      "id": "spaces_managing_seats_removing_seats",
+      "label": "Removing Seats",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L51"
+    },
+    {
+      "id": "spaces_managing_seats_understanding_billing_impact",
+      "label": "Understanding Billing Impact",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L77"
+    },
+    {
+      "id": "spaces_managing_seats_when_you_add_seats",
+      "label": "When You Add Seats",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L79"
+    },
+    {
+      "id": "spaces_managing_seats_when_you_remove_seats",
+      "label": "When You Remove Seats",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L84"
+    },
+    {
+      "id": "spaces_managing_seats_common_scenarios",
+      "label": "Common Scenarios",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L89"
+    },
+    {
+      "id": "spaces_managing_seats_troubleshooting",
+      "label": "Troubleshooting",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L117"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_managing_seats_mdx",
+      "target": "spaces_managing_seats_what_are_seats",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_managing_seats_mdx",
+      "target": "spaces_managing_seats_accessing_seat_management",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_managing_seats_mdx",
+      "target": "spaces_managing_seats_adding_seats",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_managing_seats_mdx",
+      "target": "spaces_managing_seats_removing_seats",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_managing_seats_mdx",
+      "target": "spaces_managing_seats_understanding_billing_impact",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L77",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_managing_seats_understanding_billing_impact",
+      "target": "spaces_managing_seats_when_you_add_seats",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L79",
+      "weight": 1.0
+    },
+    {
+      "source": "spaces_managing_seats_understanding_billing_impact",
+      "target": "spaces_managing_seats_when_you_remove_seats",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L84",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_managing_seats_mdx",
+      "target": "spaces_managing_seats_common_scenarios",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L89",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_managing_seats_mdx",
+      "target": "spaces_managing_seats_troubleshooting",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/managing-seats.mdx",
+      "source_location": "L117",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

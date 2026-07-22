@@ -1,0 +1,415 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_claude_md",
+      "label": "CLAUDE.md",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "rallly_claude_claude_md",
+      "label": "CLAUDE.md",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "rallly_claude_project_overview",
+      "label": "Project Overview",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L5"
+    },
+    {
+      "id": "rallly_claude_development_commands",
+      "label": "Development Commands",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L18"
+    },
+    {
+      "id": "rallly_claude_getting_started",
+      "label": "Getting Started",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L20"
+    },
+    {
+      "id": "rallly_claude_common_commands",
+      "label": "Common Commands",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L42"
+    },
+    {
+      "id": "rallly_claude_architecture",
+      "label": "Architecture",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L74"
+    },
+    {
+      "id": "rallly_claude_monorepo_structure",
+      "label": "Monorepo Structure",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L76"
+    },
+    {
+      "id": "rallly_claude_key_features_structure",
+      "label": "Key Features & Structure",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L88"
+    },
+    {
+      "id": "rallly_claude_database",
+      "label": "Database",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L95"
+    },
+    {
+      "id": "rallly_claude_authentication_authorization",
+      "label": "Authentication & Authorization",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L100"
+    },
+    {
+      "id": "rallly_claude_deployment_modes",
+      "label": "Deployment Modes",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L105"
+    },
+    {
+      "id": "rallly_claude_testing",
+      "label": "Testing",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L110"
+    },
+    {
+      "id": "rallly_claude_integration_tests_playwright",
+      "label": "Integration Tests (Playwright)",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L112"
+    },
+    {
+      "id": "rallly_claude_unit_tests_vitest",
+      "label": "Unit Tests (Vitest)",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L118"
+    },
+    {
+      "id": "rallly_claude_git_commits",
+      "label": "Git Commits",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L122"
+    },
+    {
+      "id": "rallly_claude_code_standards",
+      "label": "Code Standards",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L125"
+    },
+    {
+      "id": "rallly_claude_styling",
+      "label": "Styling",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L127"
+    },
+    {
+      "id": "rallly_claude_state_management",
+      "label": "State Management",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L133"
+    },
+    {
+      "id": "rallly_claude_typescript_conventions",
+      "label": "TypeScript Conventions",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L138"
+    },
+    {
+      "id": "rallly_claude_dialog_management",
+      "label": "Dialog Management",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L146"
+    },
+    {
+      "id": "rallly_claude_component_conventions",
+      "label": "Component Conventions",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L160"
+    },
+    {
+      "id": "rallly_claude_file_organization",
+      "label": "File Organization",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L165"
+    },
+    {
+      "id": "rallly_claude_directory_structure_apps_web_src",
+      "label": "Directory Structure (apps/web/src)",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L169"
+    },
+    {
+      "id": "rallly_claude_posthog_event_naming",
+      "label": "PostHog Event Naming",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L200"
+    },
+    {
+      "id": "rallly_claude_i18n_localization",
+      "label": "i18n & Localization",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L208"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_claude_md",
+      "target": "rallly_claude_claude_md",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_claude_md",
+      "target": "rallly_claude_project_overview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_claude_md",
+      "target": "rallly_claude_development_commands",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_development_commands",
+      "target": "rallly_claude_getting_started",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_development_commands",
+      "target": "rallly_claude_common_commands",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_claude_md",
+      "target": "rallly_claude_architecture",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L74",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_architecture",
+      "target": "rallly_claude_monorepo_structure",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L76",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_architecture",
+      "target": "rallly_claude_key_features_structure",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L88",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_architecture",
+      "target": "rallly_claude_database",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L95",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_architecture",
+      "target": "rallly_claude_authentication_authorization",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L100",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_architecture",
+      "target": "rallly_claude_deployment_modes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L105",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_claude_md",
+      "target": "rallly_claude_testing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L110",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_testing",
+      "target": "rallly_claude_integration_tests_playwright",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L112",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_testing",
+      "target": "rallly_claude_unit_tests_vitest",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L118",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_claude_md",
+      "target": "rallly_claude_git_commits",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L122",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_claude_md",
+      "target": "rallly_claude_code_standards",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L125",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_code_standards",
+      "target": "rallly_claude_styling",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L127",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_code_standards",
+      "target": "rallly_claude_state_management",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L133",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_code_standards",
+      "target": "rallly_claude_typescript_conventions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L138",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_code_standards",
+      "target": "rallly_claude_dialog_management",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L146",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_code_standards",
+      "target": "rallly_claude_component_conventions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L160",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_code_standards",
+      "target": "rallly_claude_file_organization",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L165",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_code_standards",
+      "target": "rallly_claude_directory_structure_apps_web_src",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L169",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_code_standards",
+      "target": "rallly_claude_posthog_event_naming",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L200",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_claude_claude_md",
+      "target": "rallly_claude_i18n_localization",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L208",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

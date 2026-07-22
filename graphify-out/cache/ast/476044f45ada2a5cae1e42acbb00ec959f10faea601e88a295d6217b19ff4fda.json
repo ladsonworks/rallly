@@ -1,0 +1,103 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_packages_tsconfig_next_json",
+      "label": "next.json",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/next.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "tsconfig_next_schema",
+      "label": "$schema",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/next.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "tsconfig_next_display",
+      "label": "display",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/next.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "tsconfig_next_extends",
+      "label": "extends",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/next.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "tsconfig_next_compileroptions",
+      "label": "compilerOptions",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/next.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "tsconfig_next_compileroptions_verbatimmodulesyntax",
+      "label": "verbatimModuleSyntax",
+      "file_type": "code",
+      "source_file": "packages/tsconfig/next.json",
+      "source_location": "L6"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_packages_tsconfig_next_json",
+      "target": "tsconfig_next_schema",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/next.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_tsconfig_next_json",
+      "target": "tsconfig_next_display",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/next.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_tsconfig_next_json",
+      "target": "tsconfig_next_extends",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/next.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_tsconfig_next_json",
+      "target": "ref_tsconfig_next_tsconfig_json",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/next.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "d_ladson_rallly_packages_tsconfig_next_json",
+      "target": "tsconfig_next_compileroptions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/next.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "tsconfig_next_compileroptions",
+      "target": "tsconfig_next_compileroptions_verbatimmodulesyntax",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/tsconfig/next.json",
+      "source_location": "L6",
+      "weight": 1.0
+    }
+  ]
+}

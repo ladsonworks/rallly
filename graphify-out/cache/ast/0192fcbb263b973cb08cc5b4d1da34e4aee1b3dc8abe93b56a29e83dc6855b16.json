@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_contact_support_mdx",
+      "label": "support.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/contact/support.mdx",
+      "source_location": "L1"
+    }
+  ],
+  "edges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

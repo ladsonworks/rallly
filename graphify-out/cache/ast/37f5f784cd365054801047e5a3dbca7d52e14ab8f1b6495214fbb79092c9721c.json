@@ -1,0 +1,893 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "label": "emails.json",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "eu_emails_common_poweredby",
+      "label": "common_poweredBy",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "eu_emails_common_disablenotifications",
+      "label": "common_disableNotifications",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "eu_emails_finalizehost_content",
+      "label": "finalizeHost_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "eu_emails_finalizehost_preview",
+      "label": "finalizeHost_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "eu_emails_finalizehost_heading",
+      "label": "finalizeHost_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "eu_emails_finalizehost_content2",
+      "label": "finalizeHost_content2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "eu_emails_finalizehost_button",
+      "label": "finalizeHost_button",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "eu_emails_finalizehost_subject",
+      "label": "finalizeHost_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "eu_emails_finalizeparticipant_content",
+      "label": "finalizeParticipant_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "eu_emails_finalizeparticipant_preview",
+      "label": "finalizeParticipant_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "eu_emails_finalizeparticipant_heading",
+      "label": "finalizeParticipant_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "eu_emails_finalizeparticipant_content2",
+      "label": "finalizeParticipant_content2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "eu_emails_finalizeparticipant_subject",
+      "label": "finalizeParticipant_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "eu_emails_login_button",
+      "label": "login_button",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L15"
+    },
+    {
+      "id": "eu_emails_login_content2",
+      "label": "login_content2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "eu_emails_login_preview",
+      "label": "login_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L17"
+    },
+    {
+      "id": "eu_emails_login_heading",
+      "label": "login_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L18"
+    },
+    {
+      "id": "eu_emails_login_content",
+      "label": "login_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "eu_emails_login_codevalid",
+      "label": "login_codeValid",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "eu_emails_login_subject",
+      "label": "login_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L21"
+    },
+    {
+      "id": "eu_emails_newcomment_content",
+      "label": "newComment_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "eu_emails_newcomment_subject",
+      "label": "newComment_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L23"
+    },
+    {
+      "id": "eu_emails_newparticipantconfirmation_content",
+      "label": "newParticipantConfirmation_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "eu_emails_newparticipantconfirmation_content2",
+      "label": "newParticipantConfirmation_content2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "eu_emails_newparticipantconfirmation_button",
+      "label": "newParticipantConfirmation_button",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L26"
+    },
+    {
+      "id": "eu_emails_newparticipantconfirmation_footnote",
+      "label": "newParticipantConfirmation_footnote",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L27"
+    },
+    {
+      "id": "eu_emails_newparticipantconfirmation_preview",
+      "label": "newParticipantConfirmation_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L28"
+    },
+    {
+      "id": "eu_emails_newparticipantconfirmation_heading",
+      "label": "newParticipantConfirmation_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L29"
+    },
+    {
+      "id": "eu_emails_newparticipantconfirmation_subject",
+      "label": "newParticipantConfirmation_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L30"
+    },
+    {
+      "id": "eu_emails_newparticipant_content",
+      "label": "newParticipant_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L31"
+    },
+    {
+      "id": "eu_emails_newparticipant_content2",
+      "label": "newParticipant_content2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L32"
+    },
+    {
+      "id": "eu_emails_newparticipant_preview",
+      "label": "newParticipant_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L33"
+    },
+    {
+      "id": "eu_emails_newparticipant_heading",
+      "label": "newParticipant_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L34"
+    },
+    {
+      "id": "eu_emails_newparticipant_subject",
+      "label": "newParticipant_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L35"
+    },
+    {
+      "id": "eu_emails_newpoll_content",
+      "label": "newPoll_content",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L36"
+    },
+    {
+      "id": "eu_emails_newpoll_heading",
+      "label": "newPoll_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L37"
+    },
+    {
+      "id": "eu_emails_newpoll_button",
+      "label": "newPoll_button",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L38"
+    },
+    {
+      "id": "eu_emails_newpoll_subject",
+      "label": "newPoll_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L39"
+    },
+    {
+      "id": "eu_emails_register_footer",
+      "label": "register_footer",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L40"
+    },
+    {
+      "id": "eu_emails_register_preview",
+      "label": "register_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L41"
+    },
+    {
+      "id": "eu_emails_register_heading",
+      "label": "register_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L42"
+    },
+    {
+      "id": "eu_emails_register_text",
+      "label": "register_text",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L43"
+    },
+    {
+      "id": "eu_emails_register_codevalid",
+      "label": "register_codeValid",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L44"
+    },
+    {
+      "id": "eu_emails_register_subject",
+      "label": "register_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L45"
+    },
+    {
+      "id": "eu_emails_common_viewon",
+      "label": "common_viewOn",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L46"
+    },
+    {
+      "id": "eu_emails_newcomment_preview",
+      "label": "newComment_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L47"
+    },
+    {
+      "id": "eu_emails_newcomment_heading",
+      "label": "newComment_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L48"
+    },
+    {
+      "id": "eu_emails_newpoll_preview",
+      "label": "newPoll_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L49"
+    },
+    {
+      "id": "eu_emails_changeemailrequest_preview",
+      "label": "changeEmailRequest_preview",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L50"
+    },
+    {
+      "id": "eu_emails_changeemailrequest_heading",
+      "label": "changeEmailRequest_heading",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L51"
+    },
+    {
+      "id": "eu_emails_changeemailrequest_text2",
+      "label": "changeEmailRequest_text2",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L52"
+    },
+    {
+      "id": "eu_emails_changeemailrequest_button",
+      "label": "changeEmailRequest_button",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L53"
+    },
+    {
+      "id": "eu_emails_changeemailrequest_subject",
+      "label": "changeEmailRequest_subject",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L54"
+    },
+    {
+      "id": "eu_emails_changeemailrequest_text3",
+      "label": "changeEmailRequest_text3",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L55"
+    },
+    {
+      "id": "eu_emails_changeemailrequest_text1",
+      "label": "changeEmailRequest_text1",
+      "file_type": "code",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L56"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_common_poweredby",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_common_disablenotifications",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_finalizehost_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_finalizehost_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_finalizehost_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_finalizehost_content2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_finalizehost_button",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_finalizehost_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_finalizeparticipant_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_finalizeparticipant_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_finalizeparticipant_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_finalizeparticipant_content2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_finalizeparticipant_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_login_button",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_login_content2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_login_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_login_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_login_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_login_codevalid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_login_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newcomment_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newcomment_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newparticipantconfirmation_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newparticipantconfirmation_content2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newparticipantconfirmation_button",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newparticipantconfirmation_footnote",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newparticipantconfirmation_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newparticipantconfirmation_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newparticipantconfirmation_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newparticipant_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newparticipant_content2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newparticipant_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newparticipant_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newparticipant_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newpoll_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newpoll_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newpoll_button",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newpoll_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_register_footer",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_register_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_register_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_register_text",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_register_codevalid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_register_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_common_viewon",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newcomment_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newcomment_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L48",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_newpoll_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L49",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_changeemailrequest_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_changeemailrequest_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_changeemailrequest_text2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L52",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_changeemailrequest_button",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L53",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_changeemailrequest_subject",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_changeemailrequest_text3",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_locales_eu_emails_json",
+      "target": "eu_emails_changeemailrequest_text1",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/locales/eu/emails.json",
+      "source_location": "L56",
+      "weight": 1.0
+    }
+  ]
+}

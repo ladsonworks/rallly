@@ -1,0 +1,541 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "label": "home.json",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "tr_home_createpagelikethis",
+      "label": "createPageLikeThis",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "tr_home_nologinrequired",
+      "label": "noLoginRequired",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "tr_home_pcmagquote",
+      "label": "pcmagQuote",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "tr_home_hubspotquote",
+      "label": "hubspotQuote",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "tr_home_goodfirmsquote",
+      "label": "goodfirmsQuote",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "tr_home_popsciquote",
+      "label": "popsciQuote",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "tr_home_ericquote",
+      "label": "ericQuote",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "tr_home_viatrustpilot",
+      "label": "viaTrustpilot",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "tr_home_ericjobtitle",
+      "label": "ericJobTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "tr_home_statsusersregistered",
+      "label": "statsUsersRegistered",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "tr_home_statspollscreated",
+      "label": "statsPollsCreated",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "tr_home_statslanguagessupported",
+      "label": "statsLanguagesSupported",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "tr_home_hint",
+      "label": "hint",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "tr_home_doodlealternative",
+      "label": "doodleAlternative",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L15"
+    },
+    {
+      "id": "tr_home_doodlealternativedescription",
+      "label": "doodleAlternativeDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "tr_home_availabilitypollcta",
+      "label": "availabilityPollCta",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L17"
+    },
+    {
+      "id": "tr_home_availabilitypollmetatitle",
+      "label": "availabilityPollMetaTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L18"
+    },
+    {
+      "id": "tr_home_availabilitypollmetadescription",
+      "label": "availabilityPollMetaDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "tr_home_availabilitypolltitle",
+      "label": "availabilityPollTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "tr_home_availabilitypolldescription",
+      "label": "availabilityPollDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L21"
+    },
+    {
+      "id": "tr_home_createapoll",
+      "label": "createAPoll",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "tr_home_doodlealternativemetatitle",
+      "label": "doodleAlternativeMetaTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L23"
+    },
+    {
+      "id": "tr_home_doodlealternativemetadescription",
+      "label": "doodleAlternativeMetaDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "tr_home_createaschedulingpoll",
+      "label": "createASchedulingPoll",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "tr_home_freeschedulingpollmetadescription",
+      "label": "freeSchedulingPollMetaDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L26"
+    },
+    {
+      "id": "tr_home_freeschedulingpolltitle",
+      "label": "freeSchedulingPollTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L27"
+    },
+    {
+      "id": "tr_home_freeschedulingpolldescription",
+      "label": "freeSchedulingPollDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L28"
+    },
+    {
+      "id": "tr_home_new",
+      "label": "new",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L29"
+    },
+    {
+      "id": "tr_home_metatitle",
+      "label": "metaTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L30"
+    },
+    {
+      "id": "tr_home_metadescription",
+      "label": "metaDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L31"
+    },
+    {
+      "id": "tr_home_when2meetalternativemetatitle",
+      "label": "when2meetAlternativeMetaTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L32"
+    },
+    {
+      "id": "tr_home_when2meetalternative",
+      "label": "when2meetAlternative",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L33"
+    },
+    {
+      "id": "tr_home_meetingpollmetatitle",
+      "label": "meetingPollMetaTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L34"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_createpagelikethis",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_nologinrequired",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_pcmagquote",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_hubspotquote",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_goodfirmsquote",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_popsciquote",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_ericquote",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_viatrustpilot",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_ericjobtitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_statsusersregistered",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_statspollscreated",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_statslanguagessupported",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_hint",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_doodlealternative",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_doodlealternativedescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_availabilitypollcta",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_availabilitypollmetatitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_availabilitypollmetadescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_availabilitypolltitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_availabilitypolldescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_createapoll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_doodlealternativemetatitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_doodlealternativemetadescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_createaschedulingpoll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_freeschedulingpollmetadescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_freeschedulingpolltitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_freeschedulingpolldescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_new",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_metatitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_metadescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_when2meetalternativemetatitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_when2meetalternative",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_tr_home_json",
+      "target": "tr_home_meetingpollmetatitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/tr/home.json",
+      "source_location": "L34",
+      "weight": 1.0
+    }
+  ]
+}

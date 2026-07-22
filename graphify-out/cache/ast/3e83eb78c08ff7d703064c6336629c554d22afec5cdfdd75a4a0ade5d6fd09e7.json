@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_web_public_locales_th_app_json",
+      "label": "app.json",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "th_app_login",
+      "label": "login",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "th_app_common_language",
+      "label": "common_language",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "th_app_common_support",
+      "label": "common_support",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "th_app_errors_notfoundtitle",
+      "label": "errors_notFoundTitle",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "th_app_errors_notfounddescription",
+      "label": "errors_notFoundDescription",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "th_app_errors_gotohome",
+      "label": "errors_goToHome",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "th_app_language",
+      "label": "language",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "th_app_support",
+      "label": "support",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "th_app_pricing",
+      "label": "pricing",
+      "file_type": "code",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L10"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_th_app_json",
+      "target": "th_app_login",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_th_app_json",
+      "target": "th_app_common_language",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_th_app_json",
+      "target": "th_app_common_support",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_th_app_json",
+      "target": "th_app_errors_notfoundtitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_th_app_json",
+      "target": "th_app_errors_notfounddescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_th_app_json",
+      "target": "th_app_errors_gotohome",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_th_app_json",
+      "target": "th_app_language",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_th_app_json",
+      "target": "th_app_support",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_web_public_locales_th_app_json",
+      "target": "th_app_pricing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/public/locales/th/app.json",
+      "source_location": "L10",
+      "weight": 1.0
+    }
+  ]
+}

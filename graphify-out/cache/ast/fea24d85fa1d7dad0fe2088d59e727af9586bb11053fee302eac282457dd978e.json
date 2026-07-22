@@ -1,0 +1,63 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_contribute_donations_mdx",
+      "label": "donations.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/donations.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "contribute_donations_why_should_i_donate",
+      "label": "Why should I donate?",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/donations.mdx",
+      "source_location": "L7"
+    },
+    {
+      "id": "contribute_donations_how_can_i_donate",
+      "label": "How can I donate?",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/donations.mdx",
+      "source_location": "L13"
+    },
+    {
+      "id": "contribute_donations_what_will_my_donation_be_used_for",
+      "label": "What will my donation be used for?",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/donations.mdx",
+      "source_location": "L35"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_contribute_donations_mdx",
+      "target": "contribute_donations_why_should_i_donate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/contribute/donations.mdx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_contribute_donations_mdx",
+      "target": "contribute_donations_how_can_i_donate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/contribute/donations.mdx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_contribute_donations_mdx",
+      "target": "contribute_donations_what_will_my_donation_be_used_for",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/contribute/donations.mdx",
+      "source_location": "L35",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

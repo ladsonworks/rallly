@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_src_posts_introducing_quick_create_md",
+      "label": "introducing-quick-create.md",
+      "file_type": "document",
+      "source_file": "apps/landing/src/posts/introducing-quick-create.md",
+      "source_location": "L1"
+    }
+  ],
+  "edges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

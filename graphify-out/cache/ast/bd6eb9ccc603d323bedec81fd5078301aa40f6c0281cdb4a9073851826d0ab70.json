@@ -1,0 +1,541 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "label": "home.json",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "de_home_createapoll",
+      "label": "createAPoll",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "de_home_createaschedulingpoll",
+      "label": "createASchedulingPoll",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "de_home_createpagelikethis",
+      "label": "createPageLikeThis",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "de_home_custombrandingblog",
+      "label": "customBrandingBlog",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "de_home_doodlealternative",
+      "label": "doodleAlternative",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "de_home_doodlealternativedescription",
+      "label": "doodleAlternativeDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "de_home_doodlealternativemetadescription",
+      "label": "doodleAlternativeMetaDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "de_home_doodlealternativemetatitle",
+      "label": "doodleAlternativeMetaTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "de_home_ericjobtitle",
+      "label": "ericJobTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "de_home_ericquote",
+      "label": "ericQuote",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "de_home_freeschedulingpolldescription",
+      "label": "freeSchedulingPollDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "de_home_freeschedulingpollmetadescription",
+      "label": "freeSchedulingPollMetaDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "de_home_freeschedulingpollmetatitle",
+      "label": "freeSchedulingPollMetaTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "de_home_freeschedulingpolltitle",
+      "label": "freeSchedulingPollTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L15"
+    },
+    {
+      "id": "de_home_goodfirmsquote",
+      "label": "goodfirmsQuote",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "de_home_headline",
+      "label": "headline",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L17"
+    },
+    {
+      "id": "de_home_hint",
+      "label": "hint",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L18"
+    },
+    {
+      "id": "de_home_hubspotquote",
+      "label": "hubspotQuote",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "de_home_metadescription",
+      "label": "metaDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "de_home_metatitle",
+      "label": "metaTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L21"
+    },
+    {
+      "id": "de_home_new",
+      "label": "new",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "de_home_nologinrequired",
+      "label": "noLoginRequired",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L23"
+    },
+    {
+      "id": "de_home_pcmagquote",
+      "label": "pcmagQuote",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "de_home_popsciquote",
+      "label": "popsciQuote",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "de_home_statslanguagessupported",
+      "label": "statsLanguagesSupported",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L26"
+    },
+    {
+      "id": "de_home_statspollscreated",
+      "label": "statsPollsCreated",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L27"
+    },
+    {
+      "id": "de_home_statsusersregistered",
+      "label": "statsUsersRegistered",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L28"
+    },
+    {
+      "id": "de_home_subheading",
+      "label": "subheading",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L29"
+    },
+    {
+      "id": "de_home_viatrustpilot",
+      "label": "viaTrustpilot",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L30"
+    },
+    {
+      "id": "de_home_when2meetalternative",
+      "label": "when2meetAlternative",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L31"
+    },
+    {
+      "id": "de_home_when2meetalternativedescription",
+      "label": "when2meetAlternativeDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L32"
+    },
+    {
+      "id": "de_home_when2meetalternativemetadescription",
+      "label": "when2meetAlternativeMetaDescription",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L33"
+    },
+    {
+      "id": "de_home_when2meetalternativemetatitle",
+      "label": "when2meetAlternativeMetaTitle",
+      "file_type": "code",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L34"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_createapoll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_createaschedulingpoll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_createpagelikethis",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_custombrandingblog",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_doodlealternative",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_doodlealternativedescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_doodlealternativemetadescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_doodlealternativemetatitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_ericjobtitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_ericquote",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_freeschedulingpolldescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_freeschedulingpollmetadescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_freeschedulingpollmetatitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_freeschedulingpolltitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_goodfirmsquote",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_headline",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_hint",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_hubspotquote",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_metadescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_metatitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_new",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_nologinrequired",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_pcmagquote",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_popsciquote",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_statslanguagessupported",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_statspollscreated",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_statsusersregistered",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_subheading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_viatrustpilot",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_when2meetalternative",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_when2meetalternativedescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_when2meetalternativemetadescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_landing_public_locales_de_home_json",
+      "target": "de_home_when2meetalternativemetatitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/landing/public/locales/de/home.json",
+      "source_location": "L34",
+      "weight": 1.0
+    }
+  ]
+}

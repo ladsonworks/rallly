@@ -1,0 +1,47 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_guide_content_moderation_mdx",
+      "label": "content-moderation.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/guide/content-moderation.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "guide_content_moderation_what_happens_if_my_content_is_flagged",
+      "label": "What happens if my content is flagged?",
+      "file_type": "document",
+      "source_file": "apps/docs/guide/content-moderation.mdx",
+      "source_location": "L11"
+    },
+    {
+      "id": "guide_content_moderation_my_content_was_flagged_by_mistake",
+      "label": "My content was flagged by mistake",
+      "file_type": "document",
+      "source_file": "apps/docs/guide/content-moderation.mdx",
+      "source_location": "L17"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_guide_content_moderation_mdx",
+      "target": "guide_content_moderation_what_happens_if_my_content_is_flagged",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/guide/content-moderation.mdx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_guide_content_moderation_mdx",
+      "target": "guide_content_moderation_my_content_was_flagged_by_mistake",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/guide/content-moderation.mdx",
+      "source_location": "L17",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

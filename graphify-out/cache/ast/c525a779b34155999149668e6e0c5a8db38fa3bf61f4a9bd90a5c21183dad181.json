@@ -1,0 +1,63 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_spaces_introduction_mdx",
+      "label": "introduction.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/introduction.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "spaces_introduction_what_are_spaces",
+      "label": "What are Spaces?",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/introduction.mdx",
+      "source_location": "L7"
+    },
+    {
+      "id": "spaces_introduction_how_spaces_work",
+      "label": "How Spaces Work",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/introduction.mdx",
+      "source_location": "L18"
+    },
+    {
+      "id": "spaces_introduction_getting_started",
+      "label": "Getting Started",
+      "file_type": "document",
+      "source_file": "apps/docs/spaces/introduction.mdx",
+      "source_location": "L29"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_introduction_mdx",
+      "target": "spaces_introduction_what_are_spaces",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/introduction.mdx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_introduction_mdx",
+      "target": "spaces_introduction_how_spaces_work",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/introduction.mdx",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_spaces_introduction_mdx",
+      "target": "spaces_introduction_getting_started",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/spaces/introduction.mdx",
+      "source_location": "L29",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

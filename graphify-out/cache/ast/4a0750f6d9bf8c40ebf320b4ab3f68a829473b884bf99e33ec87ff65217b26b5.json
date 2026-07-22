@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_agents_skills_logging_skill_md",
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/logging/SKILL.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "logging_skill_logging_guidelines",
+      "label": "Logging Guidelines",
+      "file_type": "document",
+      "source_file": ".agents/skills/logging/SKILL.md",
+      "source_location": "L7"
+    },
+    {
+      "id": "logging_skill_core_principle",
+      "label": "Core Principle",
+      "file_type": "document",
+      "source_file": ".agents/skills/logging/SKILL.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "logging_skill_wide_event_structure",
+      "label": "Wide Event Structure",
+      "file_type": "document",
+      "source_file": ".agents/skills/logging/SKILL.md",
+      "source_location": "L18"
+    },
+    {
+      "id": "logging_skill_implementation_pattern",
+      "label": "Implementation Pattern",
+      "file_type": "document",
+      "source_file": ".agents/skills/logging/SKILL.md",
+      "source_location": "L57"
+    },
+    {
+      "id": "logging_skill_anti_patterns",
+      "label": "Anti-Patterns",
+      "file_type": "document",
+      "source_file": ".agents/skills/logging/SKILL.md",
+      "source_location": "L66"
+    },
+    {
+      "id": "logging_skill_tail_sampling",
+      "label": "Tail Sampling",
+      "file_type": "document",
+      "source_file": ".agents/skills/logging/SKILL.md",
+      "source_location": "L102"
+    },
+    {
+      "id": "logging_skill_high_cardinality_data",
+      "label": "High-Cardinality Data",
+      "file_type": "document",
+      "source_file": ".agents/skills/logging/SKILL.md",
+      "source_location": "L114"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_agents_skills_logging_skill_md",
+      "target": "logging_skill_logging_guidelines",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/logging/SKILL.md",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "logging_skill_logging_guidelines",
+      "target": "logging_skill_core_principle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/logging/SKILL.md",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "logging_skill_logging_guidelines",
+      "target": "logging_skill_wide_event_structure",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/logging/SKILL.md",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "logging_skill_logging_guidelines",
+      "target": "logging_skill_implementation_pattern",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/logging/SKILL.md",
+      "source_location": "L57",
+      "weight": 1.0
+    },
+    {
+      "source": "logging_skill_logging_guidelines",
+      "target": "logging_skill_anti_patterns",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/logging/SKILL.md",
+      "source_location": "L66",
+      "weight": 1.0
+    },
+    {
+      "source": "logging_skill_logging_guidelines",
+      "target": "logging_skill_tail_sampling",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/logging/SKILL.md",
+      "source_location": "L102",
+      "weight": 1.0
+    },
+    {
+      "source": "logging_skill_logging_guidelines",
+      "target": "logging_skill_high_cardinality_data",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/logging/SKILL.md",
+      "source_location": "L114",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

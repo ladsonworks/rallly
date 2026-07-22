@@ -1,0 +1,699 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_packages_emails_package_json",
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "emails_package_name",
+      "label": "name",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "emails_package_version",
+      "label": "version",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "emails_package_private",
+      "label": "private",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "emails_package_scripts",
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "emails_package_scripts_dev",
+      "label": "dev",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "emails_package_scripts_type_check",
+      "label": "type-check",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "emails_package_scripts_i18n_scan",
+      "label": "i18n:scan",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "emails_package_exports",
+      "label": "exports",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "emails_package_exports_templates",
+      "label": "./templates/*",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "emails_package_exports_locales",
+      "label": "./locales/*",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "emails_package_dependencies",
+      "label": "dependencies",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L15"
+    },
+    {
+      "id": "emails_package_dependencies_aws_sdk_client_ses",
+      "label": "@aws-sdk/client-ses",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "emails_package_dependencies_aws_sdk_credential_provider_node",
+      "label": "@aws-sdk/credential-provider-node",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L17"
+    },
+    {
+      "id": "emails_package_dependencies_rallly_logger",
+      "label": "@rallly/logger",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L18"
+    },
+    {
+      "id": "emails_package_dependencies_rallly_utils",
+      "label": "@rallly/utils",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "emails_package_dependencies_react_email_components",
+      "label": "@react-email/components",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "emails_package_dependencies_react_email_render",
+      "label": "@react-email/render",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L21"
+    },
+    {
+      "id": "emails_package_dependencies_i18next",
+      "label": "i18next",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "emails_package_dependencies_i18next_icu",
+      "label": "i18next-icu",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L23"
+    },
+    {
+      "id": "emails_package_dependencies_i18next_resources_to_backend",
+      "label": "i18next-resources-to-backend",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "emails_package_dependencies_nodemailer",
+      "label": "nodemailer",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "emails_package_dependencies_react",
+      "label": "react",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L26"
+    },
+    {
+      "id": "emails_package_dependencies_react_dom",
+      "label": "react-dom",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L27"
+    },
+    {
+      "id": "emails_package_dependencies_react_i18next",
+      "label": "react-i18next",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L28"
+    },
+    {
+      "id": "emails_package_devdependencies",
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L30"
+    },
+    {
+      "id": "emails_package_devdependencies_rallly_tailwind_config",
+      "label": "@rallly/tailwind-config",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L31"
+    },
+    {
+      "id": "emails_package_devdependencies_rallly_tsconfig",
+      "label": "@rallly/tsconfig",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L32"
+    },
+    {
+      "id": "emails_package_devdependencies_react_email_ui",
+      "label": "@react-email/ui",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L33"
+    },
+    {
+      "id": "emails_package_devdependencies_types_nodemailer",
+      "label": "@types/nodemailer",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L34"
+    },
+    {
+      "id": "emails_package_devdependencies_i18next_cli",
+      "label": "i18next-cli",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L35"
+    },
+    {
+      "id": "emails_package_devdependencies_react_email",
+      "label": "react-email",
+      "file_type": "code",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L36"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_packages_emails_package_json",
+      "target": "emails_package_name",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_package_json",
+      "target": "emails_package_version",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_package_json",
+      "target": "emails_package_private",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_package_json",
+      "target": "emails_package_scripts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_scripts",
+      "target": "emails_package_scripts_dev",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_scripts",
+      "target": "emails_package_scripts_type_check",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_scripts",
+      "target": "emails_package_scripts_i18n_scan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_package_json",
+      "target": "emails_package_exports",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_exports",
+      "target": "emails_package_exports_templates",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_exports",
+      "target": "emails_package_exports_locales",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_package_json",
+      "target": "emails_package_dependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_dependencies",
+      "target": "emails_package_dependencies_aws_sdk_client_ses",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_dependencies_aws_sdk_client_ses",
+      "target": "aws_sdk_client_ses",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_dependencies",
+      "target": "emails_package_dependencies_aws_sdk_credential_provider_node",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_dependencies_aws_sdk_credential_provider_node",
+      "target": "aws_sdk_credential_provider_node",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_dependencies",
+      "target": "emails_package_dependencies_rallly_logger",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_dependencies_rallly_logger",
+      "target": "rallly_logger",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_dependencies",
+      "target": "emails_package_dependencies_rallly_utils",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_dependencies_rallly_utils",
+      "target": "rallly_utils",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_dependencies",
+      "target": "emails_package_dependencies_react_email_components",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_dependencies_react_email_components",
+      "target": "react_email_components",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_dependencies",
+      "target": "emails_package_dependencies_react_email_render",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_dependencies_react_email_render",
+      "target": "react_email_render",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_dependencies",
+      "target": "emails_package_dependencies_i18next",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_dependencies_i18next",
+      "target": "i18next",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_dependencies",
+      "target": "emails_package_dependencies_i18next_icu",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_dependencies_i18next_icu",
+      "target": "i18next_icu",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_dependencies",
+      "target": "emails_package_dependencies_i18next_resources_to_backend",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_dependencies_i18next_resources_to_backend",
+      "target": "i18next_resources_to_backend",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_dependencies",
+      "target": "emails_package_dependencies_nodemailer",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_dependencies_nodemailer",
+      "target": "nodemailer",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_dependencies",
+      "target": "emails_package_dependencies_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_dependencies_react",
+      "target": "react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L26",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_dependencies",
+      "target": "emails_package_dependencies_react_dom",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_dependencies_react_dom",
+      "target": "react_dom",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L27",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_dependencies",
+      "target": "emails_package_dependencies_react_i18next",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_dependencies_react_i18next",
+      "target": "react_i18next",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "d_ladson_rallly_packages_emails_package_json",
+      "target": "emails_package_devdependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_devdependencies",
+      "target": "emails_package_devdependencies_rallly_tailwind_config",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_devdependencies_rallly_tailwind_config",
+      "target": "rallly_tailwind_config",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L31",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_devdependencies",
+      "target": "emails_package_devdependencies_rallly_tsconfig",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_devdependencies_rallly_tsconfig",
+      "target": "rallly_tsconfig",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L32",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_devdependencies",
+      "target": "emails_package_devdependencies_react_email_ui",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_devdependencies_react_email_ui",
+      "target": "react_email_ui",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L33",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_devdependencies",
+      "target": "emails_package_devdependencies_types_nodemailer",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_devdependencies_types_nodemailer",
+      "target": "types_nodemailer",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L34",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_devdependencies",
+      "target": "emails_package_devdependencies_i18next_cli",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_devdependencies_i18next_cli",
+      "target": "i18next_cli",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L35",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "emails_package_devdependencies",
+      "target": "emails_package_devdependencies_react_email",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "emails_package_devdependencies_react_email",
+      "target": "react_email",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/emails/package.json",
+      "source_location": "L36",
+      "weight": 1.0,
+      "context": "import"
+    }
+  ]
+}

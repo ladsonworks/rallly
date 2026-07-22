@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_contribute_introduction_mdx",
+      "label": "introduction.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/contribute/introduction.mdx",
+      "source_location": "L1"
+    }
+  ],
+  "edges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

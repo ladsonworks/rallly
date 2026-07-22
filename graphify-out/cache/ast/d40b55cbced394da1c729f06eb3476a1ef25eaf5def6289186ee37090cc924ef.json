@@ -1,0 +1,1535 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_turbo_json",
+      "label": "turbo.json",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "rallly_turbo_schema",
+      "label": "$schema",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "rallly_turbo_globaldependencies",
+      "label": "globalDependencies",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "rallly_turbo_tasks",
+      "label": "tasks",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "rallly_turbo_tasks_build",
+      "label": "build",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "rallly_turbo_build_dependson",
+      "label": "dependsOn",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "rallly_turbo_build_outputs",
+      "label": "outputs",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "rallly_turbo_tasks_build_test",
+      "label": "build:test",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "rallly_turbo_build_test_dependson",
+      "label": "dependsOn",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "rallly_turbo_build_test_inputs",
+      "label": "inputs",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "rallly_turbo_build_test_outputs",
+      "label": "outputs",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "rallly_turbo_tasks_test",
+      "label": "test",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "rallly_turbo_test_inputs",
+      "label": "inputs",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L15"
+    },
+    {
+      "id": "rallly_turbo_test_env",
+      "label": "env",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "rallly_turbo_test_dependson",
+      "label": "dependsOn",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L17"
+    },
+    {
+      "id": "rallly_turbo_tasks_test_unit",
+      "label": "test:unit",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "rallly_turbo_test_unit_cache",
+      "label": "cache",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "rallly_turbo_tasks_test_integration",
+      "label": "test:integration",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "rallly_turbo_test_integration_inputs",
+      "label": "inputs",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L23"
+    },
+    {
+      "id": "rallly_turbo_test_integration_cache",
+      "label": "cache",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "rallly_turbo_tasks_db_generate",
+      "label": "db:generate",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L26"
+    },
+    {
+      "id": "rallly_turbo_db_generate_cache",
+      "label": "cache",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L27"
+    },
+    {
+      "id": "rallly_turbo_tasks_db_migrate",
+      "label": "db:migrate",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L29"
+    },
+    {
+      "id": "rallly_turbo_db_migrate_cache",
+      "label": "cache",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L30"
+    },
+    {
+      "id": "rallly_turbo_tasks_db_deploy",
+      "label": "db:deploy",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L32"
+    },
+    {
+      "id": "rallly_turbo_db_deploy_cache",
+      "label": "cache",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L33"
+    },
+    {
+      "id": "rallly_turbo_tasks_type_check",
+      "label": "type-check",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L35"
+    },
+    {
+      "id": "rallly_turbo_type_check_dependson",
+      "label": "dependsOn",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L36"
+    },
+    {
+      "id": "rallly_turbo_type_check_outputs",
+      "label": "outputs",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L37"
+    },
+    {
+      "id": "rallly_turbo_tasks_dev",
+      "label": "dev",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L39"
+    },
+    {
+      "id": "rallly_turbo_dev_dependson",
+      "label": "dependsOn",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L40"
+    },
+    {
+      "id": "rallly_turbo_dev_cache",
+      "label": "cache",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L41"
+    },
+    {
+      "id": "rallly_turbo_dev_persistent",
+      "label": "persistent",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L42"
+    },
+    {
+      "id": "rallly_turbo_tasks_start",
+      "label": "start",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L44"
+    },
+    {
+      "id": "rallly_turbo_start_cache",
+      "label": "cache",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L45"
+    },
+    {
+      "id": "rallly_turbo_start_persistent",
+      "label": "persistent",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L46"
+    },
+    {
+      "id": "rallly_turbo_tasks_rallly_web_start",
+      "label": "@rallly/web#start",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L48"
+    },
+    {
+      "id": "rallly_turbo_rallly_web_start_cache",
+      "label": "cache",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L49"
+    },
+    {
+      "id": "rallly_turbo_rallly_web_start_persistent",
+      "label": "persistent",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L50"
+    },
+    {
+      "id": "rallly_turbo_tasks_rallly_landing_start",
+      "label": "@rallly/landing#start",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L52"
+    },
+    {
+      "id": "rallly_turbo_rallly_landing_start_cache",
+      "label": "cache",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L53"
+    },
+    {
+      "id": "rallly_turbo_rallly_landing_start_persistent",
+      "label": "persistent",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L54"
+    },
+    {
+      "id": "rallly_turbo_tasks_i18n_scan",
+      "label": "i18n:scan",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L56"
+    },
+    {
+      "id": "rallly_turbo_i18n_scan_cache",
+      "label": "cache",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L57"
+    },
+    {
+      "id": "rallly_turbo_tasks_check",
+      "label": "//#check",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L59"
+    },
+    {
+      "id": "rallly_turbo_tasks_check_fix",
+      "label": "//#check:fix",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L60"
+    },
+    {
+      "id": "rallly_turbo_check_fix_cache",
+      "label": "cache",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L61"
+    },
+    {
+      "id": "rallly_turbo_globalenv",
+      "label": "globalEnv",
+      "file_type": "code",
+      "source_file": "turbo.json",
+      "source_location": "L64"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_turbo_json",
+      "target": "rallly_turbo_schema",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_turbo_json",
+      "target": "rallly_turbo_globaldependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_globaldependencies",
+      "target": "ref_env",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "d_ladson_rallly_turbo_json",
+      "target": "rallly_turbo_tasks",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_build",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_build",
+      "target": "rallly_turbo_build_dependson",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_build_dependson",
+      "target": "ref_build",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_build_dependson",
+      "target": "ref_db_generate",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_tasks_build",
+      "target": "rallly_turbo_build_outputs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_build_outputs",
+      "target": "ref_next",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_build_outputs",
+      "target": "ref_next_cache",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_build_outputs",
+      "target": "ref_dist",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_build_test",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_build_test",
+      "target": "rallly_turbo_build_test_dependson",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_build_test_dependson",
+      "target": "ref_build",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_tasks_build_test",
+      "target": "rallly_turbo_build_test_inputs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_build_test_inputs",
+      "target": "ref_src",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_build_test_inputs",
+      "target": "ref_tests",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_tasks_build_test",
+      "target": "rallly_turbo_build_test_outputs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_build_test_outputs",
+      "target": "ref_next",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_build_test_outputs",
+      "target": "ref_next_cache",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_build_test_outputs",
+      "target": "ref_dist",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_test",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_test",
+      "target": "rallly_turbo_test_inputs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_test_inputs",
+      "target": "ref_src",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_test_inputs",
+      "target": "ref_tests",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_tasks_test",
+      "target": "rallly_turbo_test_env",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_test_env",
+      "target": "ref_ci",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_tasks_test",
+      "target": "rallly_turbo_test_dependson",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_test_dependson",
+      "target": "ref_build_test",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_test_unit",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_test_unit",
+      "target": "rallly_turbo_test_unit_cache",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_test_integration",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_test_integration",
+      "target": "rallly_turbo_test_integration_inputs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_test_integration_inputs",
+      "target": "ref_playwright_config_ts",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_test_integration_inputs",
+      "target": "ref_env_test",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_test_integration_inputs",
+      "target": "ref_src",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_test_integration_inputs",
+      "target": "ref_tests",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_tasks_test_integration",
+      "target": "rallly_turbo_test_integration_cache",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_db_generate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_db_generate",
+      "target": "rallly_turbo_db_generate_cache",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_db_migrate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_db_migrate",
+      "target": "rallly_turbo_db_migrate_cache",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_db_deploy",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_db_deploy",
+      "target": "rallly_turbo_db_deploy_cache",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_type_check",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_type_check",
+      "target": "rallly_turbo_type_check_dependson",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_type_check_dependson",
+      "target": "ref_type_check",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L36",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_tasks_type_check",
+      "target": "rallly_turbo_type_check_outputs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_dev",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_dev",
+      "target": "rallly_turbo_dev_dependson",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_dev_dependson",
+      "target": "ref_db_generate",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L40",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_tasks_dev",
+      "target": "rallly_turbo_dev_cache",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_dev",
+      "target": "rallly_turbo_dev_persistent",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_start",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_start",
+      "target": "rallly_turbo_start_cache",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_start",
+      "target": "rallly_turbo_start_persistent",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_rallly_web_start",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L48",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_rallly_web_start",
+      "target": "rallly_turbo_rallly_web_start_cache",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L49",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_rallly_web_start",
+      "target": "rallly_turbo_rallly_web_start_persistent",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_rallly_landing_start",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L52",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_rallly_landing_start",
+      "target": "rallly_turbo_rallly_landing_start_cache",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L53",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_rallly_landing_start",
+      "target": "rallly_turbo_rallly_landing_start_persistent",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_i18n_scan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L56",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_i18n_scan",
+      "target": "rallly_turbo_i18n_scan_cache",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L57",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_check",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L59",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks",
+      "target": "rallly_turbo_tasks_check_fix",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L60",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_tasks_check_fix",
+      "target": "rallly_turbo_check_fix_cache",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L61",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_turbo_json",
+      "target": "rallly_turbo_globalenv",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_allowed_emails",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_analyze",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_aws_access_key_id",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_aws_region",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_aws_secret_access_key",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_cron_secret",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_database_url",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_direct_database_url",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_email_provider",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_google_client_id",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_google_client_secret",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_kv_rest_api_token",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_kv_rest_api_url",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_license_api_auth_token",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_microsoft_client_id",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_microsoft_client_secret",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_microsoft_tenant_id",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_moderation_enabled",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_next_public",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_next_runtime",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_node_env",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_noreply_email_name",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_noreply_email",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_oidc_client_id",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_oidc_client_secret",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_oidc_discovery_url",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_oidc_email_claim_path",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_oidc_issuer_url",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_oidc_name_claim_path",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_oidc_name",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_oidc_picture_claim_path",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_openai_api_key",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_port",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_rate_limit_enabled",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_quick_create_enabled",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_s3_access_key_id",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_s3_bucket_name",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_s3_endpoint",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_s3_region",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_s3_secret_access_key",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_secret_password",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_sentry_auth_token",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_sentry_dsn",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_sentry_org",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_sentry_project",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_skip_env_validation",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_smtp_host",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_smtp_port",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_smtp_pwd",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_smtp_secure",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_smtp_tls_enabled",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_smtp_user",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_stripe_secret_key",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_stripe_signing_secret",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "rallly_turbo_globalenv",
+      "target": "ref_support_email",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "turbo.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "import"
+    }
+  ]
+}

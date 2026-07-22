@@ -1,0 +1,111 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_apps_docs_self_hosting_single_sign_on_mdx",
+      "label": "single-sign-on.mdx",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/single-sign-on.mdx",
+      "source_location": "L1"
+    },
+    {
+      "id": "self_hosting_single_sign_on_google",
+      "label": "Google",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/single-sign-on.mdx",
+      "source_location": "L15"
+    },
+    {
+      "id": "self_hosting_single_sign_on_microsoft",
+      "label": "Microsoft",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/single-sign-on.mdx",
+      "source_location": "L37"
+    },
+    {
+      "id": "self_hosting_single_sign_on_openid_connect_oidc",
+      "label": "OpenID Connect (OIDC)",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/single-sign-on.mdx",
+      "source_location": "L61"
+    },
+    {
+      "id": "self_hosting_single_sign_on_required_scopes",
+      "label": "Required scopes",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/single-sign-on.mdx",
+      "source_location": "L65"
+    },
+    {
+      "id": "self_hosting_single_sign_on_callback_url",
+      "label": "Callback URL",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/single-sign-on.mdx",
+      "source_location": "L73"
+    },
+    {
+      "id": "self_hosting_single_sign_on_configuration",
+      "label": "Configuration",
+      "file_type": "document",
+      "source_file": "apps/docs/self-hosting/single-sign-on.mdx",
+      "source_location": "L81"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_single_sign_on_mdx",
+      "target": "self_hosting_single_sign_on_google",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/single-sign-on.mdx",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_single_sign_on_mdx",
+      "target": "self_hosting_single_sign_on_microsoft",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/single-sign-on.mdx",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_apps_docs_self_hosting_single_sign_on_mdx",
+      "target": "self_hosting_single_sign_on_openid_connect_oidc",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/single-sign-on.mdx",
+      "source_location": "L61",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_single_sign_on_openid_connect_oidc",
+      "target": "self_hosting_single_sign_on_required_scopes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/single-sign-on.mdx",
+      "source_location": "L65",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_single_sign_on_openid_connect_oidc",
+      "target": "self_hosting_single_sign_on_callback_url",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/single-sign-on.mdx",
+      "source_location": "L73",
+      "weight": 1.0
+    },
+    {
+      "source": "self_hosting_single_sign_on_openid_connect_oidc",
+      "target": "self_hosting_single_sign_on_configuration",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/docs/self-hosting/single-sign-on.mdx",
+      "source_location": "L81",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

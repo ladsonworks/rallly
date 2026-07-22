@@ -1,0 +1,143 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_readme_md",
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "rallly_readme_schedule_group_meetings_without_the_back_and_forth",
+      "label": "Schedule group meetings, without the back-and-forth",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L5"
+    },
+    {
+      "id": "rallly_readme_features",
+      "label": "\u2728 Features",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L29"
+    },
+    {
+      "id": "rallly_readme_cloud_version",
+      "label": "\u2601\ufe0f Cloud version",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L40"
+    },
+    {
+      "id": "rallly_readme_self_hosting",
+      "label": "\ud83d\udc33 Self-hosting",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L46"
+    },
+    {
+      "id": "rallly_readme_built_with",
+      "label": "\ud83d\udee0\ufe0f Built with",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L52"
+    },
+    {
+      "id": "rallly_readme_contributing",
+      "label": "\ud83e\udd1d Contributing",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L56"
+    },
+    {
+      "id": "rallly_readme_license",
+      "label": "\ud83d\udcdc License",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L64"
+    },
+    {
+      "id": "rallly_readme_sponsors",
+      "label": "\ud83d\udc9a Sponsors",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L68"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_readme_md",
+      "target": "rallly_readme_schedule_group_meetings_without_the_back_and_forth",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_readme_md",
+      "target": "rallly_readme_features",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_readme_md",
+      "target": "rallly_readme_cloud_version",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_readme_md",
+      "target": "rallly_readme_self_hosting",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_readme_md",
+      "target": "rallly_readme_built_with",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L52",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_readme_md",
+      "target": "rallly_readme_contributing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L56",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_readme_md",
+      "target": "rallly_readme_license",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L64",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_readme_md",
+      "target": "rallly_readme_sponsors",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L68",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

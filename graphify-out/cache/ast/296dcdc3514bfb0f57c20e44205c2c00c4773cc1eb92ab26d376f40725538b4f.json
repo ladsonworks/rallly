@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "d_ladson_rallly_packages_test_helpers_tsconfig_json",
+      "label": "tsconfig.json",
+      "file_type": "code",
+      "source_file": "packages/test-helpers/tsconfig.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "test_helpers_tsconfig_extends",
+      "label": "extends",
+      "file_type": "code",
+      "source_file": "packages/test-helpers/tsconfig.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "test_helpers_tsconfig_include",
+      "label": "include",
+      "file_type": "code",
+      "source_file": "packages/test-helpers/tsconfig.json",
+      "source_location": "L3"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d_ladson_rallly_packages_test_helpers_tsconfig_json",
+      "target": "test_helpers_tsconfig_extends",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/test-helpers/tsconfig.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "d_ladson_rallly_packages_test_helpers_tsconfig_json",
+      "target": "ref_rallly_tsconfig_node_json",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/test-helpers/tsconfig.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "d_ladson_rallly_packages_test_helpers_tsconfig_json",
+      "target": "test_helpers_tsconfig_include",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/test-helpers/tsconfig.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "test_helpers_tsconfig_include",
+      "target": "ref_ts",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/test-helpers/tsconfig.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "context": "import"
+    }
+  ]
+}
