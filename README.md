@@ -26,7 +26,7 @@
 
 Rallly is an open-source scheduling tool that helps you find the best date and time to meet. Create a poll with a few options, share the link, and let your participants vote on when they're available. No more back-and-forth emails.
 
-## ✨ Features
+## Features
 
 - 📅 **Date & time polls** — Propose multiple options and find what works for everyone
 - 🗳️ **No account needed to vote** — Participants just open the link and respond
