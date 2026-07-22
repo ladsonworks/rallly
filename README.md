@@ -65,7 +65,7 @@ Contributions are welcome! Have a look at the [contributing guide](CONTRIBUTING.
 
 Rallly is open-source under the GNU Affero General Public License Version 3 (AGPLv3) or any later version. See [LICENSE](LICENSE) for more detail.
 
-## 💚 Sponsors
+##  Sponsors
 
 Thank you to our sponsors for making this project possible.
 
