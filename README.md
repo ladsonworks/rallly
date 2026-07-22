@@ -35,7 +35,7 @@ Rallly is an open-source scheduling tool that helps you find the best date and t
 - 🔔 **Notifications** — Get notified when participants respond
 - ✅ **Finalize a date** — Pick the winning option and notify everyone
 - 🌍 **10+ languages** — Community-translated via [Crowdin](https://crowdin.com/project/rallly)
-- 🔒 **Open source & self-hostable** — Own your data
+- 🔒 **Open source and self-hostable** — Own your data
 
 ## ☁️ Cloud version
 
